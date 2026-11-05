@@ -6,133 +6,6 @@
  ],
  "events": [
   {
-   "time": "5:30 pm",
-   "title": "Tips and Tools for Understanding Your Forested Landscape",
-   "category": [
-    "outdoors"
-   ],
-   "where": "Brandon Library, 4 Franklin St, Brandon",
-   "miles": 0,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "date": "2026-11-04"
-  },
-  {
-   "date": "2026-11-04",
-   "time": "5:30-6:30 pm",
-   "title": "Dharma Talk: Sensei Peg Kendo Murray",
-   "category": [
-    "social"
-   ],
-   "where": "76 Court Street, Middlebury (in person or on Zoom)",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "breadloafzen",
-   "link": "https://breadloafmountainzen.org/event/dharma-talk-sensei-peg-kendo-murray-3/",
-   "link_kind": "event",
-   "image": "https://breadloafmountainzen.org/wp-content/uploads/2024/01/peggy.jpg",
-   "desc": "When: Every Wednesday 5:30pm Eastern Time Where: In person 76 Court Street Middlebury VT and online via Zoom (click here for the zoom link) Details: This is a time to […]"
-  },
-  {
-   "time": "6-8 pm (Wednesdays 4-18 Nov)",
-   "title": "Gouache and the Landscape",
-   "category": [
-    "art"
-   ],
-   "where": "Middlebury Studio School, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$115",
-   "source": "studioschool",
-   "link": "https://middleburystudioschool.corsizio.com/event/6aa4147ff568a86de52ef601",
-   "link_kind": "event",
-   "date": "2026-11-04",
-   "image": "https://storage.corsizio.com/uploads/5be357ac86802e0b8fe7a5ac/events/6aa4147ff568a86de52ef601/photo-J3HpfNLPUn7C.webp",
-   "desc": "Discover the versatility and beauty of gouache in this introductory landscape painting course! Students will explore fundamental painting techniques while creating landscapes inspired by subjects of their own choosing. Each week, students…",
-   "tickets": [
-    "https://middleburystudioschool.corsizio.com/register/6aa4147ff568a86de52ef601"
-   ]
-  },
-  {
-   "date": "2026-11-04",
-   "time": "9:00 am",
-   "title": "Coffee Pop up! little seed",
-   "category": [
-    "social"
-   ],
-   "where": "Mahaney Arts Center Lower Lobby, 72 Porter Field Road, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/coffee-pop-little-seed",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/little%20seed%20coffee%20cart.jpg",
-   "desc": "Stop by the MAC lower lobby for hot or iced espresso-based drinks from little seed Coffee Roasters’ mobile cart! &nbsp;Card or venmo only. Watch for the cart on the first Wednesday of the&nbsp;month."
-  },
-  {
-   "time": "show 7:00 pm, doors 6:00",
-   "title": "Dead Sessions Lite",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/dead-sessions-lite-november-4-2026/",
-   "link_kind": "event",
-   "date": "2026-11-04",
-   "image": "https://zenbarnvt.com/wp-content/uploads/2026/11/wednesday-night-dead-2x1-2.jpg",
-   "desc": "🎸 Dead Sessions Lite"
-  },
-  {
-   "time": "show 7:30 pm, doors 7:00",
-   "title": "Porch Light",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://highergroundmusic.com/events/porch-light/",
-   "link_kind": "event",
-   "date": "2026-11-04"
-  },
-  {
-   "time": "time not shown",
-   "title": "Late Fame",
-   "category": [],
-   "where": "Catamount Arts, St. Johnsbury",
-   "miles": 100,
-   "range": "distant",
-   "cost": "",
-   "source": "catamount",
-   "link": "https://www.catamountarts.org/show/details/late-fame/",
-   "link_kind": "event",
-   "dates": [
-    "2026-11-04",
-    "2026-11-05"
-   ],
-   "date": "2026-11-04",
-   "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/1fb64a67-c750-4bde-82d3-d817ccbd6770.jpg",
-   "desc": "Late Fame -",
-   "tickets": [
-    "https://www.catamountarts.org/find-tickets?EventInstanceID=301603",
-    "https://www.catamountarts.org/find-tickets?EventInstanceID=302002"
-   ],
-   "videos": [
-    "https://www.youtube.com/watch?v=FI_7PobKjt0"
-   ]
-  },
-  {
    "date": "2026-11-05",
    "time": "12:40 pm",
    "title": "Howard E. Woodin Environmental Studies Colloquium Series",
@@ -188,7 +61,7 @@
    "time": "5:30 pm",
    "title": "Can't Look Away: the Case Against Social Media film screening and panel discussion",
    "category": [
-    "theater"
+    "film"
    ],
    "where": "Dana Auditorium (Sunderland Language Center), 356 College Street, Middlebury College",
    "miles": 17,
@@ -204,8 +77,7 @@
    "time": "5:30-8 pm",
    "title": "\"Can't Look Away\" film screening and conversation on social media and youth",
    "category": [
-    "theater",
-    "social"
+    "film"
    ],
    "where": "Dana Auditorium, Middlebury College",
    "miles": 17,
@@ -675,8 +547,8 @@
    "time": "7:00 pm",
    "title": "Classic Film with Live Music: \"The Navigator\"",
    "category": [
-    "music",
-    "theater"
+    "film",
+    "music"
    ],
    "where": "Brandon Town Hall, 1 Conant Square, Brandon",
    "miles": 0,
@@ -692,7 +564,7 @@
    "time": "7:00 pm",
    "title": "The Middlebury Ski and Snowboard Club and Teton Gravity Research present \"Actually, It Is Rocket Science\" a ski film",
    "category": [
-    "theater"
+    "film"
    ],
    "where": "Middlebury College",
    "miles": 17,
