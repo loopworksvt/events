@@ -1,81 +1,14 @@
 {
- "scanned": "2026-11-04",
+ "scanned": "2026-11-05",
  "window": [
-  "2026-11-04",
-  "2026-11-08"
+  "2026-11-05",
+  "2026-12-05"
  ],
  "events": [
   {
    "date": "2026-11-05",
-   "time": "12:40 pm",
-   "title": "Howard E. Woodin Environmental Studies Colloquium Series",
-   "category": [
-    "social"
-   ],
-   "where": "Franklin Environmental Center, The Orchard-Hillcrest 103, 531 College Street, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/howard-e-woodin-environmental-studies-colloquium-series-102",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/image-image_id-5088-caller-S25ImageService-getUrl-pro-1787917155418.jpg",
-   "desc": "“Desertification Archives: Global Black Ecologies and Anticipating Terror” a Howard E. Woodin Environmental Studies Colloquium Series talk by&nbsp;Brittany&nbsp;Meché,&nbsp;Assistant Professor of Environmental Studies, Affiliated Faculty…"
-  },
-  {
-   "time": "4:30 pm",
-   "title": "Margaret Jacobs Cameron Visiting Artist Lecture",
-   "category": [
-    "art"
-   ],
-   "where": "Johnson Classroom 204, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "addisonarts",
-   "link": "https://addisonarts.org/event/margaret-jacobs-cameron-visiting-artist-lecture/",
-   "link_kind": "event",
-   "date": "2026-11-05",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-margaret-jacobs-cameron-visiting-artist-lecture-1792506812.jpeg",
-   "desc": "Margaret Jacobs is a Kanien’kehá:ka (Mohawk) metalsmith, who creates fabricated steel sculpture that showcase and explore kinships to botanicals and the natural world as well as values systems that we hold as humans."
-  },
-  {
-   "date": "2026-11-05",
-   "time": "4:30 pm",
-   "title": "Chasing Bandits, Disrupting Order: Terrorism and Imperialism in the Long American Century",
-   "category": [
-    "social"
-   ],
-   "where": "Robert A. Jones '59 Conference Room, 148 Hillcrest Road, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/chasing-bandits-disrupting-order-terrorism-and-imperialism-long-american-century",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/image-image_id-5168-caller-S25ImageService-getUrl-pro-1789391412581.jpg",
-   "desc": "The Rohatyn Center for Global Affairs program on Global and International History presents “Chasing Bandits, Disrupting Order: Terrorism and Imperialism in the Long American Century” with Michael E.&nbsp;Neagle."
-  },
-  {
-   "date": "2026-11-05",
    "time": "5:30 pm",
-   "title": "Can't Look Away: the Case Against Social Media film screening and panel discussion",
-   "category": [
-    "film"
-   ],
-   "where": "Dana Auditorium (Sunderland Language Center), 356 College Street, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/cant-look-away-case-against-social-media-film-screening-and-panel-discussion",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/110526%20Can%27t%20Look%20Away%20screening.jpg",
-   "desc": "Based on investigative reporting by Bloomberg News, Can&#8217;t Look Away: the Case Against Social Media&nbsp;exposes the real-world consequences of tech companies’ digital practices and widespread concerns over harmful…"
-  },
-  {
-   "time": "5:30-8 pm",
-   "title": "\"Can't Look Away\" film screening and conversation on social media and youth",
+   "title": "Can't Look Away: film screening and panel",
    "category": [
     "film"
    ],
@@ -86,120 +19,50 @@
    "source": "addisonindependent",
    "link": "https://www.middlebury.edu/events/event/cant-look-away-case-against-social-media-film-screening-and-panel-discussion",
    "link_kind": "event",
-   "date": "2026-11-05",
    "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/110526%20Can%27t%20Look%20Away%20screening.jpg",
    "desc": "Based on investigative reporting by Bloomberg News, Can&#8217;t Look Away: the Case Against Social Media&nbsp;exposes the real-world consequences of tech companies’ digital practices and widespread concerns over harmful…"
   },
   {
+   "date": "2026-11-05",
+   "time": "6:00 pm",
+   "title": "Fjord",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/purchase/418917/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "6:30 pm",
+   "title": "You Can See Everything",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "http://savoytheater.com/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-05",
    "time": "7:00 pm",
-   "title": "Grand Kyiv Ballet Presents Swan Lake: Symphony of Lights",
-   "category": [
-    "dance"
-   ],
-   "where": "Chandler Music Hall, Randolph",
-   "miles": 40,
-   "range": "distant",
-   "cost": "",
-   "source": "chandler",
-   "link": "https://www.chandler-arts.org/cca-events/grand-kyiv-ballet-presents-swan-lake-",
-   "link_kind": "event",
-   "date": "2026-11-05",
-   "image": "https://static.wixstatic.com/media/f4efc9_d3b58928c6f84597aa5dbd181c8a1520~mv2.jpg/v1/fill/w_1080,h_1080,al_c,q_85/Swan-Lake-Symphony-of-Lights-1080%D1%851080.jpg",
-   "desc": "64d3aaa2-cbc2-45b9-bc96-413b21263361",
-   "tickets": [
-    "https://tickets.chandler-arts.org/events/chandlercenterforthearts/2108851"
-   ]
-  },
-  {
-   "time": "7:30 pm",
-   "title": "\"Leaving the US, Entering a Yoruba Kingdom\"",
-   "category": [
-    "social"
-   ],
-   "where": "Mahaney Arts Center Dance Theatre, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "date": "2026-11-05"
-  },
-  {
-   "date": "2026-11-05",
-   "time": "7:30 pm",
-   "title": "Leaving the US, entering a Yoruba kingdom",
-   "category": [
-    "social"
-   ],
-   "where": "Mahaney Arts Center Dance Theatre, 72 Porter Field Road, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/leaving-us-entering-yoruba-kingdom",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/Leaving%20the%20US.png",
-   "desc": "Join us for a dance and lecture presentation that celebrates Africa and its&nbsp;diaspora."
-  },
-  {
-   "title": "Tartuffe (Middlebury Acting Company)",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "addisonarts",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "dates": [
-    "2026-11-05",
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "7:30 pm",
-   "date": "2026-11-05",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ]
-  },
-  {
-   "time": "show 7:00 pm, doors 6:00",
-   "title": "High Horse",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/high-horse-november-5-2026/",
-   "link_kind": "event",
-   "date": "2026-11-05",
-   "image": "https://zenbarnvt.com/wp-content/uploads/2026/11/IMG_5139-2-1024x512.jpg",
-   "desc": "HIGH HORSE is a Boston-based progressive-acoustic stringband breathing the energy of alternative rock into an indelible blend of Bluegrass, Old-time, and Folk"
-  },
-  {
-   "time": "time not shown",
    "title": "Late Fame",
-   "category": [],
-   "where": "Catamount Arts, St. Johnsbury",
+   "category": [
+    "film"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
    "miles": 100,
    "range": "distant",
-   "cost": "",
    "source": "catamount",
    "link": "https://www.catamountarts.org/show/details/late-fame/",
    "link_kind": "event",
-   "dates": [
-    "2026-11-04",
-    "2026-11-05"
-   ],
-   "date": "2026-11-05",
    "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/1fb64a67-c750-4bde-82d3-d817ccbd6770.jpg",
    "desc": "Late Fame -",
    "tickets": [
@@ -211,7 +74,67 @@
    ]
   },
   {
-   "time": "10 am-1 pm",
+   "date": "2026-11-05",
+   "dates": [
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:30 pm",
+   "title": "Tartuffe (MCT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$15-$39",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tartuffe/",
+   "link_kind": "event",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
+   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
+   "tickets": [
+    "https://app.arts-people.com/index.php?show=348960"
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "7:30 pm",
+   "title": "Leaving the US, Entering a Yoruba Kingdom",
+   "category": [
+    "dance"
+   ],
+   "where": "Mahaney Arts Center Dance Theatre, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-05",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "High Horse",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/high-horse-november-5-2026/",
+   "link_kind": "event",
+   "image": "https://zenbarnvt.com/wp-content/uploads/2026/11/IMG_5139-2-1024x512.jpg",
+   "desc": "HIGH HORSE is a Boston-based progressive-acoustic stringband breathing the energy of alternative rock into an indelible blend of Bluegrass, Old-time, and Folk"
+  },
+  {
+   "date": "2026-11-06",
    "title": "Handmade Books: A Sampler Workshop",
    "category": [
     "art"
@@ -223,7 +146,6 @@
    "source": "studioschool",
    "link": "https://middleburystudioschool.corsizio.com/event/6a88ad71ef133e6881402f38",
    "link_kind": "event",
-   "date": "2026-11-06",
    "image": "https://storage.corsizio.com/uploads/5be357ac86802e0b8fe7a5ac/events/6a88ad71ef133e6881402f38/photo-X7JG9Gs5Gk8E.jpg",
    "desc": "Join us for an introductory workshop on book making. We",
    "tickets": [
@@ -232,73 +154,64 @@
   },
   {
    "date": "2026-11-06",
-   "time": "2:30 pm",
-   "title": "Engines of Power: Energy, Trade, and Statecraft",
+   "title": "Rocky Horror Picture Show",
    "category": [
-    "social"
+    "film"
    ],
-   "where": "Robert A. Jones '59 Conference Room, 148 Hillcrest Road, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/engines-power-energy-trade-and-statecraft",
-   "link_kind": "event",
-   "desc": "Critical chokepoints in global supply chains &ndash; such as Black Sea ports and the Strait of Hormuz &ndash; concentrate economic power and generate opportunities for state coercion. In this year&rsquo;s International Politics and…"
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/the-rocky-horror-picture-show-3/",
+   "link_kind": "event"
   },
   {
    "date": "2026-11-06",
-   "time": "3:00-4:30 pm",
-   "title": "Priests and Postulants Meeting",
+   "title": "La Bola Negra",
    "category": [
-    "social"
+    "film"
    ],
-   "where": "on Zoom (Bread Loaf Mountain Zen Community)",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "breadloafzen",
-   "link": "https://breadloafmountainzen.org/event/priests-and-postulants-meeting/2026-11-06/",
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/la-bola-negra/",
    "link_kind": "event",
-   "note": "Zoom",
-   "image": "https://breadloafmountainzen.org/wp-content/uploads/2025/08/BLMZC-altar-2.jpeg",
-   "desc": "A biweekly meeting of the Priests and Postulants of Bread Loaf Mountain Zen Community. Please log in to our Community Table to find the prompt and zoom link."
+   "note": "also a separate screening at Middlebury College Nov 12"
   },
   {
    "date": "2026-11-06",
-   "time": "4:00 pm",
-   "title": "5th Annual Knoll Hot Sauce (Friendly!) Competition",
+   "title": "All Night Boogie Band / Fruit Bats",
    "category": [
-    "social"
+    "music"
    ],
-   "where": "Franklin Environmental Center, The Orchard-Hillcrest 103, 531 College Street, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/5th-annual-knoll-hot-sauce-friendly-competition",
-   "link_kind": "event",
-   "desc": "Hot sauce taste testing and gathering for the end of the&nbsp;year"
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "cost": "$15-$50",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, act/date pairing uncertain"
   },
   {
-   "time": "5:30-7 pm",
-   "title": "Considering the Life Museum",
+   "date": "2026-11-06",
+   "time": "2:30-3:30 pm",
+   "title": "2026 Toys for Kids Holiday Train",
    "category": [
     "social"
    ],
-   "where": "Ilsley Public Library per addisonarts, Henry Sheldon Museum per addisonindependent, Middlebury",
+   "where": "Middlebury Train Station, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
-   "source": "addisonarts",
-   "link": "https://addisonarts.org/event/considering-the-life-museum/",
-   "link_kind": "event",
-   "date": "2026-11-06",
-   "image": "https://addisonarts.org/wp-content/themes/apollo/inc/admin/assets/images/placeholder.png",
-   "desc": "An illustrated presentation by Frankie Vagnone, author of the Anarchist Guide to Historic House Museums and Founder of Twisted Preservation."
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar"
   },
   {
-   "time": "6:00 pm (addisonindependent lists 4:30-7)",
+   "date": "2026-11-06",
+   "time": "4:30-7 pm",
    "title": "An Evening with Devon O'Neil",
    "category": [
     "social"
@@ -307,10 +220,9 @@
    "miles": 17,
    "range": "local",
    "cost": "$8",
-   "source": "townhall",
+   "source": "addisonindependent",
    "link": "https://addisonarts.org/event/an-evening-with-devon-oneil/",
    "link_kind": "event",
-   "date": "2026-11-06",
    "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-an-evening-with-devon-oneil-1792454614-787x600.png",
    "desc": "An evening in conversation with journalist and Middlebury College graduate Devon O’Neil",
    "tickets": [
@@ -318,19 +230,66 @@
    ]
   },
   {
+   "date": "2026-11-06",
+   "time": "5-5:30 pm",
+   "title": "HSM Annual Meeting",
+   "category": [
+    "social"
+   ],
+   "where": "Ilsley Public Library, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "sheldon",
+   "link": "https://henrysheldonmuseum.org/events/hsm-annual-meeting",
+   "link_kind": "event",
+   "note": "members and trustees only"
+  },
+  {
+   "date": "2026-11-06",
+   "time": "5-7 pm",
+   "title": "Holiday Art Market Reception",
+   "category": [
+    "art"
+   ],
+   "where": "Brandon Artists Guild, Brandon",
+   "miles": 0,
+   "range": "local",
+   "cost": "free",
+   "source": "artistsguild",
+   "link": "https://www.brandonartistsguild.org/events/holiday-art-market-reception-2026",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-06",
+   "time": "5:30-7 pm",
+   "title": "Considering the Life Museum",
+   "category": [
+    "social"
+   ],
+   "where": "Ilsley Public Library, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/considering-the-life-museum/",
+   "link_kind": "event",
+   "image": "https://addisonarts.org/wp-content/themes/apollo/inc/admin/assets/images/placeholder.png",
+   "desc": "An illustrated presentation by Frankie Vagnone, author of the Anarchist Guide to Historic House Museums and Founder of Twisted Preservation."
+  },
+  {
+   "date": "2026-11-06",
    "time": "7:00 pm",
    "title": "Dorrance Dance",
    "category": [
     "dance"
    ],
-   "where": "Catamount Arts, St. Johnsbury",
+   "where": "Catamount Arts, St Johnsbury",
    "miles": 100,
    "range": "distant",
-   "cost": "",
    "source": "catamount",
    "link": "https://www.catamountarts.org/show/details/dorrance-dance/",
    "link_kind": "event",
-   "date": "2026-11-06",
    "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/32128a88-e79c-4631-b1b1-9c350f7582d6.jpg",
    "desc": "Dorrance Dance -",
    "tickets": [
@@ -341,48 +300,17 @@
    ]
   },
   {
-   "title": "Once Upon a One More Time",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/events/one-more-time/",
-   "link_kind": "event",
+   "date": "2026-11-06",
    "dates": [
+    "2026-11-05",
     "2026-11-06",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
    ],
-   "time": "7:00 pm",
-   "date": "2026-11-06",
-   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
-   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
-   "tickets": [
-    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
-   ]
-  },
-  {
    "time": "7:30 pm",
-   "title": "Katarina String Quartet",
-   "category": [
-    "music"
-   ],
-   "where": "Robison Concert Hall, Mahaney Arts Center, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonarts",
-   "link": "https://addisonarts.org/event/katarina-string-quartet/",
-   "link_kind": "event",
-   "date": "2026-11-06",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-katarina-string-quartet-1791902810.jpeg",
-   "desc": "Fresh off their Juilliard residency, the multi-award-winning Katarina String Quartet makes a Vermont debut in our annual free quartet concert, courtesy of the Sunderman Family Concert Fund."
-  },
-  {
-   "title": "Tartuffe (Middlebury Acting Company)",
+   "title": "Tartuffe (MCT)",
    "category": [
     "theater"
    ],
@@ -390,16 +318,10 @@
    "miles": 17,
    "range": "local",
    "cost": "$15-$39",
-   "source": "addisonarts",
+   "source": "townhall",
    "link": "https://addisonarts.org/event/tartuffe/",
    "link_kind": "event",
-   "dates": [
-    "2026-11-05",
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "7:30 pm",
-   "date": "2026-11-06",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
    "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
    "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
    "tickets": [
@@ -407,58 +329,25 @@
    ]
   },
   {
-   "time": "evening (time not shown)",
-   "title": "Get the Led Out",
+   "date": "2026-11-06",
+   "time": "7:30 pm",
+   "title": "Katarina String Quartet",
    "category": [
     "music"
    ],
-   "where": "Paramount Theatre, Rutland",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
-   "cost": "",
-   "source": "paramount",
-   "link": "https://paramountvt.org/event/get-the-led-out/",
+   "cost": "free",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/katarina-string-quartet/",
    "link_kind": "event",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-katarina-string-quartet-1791902810.jpeg",
+   "desc": "Fresh off their Juilliard residency, the multi-award-winning Katarina String Quartet makes a Vermont debut in our annual free quartet concert, courtesy of the Sunderman Family Concert Fund."
+  },
+  {
    "date": "2026-11-06",
-   "image": "https://paramountvt.org/wp-content/uploads/2026/08/GettheLedOut_350x350webcube.jpg",
-   "desc": "<p>7:30PM Lobby doors open: 6:30PM Seating begins: 7PM Tickets: $45, $55 + tax/fees From the bombastic and epic, to the folky and mystical, Get the Led Out (GTLO) has captured the essence of the recorded music of Led Zeppelin and brought…",
-   "tickets": [
-    "https://ci.ovationtix.com/36265",
-    "https://ci.ovationtix.com/36265/performance/11852318"
-   ]
-  },
-  {
-   "time": "show 7:30 pm, doors 7:00",
-   "title": "All Night Boogie Band",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://highergroundmusic.com/events/all-night-boogie-band/",
-   "link_kind": "event",
-   "date": "2026-11-06"
-  },
-  {
-   "time": "show 8:00 pm, doors 7:00",
-   "title": "Fruit Bats",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://highergroundmusic.com/events/fruit-bats/",
-   "link_kind": "event",
-   "date": "2026-11-06"
-  },
-  {
-   "time": "show 8:00 pm, doors 7:00",
+   "time": "show 8 pm, doors 7 pm",
    "title": "Annie in the Water",
    "category": [
     "music"
@@ -466,44 +355,69 @@
    "where": "ZenBarn, Waterbury Center",
    "miles": 70,
    "range": "distant",
-   "cost": "",
    "source": "zenbarn",
    "link": "https://zenbarnvt.com/event/annie-in-the-water-november-6-2026/",
    "link_kind": "event",
-   "date": "2026-11-06",
    "image": "https://zenbarnvt.com/wp-content/uploads/2026/11/aitw-2.jpg",
    "desc": "Annie in the Water is an experience and a culture of compassion and joy. The band's Americana Indie Rock found its roots in acoustic guitars without limits."
   },
   {
-   "time": "time not shown",
-   "title": "The Rocky Horror Picture Show",
+   "date": "2026-11-07",
+   "title": "Willi Carlisle / Nightrain + Sticks and Stones",
    "category": [
-    "theater"
+    "music"
    ],
-   "where": "Savoy Theater, Montpelier",
-   "miles": 65,
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
    "range": "distant",
-   "cost": "",
-   "source": "savoy",
-   "link": "http://savoytheater.com/",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
    "link_kind": "calendar",
-   "date": "2026-11-06"
+   "note": "page partially read, act/date pairing uncertain"
   },
   {
    "date": "2026-11-07",
-   "time": "10:00 am-6:00 pm",
+   "time": "1-3 pm",
+   "title": "Crafternoon",
+   "category": [
+    "art"
+   ],
+   "where": "Brandon Free Public Library, Brandon",
+   "miles": 0,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "10 am-2 pm",
+   "title": "12th Annual Artisan Fair",
+   "category": [
+    "art"
+   ],
+   "where": "Residence at Otter Creek, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "10 am-6 pm",
    "title": "St. Peter's Penny Fair",
    "category": [
     "social"
    ],
-   "where": "St. Peter's Parish Hall, 85 S. Maple St, Vergennes",
+   "where": "St Peter's Parish Hall, Vergennes",
    "miles": 28,
    "range": "local",
-   "cost": "",
    "source": "addisonindependent",
    "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "note": "Vergennes"
+   "link_kind": "calendar"
   },
   {
    "date": "2026-11-07",
@@ -512,31 +426,77 @@
    "category": [
     "social"
    ],
-   "where": "Bixby Memorial Free Library, 258 Main St, Vergennes",
+   "where": "Bixby Memorial Free Library, Vergennes",
    "miles": 28,
    "range": "local",
    "cost": "free",
    "source": "addisonindependent",
    "link": "https://bixbylibrary.org/event/bring-your-grandparent-to-the-library-day/",
    "link_kind": "event",
-   "note": "Vergennes",
+   "note": "Vergennes is an in-bounds town",
    "desc": "Calling all grandchildren! It’s time to show your grandparents around the library. Bring them in for bingo, crafts, refreshments, and an extra special"
   },
   {
-   "time": "7-9 pm (doors 6:30)",
+   "date": "2026-11-07",
+   "time": "5:00 pm",
+   "title": "Members Event: Friends of the Art Museum Purchase Party",
+   "category": [
+    "art"
+   ],
+   "where": "Kirk Alumni Center, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "members",
+   "source": "mcma",
+   "link": "https://midd.art/purchase26",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7-8:30 pm",
+   "title": "Play Every Town Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Whiting Community Church, Whiting",
+   "miles": 15,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.PlayEveryTown.com",
+   "link_kind": "event",
+   "note": "venue not verified, Whiting not in Sources.md, distance estimated"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:00 pm",
+   "title": "Silent Film with Live Music: \"The Navigator\"",
+   "category": [
+    "film"
+   ],
+   "where": "Brandon Town Hall, Brandon",
+   "miles": 0,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:00 pm, doors 6:30 pm",
    "title": "Star Radio Hour: \"Over the Moon\"",
    "category": [
-    "music",
-    "theater"
+    "music"
    ],
    "where": "Seven Stars Arts Center, Sharon",
    "miles": 50,
    "range": "distant",
-   "cost": "$20 online, $25 at the door, free for children 12 and under",
+   "cost": "$20 online / $25 door",
    "source": "sevenstars",
    "link": "https://events.humanitix.com/star-radio-hour-s-over-the-moon",
    "link_kind": "event",
-   "date": "2026-11-07",
+   "note": "included by your exception",
    "image": "https://images.humanitix.com/i/8f21f6ba-0d26-40ff-8fba-32c124aa81f0.png@seo-500.jpg",
    "desc": "Star Radio Hour",
    "tickets": [
@@ -544,85 +504,17 @@
    ]
   },
   {
-   "time": "7:00 pm",
-   "title": "Classic Film with Live Music: \"The Navigator\"",
-   "category": [
-    "film",
-    "music"
-   ],
-   "where": "Brandon Town Hall, 1 Conant Square, Brandon",
-   "miles": 0,
-   "range": "local",
-   "cost": "free, donations welcome",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "date": "2026-11-07"
-  },
-  {
    "date": "2026-11-07",
-   "time": "7:00 pm",
-   "title": "The Middlebury Ski and Snowboard Club and Teton Gravity Research present \"Actually, It Is Rocket Science\" a ski film",
-   "category": [
-    "film"
-   ],
-   "where": "Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/middlebury-ski-and-snowboard-club-and-teton-gravity-research-present-actually-it-rocket",
-   "link_kind": "event",
-   "tickets": [
-    "https://tetongravity.myeventscenter.com/event/Middlebury-Vt-Dana-Auditorium-At-Middlebury-134017"
-   ],
-   "videos": [
-    "https://www.youtube.com/watch?v=zvn322bnNgo&t=3s"
-   ]
-  },
-  {
-   "title": "Once Upon a One More Time",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/events/one-more-time/",
-   "link_kind": "event",
    "dates": [
+    "2026-11-05",
     "2026-11-06",
-    "2026-11-07"
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
    ],
-   "time": "7:00 pm",
-   "date": "2026-11-07",
-   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
-   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
-   "tickets": [
-    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
-   ]
-  },
-  {
    "time": "7:30 pm",
-   "title": "Middlebury College Orchestra Fall Concert",
-   "category": [
-    "music"
-   ],
-   "where": "Robison Concert Hall, Mahaney Arts Center, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonarts",
-   "link": "https://addisonarts.org/event/middlebury-college-orchestra-5/",
-   "link_kind": "event",
-   "date": "2026-11-07",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-middlebury-college-orchestra-1792607129-scaled.jpeg",
-   "desc": "This concert will also be streamed, with access to the performance stream available starting at showtime."
-  },
-  {
-   "title": "Tartuffe (Middlebury Acting Company)",
+   "title": "Tartuffe (MCT)",
    "category": [
     "theater"
    ],
@@ -630,16 +522,10 @@
    "miles": 17,
    "range": "local",
    "cost": "$15-$39",
-   "source": "addisonarts",
+   "source": "townhall",
    "link": "https://addisonarts.org/event/tartuffe/",
    "link_kind": "event",
-   "dates": [
-    "2026-11-05",
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "7:30 pm",
-   "date": "2026-11-07",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
    "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
    "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
    "tickets": [
@@ -647,82 +533,80 @@
    ]
   },
   {
-   "time": "7:30 pm (doors 7:00)",
-   "title": "Maya de Vitry album release concert at Burnham Presents",
+   "date": "2026-11-07",
+   "time": "7:30 pm",
+   "title": "Middlebury College Orchestra",
    "category": [
     "music"
    ],
-   "where": "Burnham Presents, Lincoln",
+   "where": "Robison Concert Hall, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/middlebury-college-orchestra-5/",
+   "link_kind": "event",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-middlebury-college-orchestra-1792607129-scaled.jpeg",
+   "desc": "This concert will also be streamed, with access to the performance stream available starting at showtime."
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:30-10 pm",
+   "title": "Maya de Vitry Album Release Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Burnham Hall, Lincoln",
    "miles": 30,
    "range": "distant",
-   "cost": "",
+   "cost": "$25-$30",
    "source": "burnham",
    "link": "https://www.burnhampresents.org/event-details/maya-de-vitry",
    "link_kind": "event",
    "note": "included by your exception",
-   "date": "2026-11-07",
    "image": "https://static.wixstatic.com/media/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp/v1/fill/w_2500,h_1667,al_c/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp",
    "desc": "Maya"
   },
   {
-   "time": "show 7:30 pm, doors 7:00",
-   "title": "Willi Carlisle",
+   "date": "2026-11-07",
+   "time": "9 am-2 pm",
+   "title": "Craft Fair and Basket Raffle",
+   "category": [
+    "social"
+   ],
+   "where": "Addison County Eagles Club, Vergennes",
+   "miles": 28,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://addisoncountyeagles.org/event-info",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-08",
+   "title": "Learning To Fly: Student Spotlight Showcase",
    "category": [
     "music"
    ],
    "where": "Higher Ground, South Burlington",
    "miles": 55,
    "range": "distant",
-   "cost": "",
    "source": "higherground",
-   "link": "https://highergroundmusic.com/events/willi-carlisle/",
-   "link_kind": "event",
-   "date": "2026-11-07"
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar"
   },
   {
-   "time": "show 7:30 pm, doors 7:00",
-   "title": "Nightrain + Sticks and Stones",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://highergroundmusic.com/events/nightrain-sticks-and-stones/",
-   "link_kind": "event",
-   "date": "2026-11-07"
-  },
-  {
-   "time": "time not shown",
-   "title": "Choir! Choir! Choir! Presents: Landslide: An Epic Fleetwood Mac Singalong",
-   "category": [
-    "music"
-   ],
-   "where": "Barre Opera House, Barre",
-   "miles": 65,
-   "range": "distant",
-   "cost": "",
-   "source": "barre",
-   "link": "https://ci.ovationtix.com/36347/production/1268996",
-   "link_kind": "event",
-   "date": "2026-11-07"
-  },
-  {
+   "date": "2026-11-08",
    "time": "1:00 pm",
    "title": "Vermont Vets Town Hall",
    "category": [
     "social"
    ],
-   "where": "Catamount Arts, St. Johnsbury",
+   "where": "Catamount Arts, St Johnsbury",
    "miles": 100,
    "range": "distant",
-   "cost": "",
    "source": "catamount",
    "link": "https://www.catamountarts.org/show/details/vermont-vets-town-hall/",
    "link_kind": "event",
-   "date": "2026-11-08",
    "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/241bfe8f-2bb6-4ff1-847b-41c65de75f53.jpg",
    "desc": "Vermont Vets Town Hall -",
    "tickets": [
@@ -732,23 +616,8 @@
   },
   {
    "date": "2026-11-08",
-   "time": "1:00 pm",
-   "title": "Shape Note Singing",
-   "category": [
-    "music"
-   ],
-   "where": "McCullough - Mitchell Green Lounge, 14 Old Chapel Road, Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/shape-note-singing-31",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/events/sites/default/files/event_photos/YoungAndOldShapeNoteSingers%20smaller.jpg",
-   "desc": "Described as spiritual, joyful, powerful, and raucous, Shape Note (or Sacred Harp) singing is a traditional American style of four-part, a capella, community singing popular in the United States before the Civil War. This style still…"
-  },
-  {
-   "title": "Tartuffe (Middlebury Acting Company)",
+   "time": "2:00 pm",
+   "title": "Tartuffe (MCT) - matinee",
    "category": [
     "theater"
    ],
@@ -756,31 +625,14 @@
    "miles": 17,
    "range": "local",
    "cost": "$15-$39",
-   "source": "addisonarts",
+   "source": "townhall",
    "link": "https://addisonarts.org/event/tartuffe/",
    "link_kind": "event",
-   "date": "2026-11-08",
-   "time": "2:00 pm",
    "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
    "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
    "tickets": [
     "https://app.arts-people.com/index.php?show=348960"
    ]
-  },
-  {
-   "time": "3:00 pm",
-   "title": "\"Looking for Joe: The Amazing Life and Times of Joseph Addison\"",
-   "category": [
-    "social"
-   ],
-   "where": "Addison Fire Station, 44 VT Rt 17 W, Addison",
-   "miles": 22,
-   "range": "local",
-   "cost": "free; donations to the Addison Town Historical Society",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "date": "2026-11-08"
   },
   {
    "date": "2026-11-08",
@@ -789,68 +641,26 @@
    "category": [
     "music"
    ],
-   "where": "Middlebury College",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/college-choir-and-catamount-singers-concert",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/college-choir-and-catamount-singers-in-concert/",
    "link_kind": "event"
   },
   {
-   "title": "Once Upon a One More Time",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/events/one-more-time/",
-   "link_kind": "event",
    "date": "2026-11-08",
-   "time": "3:00 pm",
-   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
-   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
-   "tickets": [
-    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
-   ]
-  },
-  {
-   "time": "3:30-5 pm",
-   "title": "MALT & Mingle",
-   "category": [
-    "social"
-   ],
-   "where": "Waybury Inn, 457 East Main St, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonindependent",
-   "link": "https://www.maltvt.org/events/malt-amp-mingle",
-   "link_kind": "event",
-   "date": "2026-11-08",
-   "image": "http://static1.squarespace.com/static/5dbee1de270af32a34768217/t/6ada289e5c8e5753999a4ff1/1792682142755/MALT+%26+Mingle+Series+%284%29.png?format=1500w",
-   "desc": "WHO: Kevin Fox is Executive Director of the Middlebury Area Land Trust (MALT) who previously spent 16 years as a US Foreign Service Officer, with overseas assignments in Jamaica, Israel/West Bank & Gaza, the Democratic Republic of the…",
-   "tickets": [
-    "https://secure.lglforms.com/form_engine/s/Bfj2zwyH8Lk7Z315X8iHnw"
-   ]
-  },
-  {
    "time": "5:00 pm",
-   "title": "\"Small Works\" show reception",
+   "title": "\"Small Works\" Show Reception",
    "category": [
     "art"
    ],
-   "where": "Catamount Arts, St. Johnsbury",
+   "where": "Catamount Arts, St Johnsbury",
    "miles": 100,
    "range": "distant",
-   "cost": "",
    "source": "catamount",
    "link": "https://www.catamountarts.org/show/details/small-works-show-reception/",
    "link_kind": "event",
-   "date": "2026-11-08",
    "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/545050d9-a6a4-4e2a-a110-6dc07e985e69.jpg",
    "desc": "\"Small Works\" - Show Reception -",
    "tickets": [
@@ -858,104 +668,1620 @@
    ]
   },
   {
-   "date": "2026-11-08",
-   "time": "7:30-10:00 am",
-   "title": "Masons' Monthly Charity Fundraising Breakfast",
+   "date": "2026-11-09",
+   "time": "12:00-1:00 pm",
+   "title": "Householder Koans (online)",
    "category": [
     "social"
    ],
-   "where": "Libanus Lodge #47, 2 Elm Street, Bristol",
-   "miles": 26,
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
    "range": "local",
-   "cost": "$9 adults, $5 under 12",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "note": "Bristol"
+   "cost": "free",
+   "source": "breadloafzen",
+   "link": "https://breadloafmountainzen.org/event/householder-koans-2-2/2026-11-09/",
+   "link_kind": "event",
+   "note": "protected source"
   },
   {
-   "time": "show 7:00 pm, doors 6:30",
-   "title": "Learning To Fly: Student Spotlight Showcase",
+   "date": "2026-11-09",
+   "time": "5:15-6:30 pm",
+   "title": "Meditation for a Shared World (virtual)",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "breadloafzen",
+   "link": "https://breadloafmountainzen.org/event/meditation-for-a-shared-world-2/",
+   "link_kind": "event",
+   "note": "protected source"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "6:30 pm",
+   "title": "Choral Concert featuring Sol y Canto",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/uvmc-choral-concert/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "show 6 pm, doors 5 pm",
+   "title": "Bolton Outdoor Adventure Fund Presents Stick Season Social w/ The Wormdogs",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/bolton-outdoor-adventure-fund-presents-stick-season-social-with-the-wormdogs-november-10-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-11",
+   "title": "Weatherday and Sleep",
    "category": [
     "music"
    ],
    "where": "Higher Ground, South Burlington",
    "miles": 55,
    "range": "distant",
-   "cost": "",
    "source": "higherground",
-   "link": "https://highergroundmusic.com/events/learning-to-fly-student-spotlight-showcase/",
-   "link_kind": "event",
-   "date": "2026-11-08"
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar"
   },
   {
-   "time": "time not shown",
-   "title": "Punch Brothers",
+   "date": "2026-11-11",
+   "time": "4:30 pm",
+   "title": "Movement Matters: Grounded Up with Tomo Sone",
+   "category": [
+    "dance"
+   ],
+   "where": "Mahaney Arts Center Dance Theatre, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/movement-matters-grounded-up-with-tomo-sone/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "6:00 pm",
+   "title": "Baby Face",
+   "category": [
+    "film"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/baby-face/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Zach Nugent",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/zach-nugent-november-11-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "4:30 pm",
+   "title": "Professionalizing the Environment: Architecture and Regulation in the Age of Ecology",
+   "category": [
+    "social"
+   ],
+   "where": "Johnson Classroom 204, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/professionalizing-the-environment-architecture-and-regulation-in-the-age-of-ecology/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "5:00-6:30 pm",
+   "title": "Talk: Mosques of Mud, Bazaars, and Mirrors",
+   "category": [
+    "social"
+   ],
+   "where": "Ilsley Public Library, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "sheldon",
+   "link": "https://henrysheldonmuseum.org/events/talk-mosques-of-mud-bazaars-and-mirrors-thresholds-of-muslimness-with-zahra-moeini-meybodi",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "5:30 pm",
+   "title": "Family Vets Town Hall",
+   "category": [
+    "social"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/family-vets-town-hall/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "dates": [
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:30 pm",
+   "title": "Tartuffe (MCT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$15-$39",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tartuffe/",
+   "link_kind": "event",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
+   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
+   "tickets": [
+    "https://app.arts-people.com/index.php?show=348960"
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "7:30 pm",
+   "title": "Hirschfield International Film Series: La Bola Negra",
+   "category": [
+    "film"
+   ],
+   "where": "Dana Auditorium, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/hirschfield-international-film-series-la-bola-negra/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "7:30 pm",
+   "title": "Albertine Film Festival: L'étranger / The Stranger",
+   "category": [
+    "film"
+   ],
+   "where": "Twilight Auditorium, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/albertine-film-screening-the-stranger/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Good Time Line Dancing Lesson",
+   "category": [
+    "dance"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-12-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "A Drag Queen Christmas",
+   "category": [
+    "theater"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/a-drag-queen-christmas/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Judy Collins: Farewell Tour with VSO",
    "category": [
     "music"
    ],
    "where": "Paramount Theatre, Rutland",
    "miles": 17,
    "range": "local",
-   "cost": "",
    "source": "paramount",
-   "link": "https://paramountvt.org/event/punch-brothers/",
-   "link_kind": "event",
-   "date": "2026-11-08",
-   "image": "https://paramountvt.org/wp-content/uploads/2026/05/PunchBrothers_350x350webcube.jpg",
-   "desc": "<p>7PM Lobby doors open: 6PM Seating begins: 6:30PM Tickets: $59, $69 + tax/fees Punch Brothers, formed by mandolinist Chris Thile in 2006, is known for pushing the boundaries of acoustic music. In addition to Thile, the band currently…",
-   "tickets": [
-    "https://ci.ovationtix.com/36265",
-    "https://ci.ovationtix.com/36265/production/1275425"
+   "link": "https://paramountvt.org/event/sweet-judy-blue-eyes-with-vermont-symphony-orchestra/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Once Upon a Time in Harlem",
+   "category": [
+    "film"
    ],
-   "videos": [
-    "https://www.youtube.com/watch?v=Vgc4djnLja0"
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/once-upon-a-time-in-harlem/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "title": "Tropidelic / Winyah / Carbon Leaf",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, Nov 12-13 range, exact date uncertain"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "5:30 pm",
+   "title": "Tanasi",
+   "category": [
+    "dance"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tanasi/",
+   "link_kind": "event",
+   "note": "valleystage lists 7:00 pm - double check"
+  },
+  {
+   "date": "2026-11-13",
+   "dates": [
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:00 pm / 4:00 pm",
+   "title": "Opera Vermont Presents Costaso (World Premiere)",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso-(world-prem)",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-13",
+   "dates": [
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:30 pm",
+   "title": "Tartuffe (MCT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$15-$39",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tartuffe/",
+   "link_kind": "event",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
+   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
+   "tickets": [
+    "https://app.arts-people.com/index.php?show=348960"
    ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "7:30 pm",
+   "title": "Maryna Krut, Bandura",
+   "category": [
+    "music"
+   ],
+   "where": "Robison Concert Hall, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/maryna-krut-bandura/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "7:30 pm",
+   "title": "The Fab Faux",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/fab-faux/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "7:30 pm",
+   "title": "Tucker and Dale vs Evil",
+   "category": [
+    "film"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/tucker-and-dale-vs-evil/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "8:00 pm",
+   "title": "Sarah Jarosz: 10 Years of Undercurrent",
+   "category": [
+    "music"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/sarah-jarosz-10-years-of-undercurrent/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-14",
+   "title": "Out of the Past (Noirvember)",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/out-of-the-past-2/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-14",
+   "title": "Phillip Phillips / Fitter Happier Radiohead Tribute",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, Nov 14-15 range, exact date uncertain"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "5:00 pm",
+   "title": "An Evening for the Arts",
+   "category": [
+    "social"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/an-evening-for-the-arts/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-14",
+   "dates": [
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:00 pm / 4:00 pm",
+   "title": "Opera Vermont Presents Costaso (World Premiere)",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso-(world-prem)",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-14",
+   "dates": [
+    "2026-11-05",
+    "2026-11-06",
+    "2026-11-07",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:30 pm",
+   "title": "Tartuffe (MCT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$15-$39",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tartuffe/",
+   "link_kind": "event",
+   "note": "also 2pm Sun Nov 8 and 15; also on addisonarts, addisonindependent",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
+   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
+   "tickets": [
+    "https://app.arts-people.com/index.php?show=348960"
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:30 pm",
+   "title": "John Scofield's Electrospective",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/john-scofield/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "THE ZENNIVERSARY: ZenBarn's 10th Anniversary Party",
+   "category": [
+    "social"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/the-zenniversary-zenbarn-s-10th-anniversary-party-november-14-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-15",
+   "title": "VSO Jukebox: Jukebox Turns Ten",
+   "category": [
+    "music"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/vso-jukebox-jukebox-turns-ten/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "2:00 pm",
+   "title": "Tartuffe (MCT) - final matinee",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$15-$39",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tartuffe/",
+   "link_kind": "event",
+   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
+   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
+   "tickets": [
+    "https://app.arts-people.com/index.php?show=348960"
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "3:00 pm",
+   "title": "Middlebury College Community Chorus",
+   "category": [
+    "music"
+   ],
+   "where": "Robison Concert Hall, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/middlebury-college-community-chorus-2/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "3:00 pm",
+   "title": "Upper Valley Symphony Orchestra",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/uvso-fall-2026/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "The Suitcase Junket: To Go On w/ Caitlin Canty",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/the-suitcase-junket-to-go-on-with-special-guest-caitlin-canty-november-15-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-16",
+   "title": "In Color / Primer 55 / Charlie Parr / Tom Hamilton / Greg Freeman",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, exact dates within Nov 16-22 unclear"
+  },
+  {
+   "date": "2026-11-17",
+   "title": "Dark Star Orchestra",
+   "category": [
+    "music"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/dark-star-orchestra-5/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "6:30 pm",
+   "title": "Middlebury Afropop Band and African Music and Dance Ensemble Joint Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Wilson Hall, McCullough Student Center, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/middlebury-afropop-band-and-african-music-and-dance-ensemble-joint-concert/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "7:00 pm",
+   "title": "Warren Miller's Days Off",
+   "category": [
+    "film"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/days-off/",
+   "link_kind": "event",
+   "note": "included by your exception; same tour also at Town Hall Theater Nov 22"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "11:00 am and 2:00 pm",
+   "title": "Jamie Wyeth & the Unflinching Eye",
+   "category": [
+    "art"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/jamie-wyeth-the-unflinching-eye/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "5-7 pm",
+   "title": "Figure Drawing with Live Model",
+   "category": [
+    "art"
+   ],
+   "where": "Chaffee Art Center, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "chaffee",
+   "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#figuredrawing",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "7:30 pm",
+   "title": "Imani Winds and Stewart Goodyear, Piano",
+   "category": [
+    "music"
+   ],
+   "where": "Robison Concert Hall, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "addisonarts",
+   "link": "https://addisonarts.org/event/imani-winds-and-stewart-goodyear-piano/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-18",
+   "dates": [
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "time": "7:30 pm",
+   "title": "The Addams Family (MCMT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/the-addams-family/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "7:30 pm",
+   "title": "Kraatz Carromato",
+   "category": [
+    "music"
+   ],
+   "where": "What About Wednesdays?, Weybridge",
+   "miles": 17,
+   "range": "local",
+   "source": "valleystage",
+   "link": "https://valleystageproductions.com/event/6756413/782295978/kraatz-carromato",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-18",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Dobbs' Dead",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/dobbs-dead-november-18-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-19",
+   "title": "Quality Ski Time Film Tour",
+   "category": [
+    "film"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/quality-ski-time-film-tour/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "5:00 pm",
+   "title": "The LAN Chef",
+   "category": [
+    "social"
+   ],
+   "where": "Red Clover Ale Company, Brandon",
+   "miles": 0,
+   "range": "local",
+   "source": "redclover",
+   "link": "https://redcloverale.com",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-19",
+   "dates": [
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "time": "7:30 pm",
+   "title": "The Addams Family (MCMT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/the-addams-family/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "8:00 pm",
+   "title": "After Hours at the Anderson",
+   "category": [
+    "social"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/after-hours-at-the-anderson/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Good Time Line Dancing Lesson",
+   "category": [
+    "dance"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-19-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-20",
+   "title": "Golden Girls: The Laughs Continue",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/golden-girls/",
+   "link_kind": "event",
+   "note": "included by your exception; same tour also at Paramount Nov 21"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 pm",
+   "title": "Community Coffeehouse Concert Series",
+   "category": [
+    "music"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/community-coffeehouse-concert-series-2/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 pm",
+   "title": "Tara McGowan & the Art of Japanese Paper Theatre",
+   "category": [
+    "art"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/tara-mcgowan-the-art-of-japanese-paper-theatre/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 pm, doors 6:30 pm",
+   "title": "Patty Casey, Colin McCaffrey & Erica O'Hara",
+   "category": [
+    "music"
+   ],
+   "where": "Seven Stars Arts Center, Sharon",
+   "miles": 50,
+   "range": "distant",
+   "cost": "$20 online / $25 door",
+   "source": "sevenstars",
+   "link": "https://events.humanitix.com/patty-casey-colin-mccaffrey-and-eric-o-hara",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-20",
+   "dates": [
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20"
+   ],
+   "time": "7:30 pm",
+   "title": "The Addams Family (MCMT)",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/the-addams-family/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:30 pm",
+   "title": "PLUCKED: Film Screening",
+   "category": [
+    "film"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/plucked-film-screening/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "Big Shrimp w/ Ryan Dempsey",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-dempsey-november-20-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Golden Girls: The Laughs Continue",
+   "category": [
+    "theater"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/golden-girls-the-laughs-continue/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Equinox Documentary Film Festival 2026",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/equinox-documentary-film-festival/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "The Killers (Noirvember)",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/the-killers-2/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "title": "Ruth Stone's Death Anniversary Celebration",
+   "category": [
+    "social"
+   ],
+   "where": "Ruth Stone House, Goshen",
+   "miles": 12,
+   "range": "local",
+   "source": "ruthstone",
+   "link": "https://ruthstonehouse.org/rsh-events/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "1:00 pm",
+   "title": "The MET: Live in HD - Macbeth",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/the-met-live-in-hd-macbeth/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "1:00 pm",
+   "title": "Carmen",
+   "category": [
+    "music"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/carmen/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "4:00-5:00 pm",
+   "title": "Friendsgiving Potluck",
+   "category": [
+    "social"
+   ],
+   "where": "Ruth Stone House, Goshen",
+   "miles": 12,
+   "range": "local",
+   "source": "ruthstone",
+   "link": "https://ruthstonehouse.org/rsh-events/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "7:00 pm",
+   "title": "Upright Citizens Brigade All-Stars",
+   "category": [
+    "theater"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/upright-citizens-brigade-all-stars/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "Jesse Roper",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/jesse-roper-november-21-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-22",
+   "title": "American Doctor (Palestine-Israel Film Series)",
+   "category": [
+    "film"
+   ],
+   "where": "Savoy Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "source": "savoy",
+   "link": "https://savoytheater.com/movies/american-doctor/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "4:00 pm",
+   "title": "St. Johnsbury Community Contra Dance",
+   "category": [
+    "dance"
+   ],
+   "where": "Catamount Arts, St Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/st-johnsbury-community-contra-dance/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "4:00 pm",
+   "title": "CatVideoFest",
+   "category": [
+    "film"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/catvideofest/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "5:00 pm",
+   "title": "Warren Miller Presents: Days Off",
+   "category": [
+    "film"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/warren-miller-presents-days-off/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-25",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Dead not Dead",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/dead-not-dead-november-25-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-27",
+   "title": "House of Sparkle / Chin Ho! / Nate Smith",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, exact dates within Nov 27-29 unclear"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "11 am-3 pm",
+   "title": "Rolling down the Tracks: Holiday Trains!",
+   "category": [
+    "social"
+   ],
+   "where": "Henry Sheldon Museum, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "sheldon",
+   "link": "https://henrysheldonmuseum.org/events/holidaytrains",
+   "link_kind": "event",
+   "note": "runs through Jan 2, 2027"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "4:00 pm",
+   "title": "The Brother Brothers at Burnham Presents",
+   "category": [
+    "music"
+   ],
+   "where": "Burnham Hall, Lincoln",
+   "miles": 30,
+   "range": "distant",
+   "source": "burnham",
+   "link": "https://addisonarts.org/event/the-brother-brothers-at-burnham-presents/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "An Evening with Club D'Elf",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/an-evening-with-club-d-elf-november-27-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "11 am-12 pm",
+   "title": "Book Group",
+   "category": [
+    "social"
+   ],
+   "where": "Chaffee Art Center, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "chaffee",
+   "link": "https://www.chaffeeartcenter.org/book-club/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "3:00 pm",
+   "title": "No Strings Marionette Company: \"Scrooge, A Christmas Carol\"",
+   "category": [
+    "theater"
+   ],
+   "where": "Chandler Center, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "cost": "free",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/no-strings-marionette-company-annual-free-puppet-show",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "7:30 pm",
+   "title": "Dead Set: A Celebration of the Grateful Dead",
+   "category": [
+    "music"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/dead-set-a-celebration-of-the-grateful-dead/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "Weird Phishes: Radiohead Through the Lens of Phish",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/weird-phishes-radiohead-through-the-lens-of-phish-november-28-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "4:00 pm",
+   "title": "Vermont Fiddle Orchestra Winter Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/vermont-fiddle-orchestra-winter-concert",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-11-30",
+   "title": "Bonobo",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-12-01",
+   "title": "Intro to Charcoal: Shading and Sketching (Session 4)",
+   "category": [
+    "art"
+   ],
+   "where": "Middlebury Studio School, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$120",
+   "source": "studioschool",
+   "link": "https://middleburystudioschool.corsizio.com/event/6ae4b98b304cea1114aaec6e",
+   "link_kind": "event",
+   "note": "runs Dec 1-15"
+  },
+  {
+   "date": "2026-12-02",
+   "title": "Shibori Scarves Workshop",
+   "category": [
+    "art"
+   ],
+   "where": "Middlebury Studio School, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$95",
+   "source": "studioschool",
+   "link": "https://middleburystudioschool.corsizio.com/event/6ad26ee6d69503526a58fa99",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "show 7 pm, doors 6 pm",
+   "title": "Local Strangers",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/local-strangers-december-2-2026/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-03",
+   "title": "Paint and Sip: Winter Paint Along",
+   "category": [
+    "art"
+   ],
+   "where": "Middlebury Studio School, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$45",
+   "source": "studioschool",
+   "link": "https://middleburystudioschool.corsizio.com/event/6ae4bb08304cea1114ab57a5",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-03",
+   "title": "2DEAD BOYZ + The Underachievers / lespecial",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, exact dates within Dec 3-4 unclear"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "Holiday Gift Bags: Block Printing on Fabric",
+   "category": [
+    "art"
+   ],
+   "where": "Middlebury Studio School, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$80",
+   "source": "studioschool",
+   "link": "https://middleburystudioschool.corsizio.com/event/6ad26f69d69503526a591d91",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-04",
+   "title": "A Charlie Brown Christmas – Live on Stage!",
+   "category": [
+    "theater"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/a-charlie-brown-christmas-2/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-04",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05"
+   ],
+   "time": "7:00 pm",
+   "title": "Hadestown: Teen Edition",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/hadestown-teen/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "8:00 pm",
+   "title": "Vermont Comedy Festival Presents Rachel Feinstein",
+   "category": [
+    "theater"
+   ],
+   "where": "Chandler Center, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/vermont-comedy-festival-presents-rachel-feinstein",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "Fused Glass Workshop",
+   "category": [
+    "art"
+   ],
+   "where": "Middlebury Studio School, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "$105",
+   "source": "studioschool",
+   "link": "https://middleburystudioschool.corsizio.com/event/6a7497734a7c93584850147b",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "VSO Holiday Pops",
+   "category": [
+    "music"
+   ],
+   "where": "Paramount Theatre, Rutland",
+   "miles": 17,
+   "range": "local",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/vso-holiday-pops-6/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-05",
+   "title": "BIOMYTH / Karina Rykman / Spectacular Spectacular / Tall Heights",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "source": "higherground",
+   "link": "https://highergroundmusic.com/calendar/",
+   "link_kind": "calendar",
+   "note": "page partially read, exact dates within Dec 5-6 unclear"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "12:00 pm",
+   "title": "The MET: Live in HD - Samson et Dalila",
+   "category": [
+    "theater"
+   ],
+   "where": "Town Hall Theater, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/the-met-live-in-hd-samson-et-dalila/",
+   "link_kind": "event"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "4-5 pm",
+   "title": "Frank Stanford Book Event",
+   "category": [
+    "social"
+   ],
+   "where": "Ruth Stone House, Goshen",
+   "miles": 12,
+   "range": "local",
+   "source": "ruthstone",
+   "link": "https://ruthstonehouse.org/rsh-events/",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "5-8 pm",
+   "title": "The Granary Show 2026 Opening Reception",
+   "category": [
+    "art"
+   ],
+   "where": "Aleshire Gallery, Brandon",
+   "miles": 0,
+   "range": "local",
+   "source": "aleshire",
+   "link": "https://www.aleshiregallery.com/events",
+   "link_kind": "calendar"
+  },
+  {
+   "date": "2026-12-05",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05"
+   ],
+   "time": "7:00 pm",
+   "title": "Hadestown: Teen Edition",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/hadestown-teen/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "7:00 pm, doors 6:30 pm",
+   "title": "Four Guitars",
+   "category": [
+    "music"
+   ],
+   "where": "Seven Stars Arts Center, Sharon",
+   "miles": 50,
+   "range": "distant",
+   "cost": "$20 online / $25 door",
+   "source": "sevenstars",
+   "link": "https://events.humanitix.com/four-guitars-eqy4payt",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "7:30 pm",
+   "title": "Eric Mintel Quartet: A Charlie Brown Christmas",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/events/charlie-xmas/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "7:30 pm, doors 7 pm",
+   "title": "Kalos at Burnham Presents",
+   "category": [
+    "music"
+   ],
+   "where": "Burnham Hall, Lincoln",
+   "miles": 30,
+   "range": "distant",
+   "cost": "$25-$30",
+   "source": "burnham",
+   "link": "https://addisonarts.org/event/kalos-at-burnham-presents/",
+   "link_kind": "event",
+   "note": "included by your exception"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "show 8 pm, doors 7 pm",
+   "title": "Into the Floyd",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/into-the-floyd-december-5-2026/",
+   "link_kind": "event"
   }
  ],
  "recurring": [
   {
-   "title": "Morning meditation, Bread Loaf Mountain Zen Community",
-   "when": "Mon-Fri 7:00-7:40 am, in person at the No Barriers Temple (76 Court St, Middlebury) or on Zoom",
+   "title": "Morning meditation",
+   "when": "Mon-Fri 7-7:40 am, Sat-Sun 7-8 am",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury (in-person & Zoom)",
    "link": "https://www.breadloafmountainzen.org/calendar/",
    "category": [
     "social"
    ]
   },
   {
-   "title": "Ukulele Group, Chaffee Art Center",
-   "when": "Thursdays 12-1 pm (registration required)",
-   "where": "Rutland",
+   "title": "Free poetry workshop",
+   "when": "Tuesdays 6:30-8:30 pm",
+   "where": "Ruth Stone House, Goshen",
+   "link": "https://ruthstonehouse.org/workshop",
+   "category": [
+    "art"
+   ]
+  },
+  {
+   "title": "Ukulele Group",
+   "when": "Thursdays 12-1 pm",
+   "where": "Chaffee Art Center, Rutland",
    "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#ukulele",
    "category": [
     "music"
    ]
   },
   {
-   "title": "Artery, Chaffee Art Center",
-   "when": "Fridays 10 am-12 pm (registration required)",
-   "where": "Rutland",
+   "title": "Artery (open studio group)",
+   "when": "Fridays 10 am-12 pm",
+   "where": "Chaffee Art Center, Rutland",
    "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#artery",
    "category": [
     "art"
    ]
   },
   {
-   "title": "Creative Canvas, Chaffee Art Center (all ages)",
-   "when": "Saturdays 12-2 pm (registration required)",
-   "where": "Rutland",
+   "title": "Creative Canvas (all ages)",
+   "when": "Saturdays 12-2 pm",
+   "where": "Chaffee Art Center, Rutland",
    "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#canvas",
    "category": [
     "art"
    ]
   },
   {
-   "title": "Films at the Marquis, Middlebury",
-   "when": "Clayface: Wed 6:00, Thu 1:30 and 6:00 (last). You Can See Everything: Wed 5:30, Thu 1:00 and 5:30, Fri 1:30 and 5:30, Sat 1:00 and 5:30, Sun 1:30",
-   "where": "Middlebury",
+   "title": "\"The Cat in the Hat\" showtimes",
+   "when": "Nov 6-19, varied times",
+   "where": "The Marquis, Middlebury",
    "link": "http://www.middleburymarquis.com/",
    "category": [
-    "theater"
+    "film"
+   ]
+  },
+  {
+   "title": "\"You Can See Everything\" showtimes",
+   "when": "through Nov 12, varied times",
+   "where": "The Marquis, Middlebury",
+   "link": "http://www.middleburymarquis.com/",
+   "category": [
+    "film"
    ]
   }
  ]
