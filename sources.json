@@ -1,0 +1,379 @@
+{
+ "scanned": "2026-11-06",
+ "sources": [
+  {
+   "id": "addisonarts",
+   "name": "Addison Arts",
+   "town": "Addison County (various)",
+   "kinds": [
+    "arts",
+    "music",
+    "theater"
+   ],
+   "url": "https://addisonarts.org/event/",
+   "events": 0
+  },
+  {
+   "id": "addisonindependent",
+   "name": "Addison Independent calendar",
+   "town": "Addison County (various)",
+   "kinds": [
+    "community",
+    "arts",
+    "music",
+    "talks"
+   ],
+   "url": "https://www.addisonindependent.com/calendar/",
+   "events": 9
+  },
+  {
+   "id": "aleshire",
+   "name": "Aleshire Gallery",
+   "town": "Brandon",
+   "kinds": [
+    "arts",
+    "film"
+   ],
+   "url": "https://www.aleshiregallery.com/events",
+   "events": 2
+  },
+  {
+   "id": "barnopera",
+   "name": "BARN Opera House, Brandon",
+   "town": "Brandon",
+   "kinds": [
+    "theater",
+    "music",
+    "comedy"
+   ],
+   "url": "https://www.barnopera.com/events",
+   "events": 0
+  },
+  {
+   "id": "barre",
+   "name": "Barre Opera House",
+   "town": "Barre",
+   "kinds": [
+    "music",
+    "theater"
+   ],
+   "url": "https://barreoperahouse.org/shows/",
+   "events": 0
+  },
+  {
+   "id": "brandon",
+   "name": "Brandon Area Chamber of Commerce",
+   "town": "Brandon",
+   "kinds": [
+    "community"
+   ],
+   "url": "https://brandon.org/events-and-happenings/",
+   "events": 0
+  },
+  {
+   "id": "artistsguild",
+   "name": "Brandon Artists Guild",
+   "town": "Brandon",
+   "kinds": [
+    "art"
+   ],
+   "url": "https://www.brandonartistsguild.org/events",
+   "events": 1
+  },
+  {
+   "id": "breadpuppet",
+   "name": "Bread & Puppet Theater, Glover",
+   "town": "Glover",
+   "kinds": [
+    "theater",
+    "arts"
+   ],
+   "url": "https://breadandpuppet.org/calendar",
+   "events": 0
+  },
+  {
+   "id": "breadloafzen",
+   "name": "Bread Loaf Mountain Zen Community, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "talks",
+    "community"
+   ],
+   "url": "https://www.breadloafmountainzen.org/calendar/",
+   "events": 2
+  },
+  {
+   "id": "burnham",
+   "name": "Burnham Presents, Lincoln",
+   "town": "Lincoln",
+   "kinds": [
+    "music"
+   ],
+   "url": "https://www.burnhampresents.org/",
+   "events": 3
+  },
+  {
+   "id": "catamount",
+   "name": "Catamount Arts, St. Johnsbury",
+   "town": "St. Johnsbury",
+   "kinds": [
+    "film",
+    "music",
+    "arts"
+   ],
+   "url": "https://www.catamountarts.org/shows-and-events/",
+   "events": 12
+  },
+  {
+   "id": "chaffee",
+   "name": "Chaffee Art Center, Rutland",
+   "town": "Rutland",
+   "kinds": [
+    "arts",
+    "classes"
+   ],
+   "url": "https://www.chaffeeartcenter.org/calendar-of-events/",
+   "events": 4
+  },
+  {
+   "id": "chandler",
+   "name": "Chandler Center for the Arts / Chandler Music Hall, Randolph",
+   "town": "Randolph",
+   "kinds": [
+    "music",
+    "theater",
+    "dance",
+    "comedy"
+   ],
+   "url": "https://www.chandler-arts.org",
+   "events": 7
+  },
+  {
+   "id": "sheldon",
+   "name": "Henry Sheldon Museum, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "art",
+    "social"
+   ],
+   "url": "https://henrysheldonmuseum.org/events/",
+   "events": 4
+  },
+  {
+   "id": "higherground",
+   "name": "Higher Ground, South Burlington",
+   "town": "South Burlington",
+   "kinds": [
+    "music"
+   ],
+   "url": "https://highergroundmusic.com/calendar/",
+   "events": 36
+  },
+  {
+   "id": "ilsley",
+   "name": "Ilsley Public Library, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "talks",
+    "film",
+    "social"
+   ],
+   "url": "https://www.ilsleypubliclibrary.org/events/",
+   "events": 0
+  },
+  {
+   "id": "lebanon",
+   "name": "Lebanon Opera House, NH",
+   "town": "Lebanon, NH",
+   "kinds": [
+    "music",
+    "theater",
+    "film"
+   ],
+   "url": "https://lebanonoperahouse.org/calendar/",
+   "events": 13
+  },
+  {
+   "id": "lostnation",
+   "name": "Lost Nation Theater, Montpelier",
+   "town": "Montpelier",
+   "kinds": [
+    "theater"
+   ],
+   "url": "http://www.lostnationtheater.org/",
+   "events": 0
+  },
+  {
+   "id": "mcma",
+   "name": "Middlebury College Museum of Art",
+   "town": "Middlebury",
+   "kinds": [
+    "art",
+    "talks"
+   ],
+   "url": "https://www.middlebury.edu/museum/events",
+   "events": 1
+  },
+  {
+   "id": "middcollege",
+   "name": "Middlebury College public events",
+   "town": "Middlebury",
+   "kinds": [
+    "arts",
+    "music",
+    "talks"
+   ],
+   "url": "https://www.middlebury.edu/events",
+   "events": 37
+  },
+  {
+   "id": "studioschool",
+   "name": "Middlebury Studio School adult classes",
+   "town": "Middlebury",
+   "kinds": [
+    "arts",
+    "classes"
+   ],
+   "url": "https://middleburystudioschool.org/adult-art-classes/",
+   "events": 8
+  },
+  {
+   "id": "ottercreek",
+   "name": "Otter Creek Music Festival and concerts, Vergennes",
+   "town": "Vergennes",
+   "kinds": [
+    "music"
+   ],
+   "url": "https://www.ottercreekmusicfestival.com/",
+   "events": 0
+  },
+  {
+   "id": "paramount",
+   "name": "Paramount Theatre, Rutland",
+   "town": "Rutland",
+   "kinds": [
+    "music",
+    "comedy",
+    "film"
+   ],
+   "url": "https://paramountvt.org/events-calendar/",
+   "events": 9
+  },
+  {
+   "id": "photoplace",
+   "name": "PhotoPlace Gallery, 3 Park St, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "art"
+   ],
+   "url": "https://www.photoplacegallery.com/",
+   "events": 1
+  },
+  {
+   "id": "redclover",
+   "name": "Red Clover Ale Company, Brandon",
+   "town": "Brandon",
+   "kinds": [
+    "music",
+    "social"
+   ],
+   "url": "https://redcloverale.com",
+   "events": 8
+  },
+  {
+   "id": "ruthstone",
+   "name": "Ruth Stone House, Goshen",
+   "town": "Goshen",
+   "kinds": [
+    "arts",
+    "talks"
+   ],
+   "url": "https://ruthstonehouse.org/rsh-events/",
+   "events": 3
+  },
+  {
+   "id": "savoy",
+   "name": "Savoy Theater, Montpelier",
+   "town": "Montpelier",
+   "kinds": [
+    "film"
+   ],
+   "url": "http://savoytheater.com/",
+   "events": 8
+  },
+  {
+   "id": "sevenstars",
+   "name": "Seven Stars Arts Center, Sharon",
+   "town": "Sharon",
+   "kinds": [
+    "music"
+   ],
+   "url": "https://www.sevenstarsarts.org/concertsevents.html",
+   "events": 3
+  },
+  {
+   "id": "silentfilm",
+   "name": "Silent films with live music",
+   "town": "Brandon and New England towns",
+   "kinds": [
+    "film",
+    "music"
+   ],
+   "url": "https://silentfilmlivemusic.blogspot.com/",
+   "events": 0
+  },
+  {
+   "id": "standingtrees",
+   "name": "Standing Trees",
+   "town": "New England (various)",
+   "kinds": [
+    "nature"
+   ],
+   "url": "https://www.standingtrees.org/upcoming-events",
+   "events": 0
+  },
+  {
+   "id": "marquis",
+   "name": "The Marquis, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "film"
+   ],
+   "url": "http://www.middleburymarquis.com/",
+   "events": 4
+  },
+  {
+   "id": "townhall",
+   "name": "Town Hall Theater, Middlebury",
+   "town": "Middlebury",
+   "kinds": [
+    "theater",
+    "film",
+    "music"
+   ],
+   "url": "https://app.arts-people.com/index.php?calendar=twnht",
+   "events": 19
+  },
+  {
+   "id": "valleystage",
+   "name": "Valley Stage Productions",
+   "town": "Middlebury and Weybridge",
+   "kinds": [
+    "music",
+    "theater"
+   ],
+   "url": "http://www.valleystageproductions.com/",
+   "events": 1
+  },
+  {
+   "id": "zenbarn",
+   "name": "ZenBarn, Waterbury Center",
+   "town": "Waterbury Center",
+   "kinds": [
+    "music"
+   ],
+   "url": "https://www.zenbarnvt.com/calendar/",
+   "events": 15
+  }
+ ]
+}
