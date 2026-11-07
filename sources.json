@@ -182,6 +182,18 @@
    "events": 0
   },
   {
+   "id": "killington",
+   "name": "Killington events calendar",
+   "town": "Killington",
+   "kinds": [
+    "social",
+    "music",
+    "outdoors"
+   ],
+   "url": "https://killington.com/events-calendar",
+   "events": 0
+  },
+  {
    "id": "lebanon",
    "name": "Lebanon Opera House, NH",
    "town": "Lebanon, NH",
@@ -333,6 +345,18 @@
    "events": 0
   },
   {
+   "id": "stonevalleyarts",
+   "name": "Stone Valley Arts",
+   "town": "Poultney",
+   "kinds": [
+    "theater",
+    "music",
+    "art"
+   ],
+   "url": "https://stonevalleyarts.org/calendar",
+   "events": 0
+  },
+  {
    "id": "marquis",
    "name": "The Marquis, Middlebury",
    "town": "Middlebury",
@@ -364,6 +388,35 @@
    ],
    "url": "http://www.valleystageproductions.com/",
    "events": 2
+  },
+  {
+   "id": "vermontpublic",
+   "name": "Vermont Public community calendar",
+   "town": "Vermont (statewide)",
+   "kinds": [
+    "music",
+    "art",
+    "theater",
+    "film",
+    "dance",
+    "social",
+    "outdoors"
+   ],
+   "url": "https://www.vermontpublic.org/vermont-events-calendar",
+   "events": 0
+  },
+  {
+   "id": "vtstate",
+   "name": "Vermont State University",
+   "town": "Castleton",
+   "kinds": [
+    "arts",
+    "music",
+    "theater",
+    "talks"
+   ],
+   "url": "https://events.vermontstate.edu",
+   "events": 0
   },
   {
    "id": "zenbarn",
