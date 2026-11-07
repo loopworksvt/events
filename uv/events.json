@@ -1,0 +1,1292 @@
+{
+ "scanned": "2026-11-06",
+ "window": [
+  "2026-11-06",
+  "2026-12-06"
+ ],
+ "events": [
+  {
+   "date": "2026-11-06",
+   "time": "5:00 pm",
+   "title": "Gallery of Gifts Opening Reception",
+   "category": [
+    "art"
+   ],
+   "where": "Library Arts Center, Newport",
+   "miles": 26,
+   "range": "local",
+   "cost": "$10 ($0 for members)",
+   "source": "libraryarts",
+   "link": "http://library-arts-center.square.site/",
+   "link_kind": "event",
+   "town": "Newport",
+   "state": "NH",
+   "lat": 43.371,
+   "lon": -72.203,
+   "maps_q": "Library Arts Center, Newport, NH"
+  },
+  {
+   "date": "2026-11-06",
+   "time": "6:00 pm",
+   "title": "2nd Annual Artisan Soup Event",
+   "category": [
+    "social"
+   ],
+   "where": "Enfield Shaker Museum (Great Stone Dwelling), Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$20-$60",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/2nd-annual-artisan-soup-event/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum (Great Stone Dwelling), Enfield, NH"
+  },
+  {
+   "date": "2026-11-06",
+   "time": "6:30 pm",
+   "title": "Montshire After Dark: Radioactive",
+   "category": [
+    "social"
+   ],
+   "where": "Montshire Museum of Science, Norwich",
+   "miles": 12,
+   "range": "local",
+   "cost": "$20",
+   "source": "montshire",
+   "link": "https://montshire.org/event/montshire-after-dark-radioactive/",
+   "link_kind": "event",
+   "town": "Norwich",
+   "state": "VT",
+   "lat": 43.778,
+   "lon": -72.324,
+   "maps_q": "Montshire Museum of Science, Norwich, VT"
+  },
+  {
+   "dates": [
+    "2026-11-06",
+    "2026-11-07"
+   ],
+   "time": "7:00 pm",
+   "title": "Once Upon a One More Time",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/one-more-time/",
+   "link_kind": "event",
+   "date": "2026-11-06",
+   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
+   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
+   "tickets": [
+    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
+   ],
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "10:30 am",
+   "title": "Adult Dungeons and Dragons: Session IV",
+   "category": [
+    "social"
+   ],
+   "where": "Howe Library, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "thehowe",
+   "link": "https://thehowe.libcal.com/event/16506019",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Howe Library, Hanover, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "1:00 pm",
+   "title": "Maker Drop-In",
+   "category": [
+    "art"
+   ],
+   "where": "Hood Museum of Art, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "free",
+   "source": "hood",
+   "link": "https://hoodmuseum.dartmouth.edu/events/event?event=81935&listing=1",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Hood Museum of Art, Hanover, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "1:00 pm",
+   "title": "Ledyard Gallery Opening Reception: The Poetry of Color",
+   "category": [
+    "art"
+   ],
+   "where": "Howe Library, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "thehowe",
+   "link": "https://thehowe.libcal.com/event/17870243",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Howe Library, Hanover, NH"
+  },
+  {
+   "dates": [
+    "2026-11-06",
+    "2026-11-07"
+   ],
+   "time": "7:00 pm",
+   "title": "Once Upon a One More Time",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/one-more-time/",
+   "link_kind": "event",
+   "date": "2026-11-07",
+   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
+   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
+   "tickets": [
+    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
+   ],
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:00 pm",
+   "title": "Randy Miller in Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Chosen Vale Performance Center, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$25-$75",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/randy-miller-in-concert/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Chosen Vale Performance Center, Enfield, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:30 pm",
+   "title": "Thunderbeard: A Tribute to ZZ Top",
+   "category": [
+    "music"
+   ],
+   "where": "Claremont Opera House, Claremont",
+   "miles": 24,
+   "range": "local",
+   "cost": "",
+   "source": "claremont",
+   "link": "https://cohnh.org/event/thunderbeard-a-tribute-to-zz-top/",
+   "link_kind": "event",
+   "town": "Claremont",
+   "state": "NH",
+   "lat": 43.386,
+   "lon": -72.334,
+   "maps_q": "Claremont Opera House, Claremont, NH"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "9:00 am",
+   "title": "Twill Bread Tray Workshop",
+   "category": [
+    "art"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$50-$60",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/twill-bread-tray-workshop/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "3:00 pm",
+   "title": "Once Upon a One More Time, matinee",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/one-more-time/",
+   "link_kind": "event",
+   "image": "https://lebanonoperahouse.org/app/uploads/2026/09/THT-Once-Upon-2026-LOH-Event-List-400-x-300.png",
+   "desc": "Have the once upon a time of your life with this fairytale set to Britney Spears’ biggest hits.",
+   "tickets": [
+    "https://lebanonoperahouse.my.salesforce-sites.com/ticket/#/events/a0SUU000001pUuj2AE"
+   ],
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-09",
+   "time": "5:30 pm",
+   "title": "The Howe Writing Group",
+   "category": [
+    "social"
+   ],
+   "where": "Howe Library, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "thehowe",
+   "link": "https://thehowe.libcal.com/event/17562062",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Howe Library, Hanover, NH"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "4:00 pm",
+   "title": "Wandering Readers Book Club",
+   "category": [
+    "social"
+   ],
+   "where": "Latham Library, Thetford",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "thetfordlib",
+   "link": "https://thetfordlibrary.org/event/wandering-readers-book-club/",
+   "link_kind": "event",
+   "note": "For readers in grades 4-6.",
+   "town": "Thetford",
+   "state": "VT",
+   "lat": 43.837,
+   "lon": -72.249,
+   "maps_q": "Latham Library, Thetford, VT"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "5:00 pm",
+   "title": "Art in the Library: Bean Art",
+   "category": [
+    "art"
+   ],
+   "where": "Howe Library, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "thehowe",
+   "link": "https://thehowe.libcal.com/event/17440243",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Howe Library, Hanover, NH"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "6:30 pm",
+   "title": "Choral Concert featuring Sol y Canto",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/uvmc-choral-concert/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "6:30 pm",
+   "title": "Twin States, Different Paths: The Politics of New Hampshire and Vermont",
+   "category": [
+    "social"
+   ],
+   "where": "Howe Library, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "thehowe",
+   "link": "https://thehowe.libcal.com/event/17825785",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Howe Library, Hanover, NH"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "12:30 pm",
+   "title": "Conversations and Connections",
+   "category": [
+    "art"
+   ],
+   "where": "Hood Museum of Art, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "hood",
+   "link": "https://hoodmuseum.dartmouth.edu/events/event?event=82527&listing=1",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Hood Museum of Art, Hanover, NH"
+  },
+  {
+   "date": "2026-11-12",
+   "time": "5:30 pm",
+   "title": "Billings After Hours: Charcuterie Workshop",
+   "category": [
+    "social"
+   ],
+   "where": "Billings Farm & Museum, Woodstock",
+   "miles": 17,
+   "range": "local",
+   "cost": "$85/person, $150/couple",
+   "source": "billings",
+   "link": "https://billingsfarm.org/event/billings-after-hours-charcuterie-workshop-3/",
+   "link_kind": "event",
+   "note": "Ages 21 and up.",
+   "town": "Woodstock",
+   "state": "VT",
+   "lat": 43.594,
+   "lon": -72.548,
+   "maps_q": "Billings Farm & Museum, Woodstock, VT"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "4:00 pm",
+   "title": "A Space for Dialogue Gallery Talk",
+   "category": [
+    "art"
+   ],
+   "where": "Hood Museum of Art, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "hood",
+   "link": "https://hoodmuseum.dartmouth.edu/events/event?event=82352&listing=1",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Hood Museum of Art, Hanover, NH"
+  },
+  {
+   "dates": [
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:00 pm",
+   "title": "Opera Vermont presents Costaso",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso",
+   "link_kind": "event",
+   "date": "2026-11-13",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "7:30 pm",
+   "title": "The Fab Faux",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/fab-faux/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "10:00 am",
+   "title": "Make a Turkey Wing Whisk Broom",
+   "category": [
+    "art"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$65-$75",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/make-a-turkey-wing-whisk-broom-3/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "10:00 am",
+   "title": "Cranksgiving: Bike Ride + Food Drive",
+   "category": [
+    "outdoors"
+   ],
+   "where": "Upper Valley Haven, White River Junction",
+   "miles": 6,
+   "range": "local",
+   "cost": "",
+   "source": "vitalcomm",
+   "link": "https://vitalcommunities.org/events/cranksgiving-bike-ride-food-drive/",
+   "link_kind": "event",
+   "town": "Hartford",
+   "state": "VT",
+   "lat": 43.665,
+   "lon": -72.386,
+   "maps_q": "Upper Valley Haven, White River Junction, Hartford, VT"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "2:00 pm",
+   "title": "Hood Highlights Tour",
+   "category": [
+    "art"
+   ],
+   "where": "Hood Museum of Art, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "hood",
+   "link": "https://hoodmuseum.dartmouth.edu/events/event?event=82457&listing=1",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Hood Museum of Art, Hanover, NH"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "4:00 pm",
+   "title": "Opera Vermont presents Costaso, matinee",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "dates": [
+    "2026-11-13",
+    "2026-11-14"
+   ],
+   "time": "7:00 pm",
+   "title": "Opera Vermont presents Costaso",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso",
+   "link_kind": "event",
+   "date": "2026-11-14",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:30 pm",
+   "title": "John Scofield's Electrospective",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/john-scofield/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "7:30 pm",
+   "title": "Johnny Folsom 4: A Tribute to Johnny Cash",
+   "category": [
+    "music"
+   ],
+   "where": "Claremont Opera House, Claremont",
+   "miles": 24,
+   "range": "local",
+   "cost": "",
+   "source": "claremont",
+   "link": "https://cohnh.org/event/johnny-folsom-4-a-tribute-to-johnny-cash/",
+   "link_kind": "event",
+   "town": "Claremont",
+   "state": "NH",
+   "lat": 43.386,
+   "lon": -72.334,
+   "maps_q": "Claremont Opera House, Claremont, NH"
+  },
+  {
+   "date": "2026-11-15",
+   "time": "3:00 pm",
+   "title": "Upper Valley Symphony Orchestra",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/uvso-fall-2026/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-17",
+   "time": "7:00 pm",
+   "title": "Warren Miller's Days Off",
+   "category": [
+    "film"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/days-off/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "12:00 pm",
+   "title": "Gastronomy Book Discussion Group",
+   "category": [
+    "social"
+   ],
+   "where": "Latham Library, Thetford",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "thetfordlib",
+   "link": "https://thetfordlibrary.org/event/gastronomy-book-discussion-group-2/",
+   "link_kind": "event",
+   "town": "Thetford",
+   "state": "VT",
+   "lat": 43.837,
+   "lon": -72.249,
+   "maps_q": "Latham Library, Thetford, VT"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "4:00 pm",
+   "title": "Everlasting Dried Flower Wreaths",
+   "category": [
+    "art"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$65-$75",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/everlasting-dried-flower-wreaths/",
+   "link_kind": "event",
+   "note": "Sold out, but may be worth a call for a cancellation.",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "5:00 pm",
+   "title": "Unplugged Game Night",
+   "category": [
+    "social"
+   ],
+   "where": "Latham Library, Thetford",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "thetfordlib",
+   "link": "https://thetfordlibrary.org/event/unplugged-game-night-6/",
+   "link_kind": "event",
+   "town": "Thetford",
+   "state": "VT",
+   "lat": 43.837,
+   "lon": -72.249,
+   "maps_q": "Latham Library, Thetford, VT"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "12:30 pm",
+   "title": "Weatherization & Energy Assistance Workshop",
+   "category": [
+    "social"
+   ],
+   "where": "Kilton Public Library, West Lebanon",
+   "miles": 6,
+   "range": "local",
+   "cost": "",
+   "source": "vitalcomm",
+   "link": "https://vitalcommunities.org/events/weatherization_energy-assistance_-workshop/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Kilton Public Library, West Lebanon, NH"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "7:00 pm",
+   "title": "Golden Girls: The Laughs Continue",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/golden-girls/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "9:00 am",
+   "title": "Hike Into History: Shaker Woodlands",
+   "category": [
+    "outdoors"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "free-$15",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/hike-into-history-shaker-woodlands/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "10:00 am",
+   "title": "Fall Book Sale",
+   "category": [
+    "social"
+   ],
+   "where": "Latham Library, Thetford",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "thetfordlib",
+   "link": "https://thetfordlibrary.org/event/fall-book-sale-4/",
+   "link_kind": "event",
+   "town": "Thetford",
+   "state": "VT",
+   "lat": 43.837,
+   "lon": -72.249,
+   "maps_q": "Latham Library, Thetford, VT"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "7:30 pm",
+   "title": "Mamma Mania: The American Tribute to ABBA",
+   "category": [
+    "music"
+   ],
+   "where": "Claremont Opera House, Claremont",
+   "miles": 24,
+   "range": "local",
+   "cost": "",
+   "source": "claremont",
+   "link": "https://cohnh.org/event/mamma-mania-the-american-tribute-to-abba/",
+   "link_kind": "event",
+   "town": "Claremont",
+   "state": "NH",
+   "lat": 43.386,
+   "lon": -72.334,
+   "maps_q": "Claremont Opera House, Claremont, NH"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "4:00 pm",
+   "title": "CatVideoFest",
+   "category": [
+    "film"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/catvideofest/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "12:00 pm",
+   "title": "Nonfiction Book Discussion Group",
+   "category": [
+    "social"
+   ],
+   "where": "Latham Library, Thetford",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "thetfordlib",
+   "link": "https://thetfordlibrary.org/event/nonfiction-book-discussion-group-35/",
+   "link_kind": "event",
+   "town": "Thetford",
+   "state": "VT",
+   "lat": 43.837,
+   "lon": -72.249,
+   "maps_q": "Latham Library, Thetford, VT"
+  },
+  {
+   "dates": [
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "time": "10:00 am",
+   "title": "A Family Thanksgiving",
+   "category": [
+    "social"
+   ],
+   "where": "Billings Farm & Museum, Woodstock",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "billings",
+   "link": "https://billingsfarm.org/event/a-family-thanksgiving/",
+   "link_kind": "event",
+   "note": "Regular museum admission applies.",
+   "date": "2026-11-27",
+   "town": "Woodstock",
+   "state": "VT",
+   "lat": 43.594,
+   "lon": -72.548,
+   "maps_q": "Billings Farm & Museum, Woodstock, VT"
+  },
+  {
+   "dates": [
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "time": "10:00 am",
+   "title": "A Family Thanksgiving",
+   "category": [
+    "social"
+   ],
+   "where": "Billings Farm & Museum, Woodstock",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "billings",
+   "link": "https://billingsfarm.org/event/a-family-thanksgiving/",
+   "link_kind": "event",
+   "note": "Regular museum admission applies.",
+   "date": "2026-11-28",
+   "town": "Woodstock",
+   "state": "VT",
+   "lat": 43.594,
+   "lon": -72.548,
+   "maps_q": "Billings Farm & Museum, Woodstock, VT"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "3:00 pm",
+   "title": "No Strings Marionette Company: Scrooge",
+   "category": [
+    "theater"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "free",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/no-strings-marionette-company-annual-free-puppet-show",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "dates": [
+    "2026-11-27",
+    "2026-11-28",
+    "2026-11-29"
+   ],
+   "time": "10:00 am",
+   "title": "A Family Thanksgiving",
+   "category": [
+    "social"
+   ],
+   "where": "Billings Farm & Museum, Woodstock",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "billings",
+   "link": "https://billingsfarm.org/event/a-family-thanksgiving/",
+   "link_kind": "event",
+   "note": "Regular museum admission applies.",
+   "date": "2026-11-29",
+   "town": "Woodstock",
+   "state": "VT",
+   "lat": 43.594,
+   "lon": -72.548,
+   "maps_q": "Billings Farm & Museum, Woodstock, VT"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "4:00 pm",
+   "title": "Vermont Fiddle Orchestra Winter Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/vermont-fiddle-orchestra-winter-concert",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "date": "2026-11-30",
+   "time": "4:00 pm",
+   "title": "Evergreen Holiday Wreath Workshop",
+   "category": [
+    "art"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$55-$60",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/evergreen-holiday-wreath-workshop/",
+   "link_kind": "event",
+   "note": "Sold out, but may be worth a call for a cancellation.",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "4:00 pm",
+   "title": "Celebrate the Season",
+   "category": [
+    "art"
+   ],
+   "where": "Hood Museum of Art, Hanover",
+   "miles": 10,
+   "range": "local",
+   "cost": "",
+   "source": "hood",
+   "link": "https://hoodmuseum.dartmouth.edu/events/event?event=82419&listing=1",
+   "link_kind": "event",
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Hood Museum of Art, Hanover, NH"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "7:00 pm",
+   "title": "KALOS in Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Chosen Vale Performance Center, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "$25-$75",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/kalos-in-concert/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Chosen Vale Performance Center, Enfield, NH"
+  },
+  {
+   "dates": [
+    "2026-12-04",
+    "2026-12-05"
+   ],
+   "time": "7:00 pm",
+   "title": "Hadestown: Teen Edition",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/hadestown-teen/",
+   "link_kind": "event",
+   "note": "Performed by a teen cast.",
+   "date": "2026-12-04",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-12-04",
+   "time": "8:00 pm",
+   "title": "Vermont Comedy Festival presents Rachel Feinstein",
+   "category": [
+    "theater"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/vermont-comedy-festival-presents-rachel-feinstein",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "10:00 am",
+   "title": "Holiday Gift Fair",
+   "category": [
+    "social"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/holiday-gift-fair-2026-2-2/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "2:00 pm",
+   "title": "Grand Kyiv Ballet presents The Nutcracker: Symphony of Lights",
+   "category": [
+    "dance"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/grand-kyiv-ballet-presents-swan-lake%3A-symphony-of-lights",
+   "link_kind": "event",
+   "note": "A second showing follows at 7 pm the same day.",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "4:30 pm",
+   "title": "Safe Haven Ballet presents: How The Grinch Stole Christmas",
+   "category": [
+    "dance"
+   ],
+   "where": "Claremont Opera House, Claremont",
+   "miles": 24,
+   "range": "local",
+   "cost": "",
+   "source": "claremont",
+   "link": "https://cohnh.org/event/safe-haven-ballet-presents-how-the-grinch-stole-christmas/",
+   "link_kind": "event",
+   "town": "Claremont",
+   "state": "NH",
+   "lat": 43.386,
+   "lon": -72.334,
+   "maps_q": "Claremont Opera House, Claremont, NH"
+  },
+  {
+   "dates": [
+    "2026-12-04",
+    "2026-12-05"
+   ],
+   "time": "7:00 pm",
+   "title": "Hadestown: Teen Edition",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/hadestown-teen/",
+   "link_kind": "event",
+   "note": "Performed by a teen cast.",
+   "date": "2026-12-05",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "7:30 pm",
+   "title": "Eric Mintel Quartet: A Charlie Brown Christmas",
+   "category": [
+    "music"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/charlie-xmas/",
+   "link_kind": "event",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "12:00 pm",
+   "title": "Holiday Gift Fair, second day",
+   "category": [
+    "social"
+   ],
+   "where": "Enfield Shaker Museum, Enfield",
+   "miles": 13,
+   "range": "local",
+   "cost": "",
+   "source": "enfieldshaker",
+   "link": "https://shakermuseum.org/event/holiday-gift-fair-2026-2/",
+   "link_kind": "event",
+   "town": "Enfield",
+   "state": "NH",
+   "lat": 43.603,
+   "lon": -72.119,
+   "maps_q": "Enfield Shaker Museum, Enfield, NH"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "1:00 pm",
+   "title": "Hadestown: Teen Edition, matinee",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon",
+   "miles": 3,
+   "range": "local",
+   "cost": "",
+   "source": "lebanonoh",
+   "link": "https://lebanonoperahouse.org/events/hadestown-teen/",
+   "link_kind": "event",
+   "note": "Performed by a teen cast.",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon, NH"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "4:00 pm",
+   "title": "Randolph Singers Holiday Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 32,
+   "range": "local",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/randolph-singers-holiday-concert",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
+  }
+ ],
+ "recurring": [
+  {
+   "title": "Movie Night",
+   "when": "Tuesdays 7:30 pm",
+   "where": "Main Street Museum, White River Junction",
+   "category": [
+    "film"
+   ],
+   "link": "https://www.mainstreetmuseums.org/"
+  },
+  {
+   "title": "Piano Night",
+   "when": "Fridays, about 5-6 pm",
+   "where": "Main Street Museum, White River Junction",
+   "category": [
+    "music"
+   ],
+   "link": "https://www.mainstreetmuseums.org/"
+  },
+  {
+   "title": "Knitting Group",
+   "when": "Thursdays 6:00-8:00 pm",
+   "where": "Latham Library, Thetford",
+   "category": [
+    "social"
+   ],
+   "link": "https://thetfordlibrary.org/event/virtual-knitting-group/"
+  },
+  {
+   "title": "Books and Lunch on Tuesdays",
+   "when": "Tuesdays 12:00-1:00 pm",
+   "where": "Howe Library, Hanover",
+   "category": [
+    "social"
+   ],
+   "link": "https://thehowe.libcal.com/event/17809890"
+  }
+ ]
+}

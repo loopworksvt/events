@@ -1,502 +1,29 @@
 {
- "scanned": "2026-11-06",
+ "scanned": "2026-11-07",
  "window": [
-  "2026-11-06",
-  "2026-12-06"
+  "2026-11-07",
+  "2026-12-07"
  ],
  "events": [
   {
-   "date": "2026-11-06",
+   "date": "2026-11-07",
    "time": "",
-   "title": "Handmade Books: A Sampler Workshop",
+   "title": "Choir! Choir! Choir! Presents Landslide: An Epic Fleetwood Mac Singalong",
    "category": [
-    "art"
+    "music"
    ],
-   "where": "Middlebury Studio School",
-   "miles": 17,
-   "range": "local",
-   "cost": "$65",
-   "source": "studioschool",
-   "link": "https://middleburystudioschool.corsizio.com/event/6a88ad71ef133e6881402f38",
-   "link_kind": "event",
-   "image": "https://storage.corsizio.com/uploads/5be357ac86802e0b8fe7a5ac/events/6a88ad71ef133e6881402f38/photo-X7JG9Gs5Gk8E.jpg",
-   "desc": "Join us for an introductory workshop on book making. We",
-   "tickets": [
-    "https://middleburystudioschool.corsizio.com/register/6a88ad71ef133e6881402f38"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "",
-   "title": "Rocky Horror Picture Show",
-   "category": [
-    "film"
-   ],
-   "where": "Savoy Theater, Montpelier",
+   "where": "Barre Opera House, Barre",
    "miles": 65,
    "range": "distant",
    "cost": "",
-   "source": "savoy",
-   "link": "https://savoytheater.com/movies/the-rocky-horror-picture-show-3/",
+   "source": "barre",
+   "link": "https://ci.ovationtix.com/36347/production/1268996",
    "link_kind": "event",
-   "town": "Montpelier",
+   "town": "Barre",
    "state": "VT",
-   "lat": 44.266,
-   "lon": -72.572,
-   "maps_q": "Savoy Theater, Montpelier, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "",
-   "title": "La Bola Negra",
-   "category": [
-    "film"
-   ],
-   "where": "Savoy Theater, Montpelier",
-   "miles": 65,
-   "range": "distant",
-   "cost": "",
-   "source": "savoy",
-   "link": "https://savoytheater.com/movies/la-bola-negra/",
-   "link_kind": "event",
-   "town": "Montpelier",
-   "state": "VT",
-   "lat": 44.266,
-   "lon": -72.572,
-   "maps_q": "Savoy Theater, Montpelier, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "2:30 pm",
-   "title": "2026 Toys for Kids Holiday Train",
-   "category": [
-    "social"
-   ],
-   "where": "Middlebury Train Station",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury Train Station, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "2:30 pm",
-   "title": "Engines of Power: Energy, Trade, and Statecraft",
-   "category": [
-    "social"
-   ],
-   "where": "Robert A. Jones '59 Conference Room, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/engines-power-energy-trade-and-statecraft",
-   "link_kind": "event",
-   "desc": "Critical chokepoints in global supply chains &ndash; such as Black Sea ports and the Strait of Hormuz &ndash; concentrate economic power and generate opportunities for state coercion. In this year&rsquo;s International Politics and…",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Robert A. Jones '59 Conference Room, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "4:00 pm",
-   "title": "5th Annual Knoll Hot Sauce (Friendly!) Competition",
-   "category": [
-    "social"
-   ],
-   "where": "Franklin Environmental Center, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/5th-annual-knoll-hot-sauce-friendly-competition",
-   "link_kind": "event",
-   "desc": "Hot sauce taste testing and gathering for the end of the&nbsp;year",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Franklin Environmental Center, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "4:30 pm",
-   "title": "An Evening with Devon O'Neil",
-   "category": [
-    "social"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$8",
-   "source": "addisonindependent",
-   "link": "https://addisonarts.org/event/an-evening-with-devon-oneil/",
-   "link_kind": "event",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-an-evening-with-devon-oneil-1792454614-787x600.png",
-   "desc": "An evening in conversation with journalist and Middlebury College graduate Devon O’Neil",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=370223"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "5:00 pm",
-   "title": "HSM Annual Meeting",
-   "category": [
-    "social"
-   ],
-   "where": "Ilsley Public Library, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "sheldon",
-   "link": "https://henrysheldonmuseum.org/events/",
-   "link_kind": "calendar",
-   "note": "Business meeting for members and trustees",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Ilsley Public Library, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "5:00 pm",
-   "title": "Holiday Art Market Reception",
-   "category": [
-    "art"
-   ],
-   "where": "Brandon Artists Guild, Brandon",
-   "miles": 0,
-   "range": "local",
-   "cost": "",
-   "source": "artistsguild",
-   "link": "https://www.brandonartistsguild.org/events/holiday-art-market-reception-2026",
-   "link_kind": "event",
-   "town": "Brandon",
-   "state": "VT",
-   "lat": 43.805,
-   "lon": -73.075,
-   "maps_q": "Brandon Artists Guild, Brandon, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "5:30 pm",
-   "title": "Considering the Life Museum",
-   "category": [
-    "social"
-   ],
-   "where": "Ilsley Public Library, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "sheldon",
-   "link": "https://henrysheldonmuseum.org/events/hqeftggtl17a6ambfceqgnswir9twz",
-   "link_kind": "event",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Ilsley Public Library, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "6:00 pm",
-   "title": "Aaron Audet",
-   "category": [
-    "music"
-   ],
-   "where": "Red Clover Ale Company, Brandon",
-   "miles": 0,
-   "range": "local",
-   "cost": "",
-   "source": "redclover",
-   "link": "https://redcloverale.com",
-   "link_kind": "calendar",
-   "town": "Brandon",
-   "state": "VT",
-   "lat": 43.805,
-   "lon": -73.075,
-   "maps_q": "Red Clover Ale Company, Brandon, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "7:00 pm",
-   "title": "Dorrance Dance",
-   "category": [
-    "dance"
-   ],
-   "where": "Catamount Arts, St. Johnsbury",
-   "miles": 100,
-   "range": "distant",
-   "cost": "",
-   "source": "catamount",
-   "link": "https://www.catamountarts.org/show/details/dorrance-dance/",
-   "link_kind": "event",
-   "image": "https://www.catamountarts.org/wp-content/themes/vdw-custom-theme/images/show/32128a88-e79c-4631-b1b1-9c350f7582d6.jpg",
-   "desc": "Dorrance Dance -",
-   "tickets": [
-    "https://www.catamountarts.org/find-tickets?EventInstanceID=284801"
-   ],
-   "videos": [
-    "https://vimeo.com/1115911700/d7a9934a4e"
-   ],
-   "town": "St. Johnsbury",
-   "state": "VT",
-   "lat": 44.46,
-   "lon": -72.005,
-   "maps_q": "Catamount Arts, St. Johnsbury, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "7:00 pm",
-   "title": "Once Upon a One More Time",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "note": "also Nov 8 at 3:00 pm",
-   "date": "2026-11-06",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "7:30 pm",
-   "title": "Tartuffe (MACo)",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-06",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "7:30 pm",
-   "title": "Katarina String Quartet",
-   "category": [
-    "music"
-   ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/katarina-string-quartet",
-   "link_kind": "event",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "7:30 pm",
-   "title": "All Night Boogie Band",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://wl.seetickets.us/event/all-night-boogie-band/704317?afflky=HigherGround",
-   "link_kind": "event",
-   "town": "South Burlington",
-   "state": "VT",
-   "lat": 44.436,
-   "lon": -73.183,
-   "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "8:00 pm",
-   "title": "Fruit Bats",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://wl.seetickets.us/event/fruit-bats/685581?afflky=HigherGround",
-   "link_kind": "event",
-   "town": "South Burlington",
-   "state": "VT",
-   "lat": 44.436,
-   "lon": -73.183,
-   "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "Fri 4-7 pm, Sat 10 am-4 pm",
-   "title": "6th Annual Holiday Artisan Gift Show",
-   "category": [
-    "art"
-   ],
-   "where": "Chaffee Art Center, Rutland",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "chaffee",
-   "link": "https://www.chaffeeartcenter.org/6th-annual-holiday-artisan-gift-show/",
-   "link_kind": "event",
-   "date": "2026-11-06",
-   "town": "Rutland",
-   "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Chaffee Art Center, Rutland, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "about 4-7 pm (confirm)",
-   "title": "\"Quiet Landscape: Beauty, Stillness, and Connection\" opens (First Friday)",
-   "category": [
-    "art"
-   ],
-   "where": "PhotoPlace Gallery, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "photoplace",
-   "link": "https://www.photoplacegallery.com/online-juried-shows",
-   "link_kind": "calendar",
-   "note": "Opening reception expected; please confirm with the gallery. Runs through the end of November",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "PhotoPlace Gallery, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-06",
-   "time": "doors 7, show 8",
-   "title": "Annie in the Water",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/annie-in-the-water-november-6-2026/",
-   "link_kind": "event",
-   "image": "https://zenbarnvt.com/wp-content/uploads/2026/11/aitw-2.jpg",
-   "desc": "Annie in the Water is an experience and a culture of compassion and joy. The band's Americana Indie Rock found its roots in acoustic guitars without limits.",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-19"
-   ],
-   "time": "various",
-   "title": "\"The Cat in the Hat\" showtimes (Nov 6-19)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "date": "2026-11-06",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-12"
-   ],
-   "time": "various",
-   "title": "\"You Can See Everything\" showtimes (through Nov 12)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "date": "2026-11-06",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
+   "lat": 44.199,
+   "lon": -72.508,
+   "maps_q": "Barre Opera House, Barre, VT"
   },
   {
    "date": "2026-11-07",
@@ -517,6 +44,26 @@
    "lat": 44.002,
    "lon": -73.119,
    "maps_q": "Residence at Otter Creek, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "10:00 am-4:00 pm",
+   "title": "6th Annual Holiday Artisan Gift Show",
+   "category": [
+    "art"
+   ],
+   "where": "Chaffee Art Center, Rutland",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "chaffee",
+   "link": "https://www.chaffeeartcenter.org/6th-annual-holiday-artisan-gift-show/",
+   "link_kind": "event",
+   "town": "Rutland",
+   "state": "VT",
+   "lat": 43.61,
+   "lon": -72.978,
+   "maps_q": "Chaffee Art Center, Rutland, VT"
   },
   {
    "date": "2026-11-07",
@@ -573,7 +120,6 @@
    "source": "addisonindependent",
    "link": "https://www.addisonindependent.com/calendar/",
    "link_kind": "calendar",
-   "note": "May be aimed at younger audiences",
    "town": "Brandon",
    "state": "VT",
    "lat": 43.805,
@@ -603,7 +149,7 @@
   {
    "date": "2026-11-07",
    "time": "5:00 pm",
-   "title": "Members Event: Friends of the Art Museum Purchase Party",
+   "title": "Friends of the Art Museum Purchase Party",
    "category": [
     "art"
    ],
@@ -621,44 +167,50 @@
    "maps_q": "Kirk Alumni Center, Middlebury, VT"
   },
   {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "7:00 pm",
-   "title": "Once Upon a One More Time",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "note": "also Nov 8 at 3:00 pm",
    "date": "2026-11-07",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
+   "time": "7:00 pm",
+   "title": "Ski & Snowboard Club and Teton Gravity Research present \"Actually, It Is Rocket Science\"",
+   "category": [
+    "film"
+   ],
+   "where": "Middlebury College, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "middcollege",
+   "link": "https://www.middlebury.edu/events/event/middlebury-ski-and-snowboard-club-and-teton-gravity-research-present-actually-it-rocket",
+   "link_kind": "event",
+   "tickets": [
+    "https://tetongravity.myeventscenter.com/event/Middlebury-Vt-Dana-Auditorium-At-Middlebury-134017"
+   ],
+   "videos": [
+    "https://www.youtube.com/watch?v=zvn322bnNgo&t=3s"
+   ],
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Middlebury College, Middlebury, VT"
   },
   {
    "date": "2026-11-07",
    "time": "7:00 pm",
-   "title": "Silent Film with Live Music: \"The Navigator\"",
+   "title": "Silent Film Screening with Live Music: \"The Navigator\"",
    "category": [
-    "film"
+    "film",
+    "music"
    ],
    "where": "Brandon Town Hall, Brandon",
    "miles": 0,
    "range": "local",
-   "cost": "free, donations welcome",
+   "cost": "free",
    "source": "addisonindependent",
+   "also": [
+    "silentfilm"
+   ],
    "link": "https://www.addisonindependent.com/calendar/",
    "link_kind": "calendar",
+   "note": "Free, donations welcome.",
    "town": "Brandon",
    "state": "VT",
    "lat": 43.805,
@@ -667,7 +219,7 @@
   },
   {
    "date": "2026-11-07",
-   "time": "7:00 pm, doors 6:30",
+   "time": "7:00 pm",
    "title": "Star Radio Hour: \"Over the Moon\"",
    "category": [
     "music"
@@ -675,8 +227,9 @@
    "where": "Seven Stars Arts Center, Sharon",
    "miles": 50,
    "range": "distant",
-   "cost": "$20/$25",
+   "cost": "$20-$25",
    "source": "sevenstars",
+   "note": "Doors 6:30. Free for children 12 and under.",
    "link": "https://events.humanitix.com/star-radio-hour-s-over-the-moon",
    "link_kind": "event",
    "image": "https://images.humanitix.com/i/8f21f6ba-0d26-40ff-8fba-32c124aa81f0.png@seo-500.jpg",
@@ -692,6 +245,26 @@
   },
   {
    "date": "2026-11-07",
+   "time": "7:00 pm",
+   "title": "Once Upon a One More Time",
+   "category": [
+    "theater"
+   ],
+   "where": "Lebanon Opera House, Lebanon NH",
+   "miles": 60,
+   "range": "distant",
+   "cost": "",
+   "source": "lebanon",
+   "link": "https://lebanonoperahouse.org/calendar/",
+   "link_kind": "calendar",
+   "town": "Lebanon",
+   "state": "NH",
+   "lat": 43.635,
+   "lon": -72.254,
+   "maps_q": "Lebanon Opera House, Lebanon NH"
+  },
+  {
+   "date": "2026-11-07",
    "time": "7:00-8:30 pm",
    "title": "Play Every Town Concert",
    "category": [
@@ -702,46 +275,14 @@
    "range": "local",
    "cost": "free",
    "source": "addisonindependent",
+   "note": "Venue not fully confirmed; distance estimated.",
    "link": "https://www.playeverytown.com",
    "link_kind": "event",
-   "note": "Location not confirmed",
    "town": "Whiting",
    "state": "VT",
    "lat": 43.876,
    "lon": -73.213,
    "maps_q": "Whiting Community Church, Whiting, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "7:30 pm",
-   "title": "Tartuffe (MACo)",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-07",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
   },
   {
    "date": "2026-11-07",
@@ -750,18 +291,49 @@
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
    "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/middlebury-college-orchestra-fall-concert-1",
+   "also": [
+    "addisonarts",
+    "addisonindependent"
+   ],
+   "link": "https://www.middlebury.edu/events/index.php/event/middlebury-college-orchestra-fall-concert-1",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-07",
+   "time": "7:30 pm",
+   "title": "Maya de Vitry Album Release Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Burnham Hall, Lincoln",
+   "miles": 30,
+   "range": "distant",
+   "cost": "$25-$30",
+   "source": "burnham",
+   "also": [
+    "addisonarts",
+    "addisonindependent"
+   ],
+   "link": "https://www.burnhampresents.org/event-details/maya-de-vitry",
+   "link_kind": "event",
+   "note": "Doors 7, music 7:30.",
+   "image": "https://static.wixstatic.com/media/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp/v1/fill/w_2500,h_1667,al_c/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp",
+   "desc": "Maya",
+   "town": "Lincoln",
+   "state": "VT",
+   "lat": 44.093,
+   "lon": -72.974,
+   "maps_q": "Burnham Hall, Lincoln, VT"
   },
   {
    "date": "2026-11-07",
@@ -824,52 +396,6 @@
    "maps_q": "Addison County Eagles Club, Vergennes, VT"
   },
   {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07"
-   ],
-   "time": "Fri 4-7 pm, Sat 10 am-4 pm",
-   "title": "6th Annual Holiday Artisan Gift Show",
-   "category": [
-    "art"
-   ],
-   "where": "Chaffee Art Center, Rutland",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "chaffee",
-   "link": "https://www.chaffeeartcenter.org/6th-annual-holiday-artisan-gift-show/",
-   "link_kind": "event",
-   "date": "2026-11-07",
-   "town": "Rutland",
-   "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Chaffee Art Center, Rutland, VT"
-  },
-  {
-   "date": "2026-11-07",
-   "time": "doors 7, show 7:30",
-   "title": "Maya de Vitry Album Release Concert",
-   "category": [
-    "music"
-   ],
-   "where": "Burnham Hall, Lincoln",
-   "miles": 30,
-   "range": "distant",
-   "cost": "$25-$30",
-   "source": "burnham",
-   "link": "https://www.burnhampresents.org/event-details/maya-de-vitry",
-   "link_kind": "event",
-   "image": "https://static.wixstatic.com/media/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp/v1/fill/w_2500,h_1667,al_c/cdab5c_cfa51ebb66f74de98a105d1260dae4ed~mv2.webp",
-   "desc": "Maya",
-   "town": "Lincoln",
-   "state": "VT",
-   "lat": 44.093,
-   "lon": -72.974,
-   "maps_q": "Burnham Hall, Lincoln, VT"
-  },
-  {
    "date": "2026-11-08",
    "time": "",
    "title": "Punch Brothers",
@@ -900,12 +426,52 @@
   },
   {
    "date": "2026-11-08",
+   "time": "10:00 am-3:00 pm",
+   "title": "Veterans Benefit Fair",
+   "category": [
+    "social"
+   ],
+   "where": "American Legion, Vergennes",
+   "miles": 28,
+   "range": "local",
+   "cost": "",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar",
+   "town": "Vergennes",
+   "state": "VT",
+   "lat": 44.168,
+   "lon": -73.255,
+   "maps_q": "American Legion, Vergennes, VT"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "12:00-1:00 pm",
+   "title": "Prayer and Meditation in the Jewish Faith",
+   "category": [
+    "social"
+   ],
+   "where": "The Nave of St. Stephen's Church, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "addisonindependent",
+   "link": "https://www.ststephensmidd.org/adult-ed",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "The Nave of St. Stephen's Church, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-08",
    "time": "1:00 pm",
    "title": "Shape Note Singing",
    "category": [
     "music"
    ],
-   "where": "McCullough, Mitchell Green Lounge, Middlebury",
+   "where": "McCullough - Mitchell Green Lounge, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -918,7 +484,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "McCullough, Mitchell Green Lounge, Middlebury, VT"
+   "maps_q": "McCullough - Mitchell Green Lounge, Middlebury, VT"
   },
   {
    "date": "2026-11-08",
@@ -947,12 +513,9 @@
    "maps_q": "Catamount Arts, St. Johnsbury, VT"
   },
   {
-   "dates": [
-    "2026-11-08",
-    "2026-11-15"
-   ],
+   "date": "2026-11-08",
    "time": "2:00 pm",
-   "title": "Tartuffe (MACo), matinee",
+   "title": "Tartuffe (MACo)",
    "category": [
     "theater"
    ],
@@ -961,19 +524,61 @@
    "range": "local",
    "cost": "$15-$39",
    "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-08",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
+   "also": [
+    "addisonarts",
+    "addisonindependent"
    ],
+   "link": "https://app.arts-people.com/index.php?calendar=twnht",
+   "link_kind": "calendar",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
    "maps_q": "Town Hall Theater, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "3:00 pm",
+   "title": "College Choir and Catamount Singers in Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Robison Concert Hall, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
+   "link": "https://www.middlebury.edu/events/event/college-choir-and-catamount-singers-concert",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "3:00 pm",
+   "title": "Looking for Joe: The Amazing Life and Times of Joseph Addison",
+   "category": [
+    "social"
+   ],
+   "where": "Addison Fire Station, Addison",
+   "miles": 25,
+   "range": "local",
+   "cost": "",
+   "source": "addisonindependent",
+   "note": "Venue not fully confirmed; distance estimated.",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar",
+   "town": "Addison",
+   "state": "VT",
+   "lat": 44.059,
+   "lon": -73.332,
+   "maps_q": "Addison Fire Station, Addison, VT"
   },
   {
    "date": "2026-11-08",
@@ -997,23 +602,28 @@
   },
   {
    "date": "2026-11-08",
-   "time": "3:00 pm",
-   "title": "College Choir and Catamount Singers in Concert",
+   "time": "3:30-5:00 pm",
+   "title": "MALT & Mingle",
    "category": [
-    "music"
+    "social"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Waybury Inn, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/college-choir-and-catamount-singers-concert",
+   "source": "addisonindependent",
+   "link": "https://www.maltvt.org/events/malt-amp-mingle",
    "link_kind": "event",
+   "image": "http://static1.squarespace.com/static/5dbee1de270af32a34768217/t/6ada289e5c8e5753999a4ff1/1792682142755/MALT+%26+Mingle+Series+%284%29.png?format=1500w",
+   "desc": "WHO: Kevin Fox is Executive Director of the Middlebury Area Land Trust (MALT) who previously spent 16 years as a US Foreign Service Officer, with overseas assignments in Jamaica, Israel/West Bank & Gaza, the Democratic Republic of the…",
+   "tickets": [
+    "https://secure.lglforms.com/form_engine/s/Bfj2zwyH8Lk7Z315X8iHnw"
+   ],
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
+   "maps_q": "Waybury Inn, Middlebury, VT"
   },
   {
    "date": "2026-11-08",
@@ -1061,13 +671,53 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-09",
-   "time": "11:15 am",
-   "title": "Globalization and its Discontents",
+   "date": "2026-11-08",
+   "time": "7:00-8:30 pm",
+   "title": "Calling in the Dark: Solstice & Holiday Community Sing",
+   "category": [
+    "music"
+   ],
+   "where": "Bristol Firehouse, Bristol",
+   "miles": 26,
+   "range": "local",
+   "cost": "",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar",
+   "town": "Bristol",
+   "state": "VT",
+   "lat": 44.098,
+   "lon": -73.049,
+   "maps_q": "Bristol Firehouse, Bristol, VT"
+  },
+  {
+   "date": "2026-11-08",
+   "time": "7:30-10:00 am",
+   "title": "Masons' Monthly Charity Fundraising Breakfast",
    "category": [
     "social"
    ],
-   "where": "Axinn Center, Abernethy Room, Middlebury",
+   "where": "Libanus Lodge #47, Bristol",
+   "miles": 26,
+   "range": "local",
+   "cost": "",
+   "source": "addisonindependent",
+   "link": "https://www.addisonindependent.com/calendar/",
+   "link_kind": "calendar",
+   "town": "Bristol",
+   "state": "VT",
+   "lat": 44.098,
+   "lon": -73.049,
+   "maps_q": "Libanus Lodge #47, Bristol, VT"
+  },
+  {
+   "date": "2026-11-09",
+   "time": "11:15 am",
+   "title": "Globalization and its Discontents: Stories from the Factory Floors of China and Egypt",
+   "category": [
+    "social"
+   ],
+   "where": "Axinn Center, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -1078,7 +728,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Axinn Center, Abernethy Room, Middlebury, VT"
+   "maps_q": "Axinn Center, Middlebury, VT"
   },
   {
    "date": "2026-11-09",
@@ -1087,18 +737,19 @@
    "category": [
     "social"
    ],
-   "where": "Bread Loaf Mountain Zen Community, Middlebury (online)",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
    "source": "breadloafzen",
-   "link": "https://breadloafmountainzen.org/event/householder-koans-2-2/2026-11-09/",
+   "note": "Online (Zoom).",
+   "link": "https://breadloafmountainzen.org/event/householder-koans-2-2/",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury (online), VT"
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-11-09",
@@ -1107,7 +758,7 @@
    "category": [
     "film"
    ],
-   "where": "Axinn Center 232, Middlebury",
+   "where": "Axinn Center, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -1118,27 +769,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Axinn Center 232, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-09",
-   "time": "5:15-6:30 pm",
-   "title": "Meditation for a Shared World (virtual)",
-   "category": [
-    "social"
-   ],
-   "where": "Bread Loaf Mountain Zen Community, Middlebury (virtual)",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "breadloafzen",
-   "link": "https://breadloafmountainzen.org/event/meditation-for-a-shared-world-2/",
-   "link_kind": "event",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury (virtual), VT"
+   "maps_q": "Axinn Center, Middlebury, VT"
   },
   {
    "date": "2026-11-10",
@@ -1147,7 +778,7 @@
    "category": [
     "social"
    ],
-   "where": "Robert A. Jones '59 Conference Room, Middlebury",
+   "where": "Jones Conference Room, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -1158,7 +789,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Robert A. Jones '59 Conference Room, Middlebury, VT"
+   "maps_q": "Jones Conference Room, Middlebury, VT"
   },
   {
    "date": "2026-11-10",
@@ -1172,7 +803,7 @@
    "range": "local",
    "cost": "free",
    "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/goodtalks-midterm-elections-0",
+   "link": "https://www.middlebury.edu/events/index.php/event/goodtalks-midterm-elections-0",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
@@ -1182,28 +813,8 @@
   },
   {
    "date": "2026-11-10",
-   "time": "6:30 pm",
-   "title": "Choral Concert featuring Sol y Canto",
-   "category": [
-    "music"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
-  },
-  {
-   "date": "2026-11-10",
-   "time": "doors 5, show 6",
-   "title": "Bolton Outdoor Adventure Fund Presents Stick Season Social w/ The Wormdogs",
+   "time": "6:00 pm",
+   "title": "Bolton Outdoor Adventure Fund Presents Stick Season Social with the Wormdogs",
    "category": [
     "music"
    ],
@@ -1212,6 +823,7 @@
    "range": "distant",
    "cost": "",
    "source": "zenbarn",
+   "note": "Doors 5.",
    "link": "https://zenbarnvt.com/event/bolton-outdoor-adventure-fund-presents-stick-season-social-with-the-wormdogs-november-10-2026/",
    "link_kind": "event",
    "town": "Waterbury",
@@ -1219,6 +831,26 @@
    "lat": 44.388,
    "lon": -72.74,
    "maps_q": "ZenBarn, Waterbury Center, VT"
+  },
+  {
+   "date": "2026-11-10",
+   "time": "7:00 am",
+   "title": "Gate of Sweet Nectar (New Moon chanting ceremony)",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "breadloafzen",
+   "link": "https://breadloafmountainzen.org/event/gate-of-sweet-nectar-2-2/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-11-11",
@@ -1252,6 +884,9 @@
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/movement-matters-grounded-tomo-sone",
    "link_kind": "event",
    "town": "Middlebury",
@@ -1267,7 +902,7 @@
    "category": [
     "social"
    ],
-   "where": "Robert A. Jones '59 Conference Room, Middlebury",
+   "where": "Jones Conference Room, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -1278,7 +913,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Robert A. Jones '59 Conference Room, Middlebury, VT"
+   "maps_q": "Jones Conference Room, Middlebury, VT"
   },
   {
    "date": "2026-11-11",
@@ -1299,6 +934,27 @@
    "lat": 44.46,
    "lon": -72.005,
    "maps_q": "Catamount Arts, St. Johnsbury, VT"
+  },
+  {
+   "date": "2026-11-11",
+   "time": "7:00 pm",
+   "title": "Zach Nugent",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 6.",
+   "link": "https://zenbarnvt.com/event/zach-nugent-november-11-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-11",
@@ -1341,26 +997,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-11",
-   "time": "doors 6, show 7",
-   "title": "Zach Nugent",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/zach-nugent-november-11-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
    "date": "2026-11-12",
    "time": "4:30 pm",
    "title": "Professionalizing the Environment: Architecture and Regulation in the Age of Ecology",
@@ -1372,6 +1008,9 @@
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/professionalizing-environment-architecture-and-regulation-age-ecology",
    "link_kind": "event",
    "town": "Middlebury",
@@ -1392,7 +1031,7 @@
    "range": "local",
    "cost": "free",
    "source": "sheldon",
-   "link": "https://henrysheldonmuseum.org/events/talk-mosques-of-mud-bazaars-and-mirrors-thresholds-of-muslimness-with-zahra-moeini-meybodi",
+   "link": "https://www.henrysheldonmuseum.org/events/talk-mosques-of-mud-bazaars-and-mirrors-thresholds-of-muslimness-with-zahra-moeini-meybodi",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
@@ -1412,6 +1051,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/family-vets-town-hall/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -1423,54 +1065,23 @@
   {
    "date": "2026-11-12",
    "time": "7:00 pm",
-   "title": "Punch Brothers",
+   "title": "Good Time Line Dancing Lesson",
    "category": [
-    "music"
+    "dance"
    ],
-   "where": "Capitol Center for the Arts, Concord NH",
-   "miles": 55,
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
    "range": "distant",
    "cost": "",
-   "source": "higherground",
-   "link": "https://www.ccanh.com/show/26000672",
+   "source": "zenbarn",
+   "note": "Doors 6.",
+   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-12-2026/",
    "link_kind": "event",
-   "town": "Concord",
-   "state": "NH",
-   "lat": 43.232,
-   "lon": -71.561,
-   "maps_q": "Capitol Center for the Arts, Concord NH"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "7:30 pm",
-   "title": "Tartuffe (MACo)",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-12",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
-   "town": "Middlebury",
+   "town": "Waterbury",
    "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-12",
@@ -1484,9 +1095,11 @@
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/hirschfield-international-film-series-la-bola-negra",
    "link_kind": "event",
-   "note": "also showing separately at Savoy Theater, Montpelier on Nov 6",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -1496,7 +1109,7 @@
   {
    "date": "2026-11-12",
    "time": "7:30 pm",
-   "title": "Albertine Film Festival: L'Etranger",
+   "title": "Albertine Film Festival: L'Étranger",
    "category": [
     "film"
    ],
@@ -1505,6 +1118,9 @@
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/albertine-film-festival-letranger-film-screening",
    "link_kind": "event",
    "town": "Middlebury",
@@ -1554,50 +1170,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-12",
-   "time": "doors 6, show 7",
-   "title": "Good Time Line Dancing Lesson",
-   "category": [
-    "dance"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-12-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-12"
-   ],
-   "time": "various",
-   "title": "\"You Can See Everything\" showtimes (through Nov 12)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "date": "2026-11-12",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
-  },
-  {
    "date": "2026-11-13",
    "time": "",
    "title": "A Drag Queen Christmas",
@@ -1620,7 +1192,7 @@
   {
    "date": "2026-11-13",
    "time": "",
-   "title": "Judy Collins: Farewell Tour with VSO",
+   "title": "Judy Collins: Farewell Tour with the Vermont Symphony Orchestra",
    "category": [
     "music"
    ],
@@ -1659,6 +1231,26 @@
   },
   {
    "date": "2026-11-13",
+   "time": "",
+   "title": "Samantha Fish - Paper Doll Live World Tour",
+   "category": [
+    "music"
+   ],
+   "where": "Barre Opera House, Barre",
+   "miles": 65,
+   "range": "distant",
+   "cost": "",
+   "source": "barre",
+   "link": "https://ci.ovationtix.com/36347/production/1282153",
+   "link_kind": "event",
+   "town": "Barre",
+   "state": "VT",
+   "lat": 44.199,
+   "lon": -72.508,
+   "maps_q": "Barre Opera House, Barre, VT"
+  },
+  {
+   "date": "2026-11-13",
    "time": "5:30 pm",
    "title": "Tanasi",
    "category": [
@@ -1669,9 +1261,12 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts",
+    "valleystage"
+   ],
    "link": "https://addisonarts.org/event/tanasi/",
    "link_kind": "event",
-   "note": "Listed at both 7:00 pm and 5:30 pm; please confirm the time with the organizer",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -1679,36 +1274,45 @@
    "maps_q": "Town Hall Theater, Middlebury, VT"
   },
   {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "7:30 pm",
-   "title": "Tartuffe (MACo)",
+   "date": "2026-11-13",
+   "time": "5:30 pm",
+   "title": "Tea with Teachers",
    "category": [
-    "theater"
+    "social"
    ],
-   "where": "Town Hall Theater, Middlebury",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
    "miles": 17,
    "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
+   "cost": "free",
+   "source": "breadloafzen",
+   "note": "Online (Zoom).",
+   "link": "https://breadloafmountainzen.org/event/infinite-circle-community-tea-with-the-teachers-6-2/",
    "link_kind": "event",
-   "date": "2026-11-13",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-13",
+   "time": "7:00 pm",
+   "title": "Opera Vermont Presents Costaso (World Premiere)",
+   "category": [
+    "music"
+   ],
+   "where": "Chandler Center for the Arts, Randolph",
+   "miles": 40,
+   "range": "distant",
+   "cost": "",
+   "source": "chandler",
+   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso-(world-prem)",
+   "link_kind": "event",
+   "town": "Randolph",
+   "state": "VT",
+   "lat": 43.922,
+   "lon": -72.611,
+   "maps_q": "Chandler Center for the Arts, Randolph, VT"
   },
   {
    "date": "2026-11-13",
@@ -1717,18 +1321,21 @@
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/maryna-krut-bandura",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
   },
   {
    "date": "2026-11-13",
@@ -1831,30 +1438,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "dates": [
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "Fri 7 pm, Sat 4 pm",
-   "title": "Opera Vermont Presents Costaso (World Premiere)",
-   "category": [
-    "music"
-   ],
-   "where": "Chandler Center for the Arts, Randolph",
-   "miles": 40,
-   "range": "distant",
-   "cost": "",
-   "source": "chandler",
-   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso-(world-prem",
-   "link_kind": "event",
-   "date": "2026-11-13",
-   "town": "Randolph",
-   "state": "VT",
-   "lat": 43.922,
-   "lon": -72.611,
-   "maps_q": "Chandler Center for the Arts, Randolph, VT"
-  },
-  {
    "date": "2026-11-14",
    "time": "",
    "title": "A Night in Musical Review with a Cinderella Preview",
@@ -1877,7 +1460,7 @@
   {
    "date": "2026-11-14",
    "time": "",
-   "title": "Out of the Past (Noirvember)",
+   "title": "Out of the Past",
    "category": [
     "film"
    ],
@@ -1886,6 +1469,7 @@
    "range": "distant",
    "cost": "",
    "source": "savoy",
+   "note": "Noirvember series.",
    "link": "https://savoytheater.com/movies/out-of-the-past-2/",
    "link_kind": "event",
    "town": "Montpelier",
@@ -1893,6 +1477,26 @@
    "lat": 44.266,
    "lon": -72.572,
    "maps_q": "Savoy Theater, Montpelier, VT"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "",
+   "title": "\"Voices of Ireland\" - Don Stiffe, Ger O'Donnell & Trevor Sexton",
+   "category": [
+    "music"
+   ],
+   "where": "Barre Opera House, Barre",
+   "miles": 65,
+   "range": "distant",
+   "cost": "",
+   "source": "barre",
+   "link": "https://barreoperahouse.org/shows/voices-of-ireland-don-stiffe-ger-odonnell-and-trevor-sexton.html",
+   "link_kind": "event",
+   "town": "Barre",
+   "state": "VT",
+   "lat": 44.199,
+   "lon": -72.508,
+   "maps_q": "Barre Opera House, Barre, VT"
   },
   {
    "date": "2026-11-14",
@@ -1933,38 +1537,6 @@
    "lat": 44.46,
    "lon": -72.005,
    "maps_q": "Catamount Arts, St. Johnsbury, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-07",
-    "2026-11-12",
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "7:30 pm",
-   "title": "Tartuffe (MACo)",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-14",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
   },
   {
    "date": "2026-11-14",
@@ -2009,6 +1581,27 @@
   {
    "date": "2026-11-14",
    "time": "8:00 pm",
+   "title": "THE ZENNIVERSARY: ZenBarn's 10th Anniversary Party",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 7.",
+   "link": "https://zenbarnvt.com/event/the-zenniversary-zenbarn-s-10th-anniversary-party-november-14-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
+  },
+  {
+   "date": "2026-11-14",
+   "time": "8:00 pm",
    "title": "Phillip Phillips",
    "category": [
     "music"
@@ -2025,50 +1618,6 @@
    "lat": 44.436,
    "lon": -73.183,
    "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "dates": [
-    "2026-11-13",
-    "2026-11-14"
-   ],
-   "time": "Fri 7 pm, Sat 4 pm",
-   "title": "Opera Vermont Presents Costaso (World Premiere)",
-   "category": [
-    "music"
-   ],
-   "where": "Chandler Center for the Arts, Randolph",
-   "miles": 40,
-   "range": "distant",
-   "cost": "",
-   "source": "chandler",
-   "link": "https://www.chandler-arts.org/cca-events/opera-vermont-presents-costaso-(world-prem",
-   "link_kind": "event",
-   "date": "2026-11-14",
-   "town": "Randolph",
-   "state": "VT",
-   "lat": 43.922,
-   "lon": -72.611,
-   "maps_q": "Chandler Center for the Arts, Randolph, VT"
-  },
-  {
-   "date": "2026-11-14",
-   "time": "doors 7, show 8",
-   "title": "THE ZENNIVERSARY: ZenBarn's 10th Anniversary Party",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/the-zenniversary-zenbarn-s-10th-anniversary-party-november-14-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-15",
@@ -2091,93 +1640,48 @@
    "maps_q": "Paramount Theatre, Rutland, VT"
   },
   {
-   "dates": [
-    "2026-11-08",
-    "2026-11-15"
-   ],
-   "time": "2:00 pm",
-   "title": "Tartuffe (MACo), matinee",
-   "category": [
-    "theater"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15-$39",
-   "source": "townhall",
-   "link": "https://addisonarts.org/event/tartuffe/",
-   "link_kind": "event",
-   "date": "2026-11-15",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/07/event-featured-tartuffe-1783964904.png",
-   "desc": "Molière's con-man classic gets a modern makeover, swapping powdered wigs in Paris for velour tracksuits at a granite-countered New England McMansion.",
-   "tickets": [
-    "https://app.arts-people.com/index.php?show=348960"
-   ],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
-  },
-  {
    "date": "2026-11-15",
    "time": "3:00 pm",
    "title": "Middlebury College Community Chorus",
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/middlebury-college-community-chorus-10",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-15",
-   "time": "3:00 pm",
-   "title": "Upper Valley Symphony Orchestra",
-   "category": [
-    "music"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://secure.qgiv.com/for/uppervalleymusiccenter/event/uvsofall2026/",
-   "link_kind": "event",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
   },
   {
    "date": "2026-11-15",
    "time": "7:00 pm",
-   "title": "Stewart Copeland: Have I Said Too Much",
+   "title": "The Suitcase Junket: To Go On with special guest Caitlin Canty",
    "category": [
     "music"
    ],
-   "where": "Spruce Peak Arts, Stowe",
-   "miles": 55,
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
    "range": "distant",
    "cost": "",
-   "source": "higherground",
-   "link": "https://www.etix.com/ticket/p/83763822/stewart-copeland-stowe-spruce-peak-arts",
+   "source": "zenbarn",
+   "note": "Doors 6.",
+   "link": "https://zenbarnvt.com/event/the-suitcase-junket-to-go-on-with-special-guest-caitlin-canty-november-15-2026/",
    "link_kind": "event",
-   "town": "Stowe",
+   "town": "Waterbury",
    "state": "VT",
-   "lat": 44.492,
-   "lon": -72.713,
-   "maps_q": "Spruce Peak Arts, Stowe, VT"
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-15",
@@ -2220,33 +1724,13 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-15",
-   "time": "doors 6, show 7",
-   "title": "The Suitcase Junket: To Go On w/ Caitlin Canty",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/the-suitcase-junket-to-go-on-with-special-guest-caitlin-canty-november-15-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
    "date": "2026-11-16",
    "time": "4:30 pm",
    "title": "Ghost of Coral Reefs Past: Reconstructing Reef Shark Communities over Millennia",
    "category": [
     "outdoors"
    ],
-   "where": "McCardell Bicentennial Hall 220, Middlebury",
+   "where": "McCardell Bicentennial Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -2257,7 +1741,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "McCardell Bicentennial Hall 220, Middlebury, VT"
+   "maps_q": "McCardell Bicentennial Hall, Middlebury, VT"
   },
   {
    "date": "2026-11-16",
@@ -2304,13 +1788,17 @@
    "time": "6:30 pm",
    "title": "Middlebury Afropop Band and African Music and Dance Ensemble Joint Concert",
    "category": [
-    "music"
+    "music",
+    "dance"
    ],
    "where": "Wilson Hall, McCullough Student Center, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://www.middlebury.edu/events/event/middlebury-afropop-band-and-african-music-and-dance-ensemble-joint-concert",
    "link_kind": "event",
    "town": "Middlebury",
@@ -2320,28 +1808,29 @@
    "maps_q": "Wilson Hall, McCullough Student Center, Middlebury, VT"
   },
   {
-   "date": "2026-11-17",
-   "time": "7:00 pm",
-   "title": "Warren Miller's Days Off",
+   "date": "2026-11-18",
+   "time": "",
+   "title": "Joys & Concerns",
    "category": [
-    "film"
+    "social"
    ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "breadloafzen",
+   "note": "Online (Zoom).",
+   "link": "https://breadloafmountainzen.org/event/infinite-circle-community-tea-with-the-teachers-6-2/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-11-18",
-   "time": "11:00 am and 2:00 pm",
+   "time": "11:00 am",
    "title": "Jamie Wyeth & the Unflinching Eye",
    "category": [
     "art"
@@ -2351,6 +1840,10 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
+   "note": "Also shown 2:00 pm.",
    "link": "https://addisonarts.org/event/jamie-wyeth-the-unflinching-eye/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -2366,7 +1859,7 @@
    "category": [
     "music"
    ],
-   "where": "Middlebury Chapel",
+   "where": "Middlebury Chapel, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -2377,27 +1870,28 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Chapel, VT"
+   "maps_q": "Middlebury Chapel, Middlebury, VT"
   },
   {
    "date": "2026-11-18",
-   "time": "6:30 pm",
-   "title": "Pre-Concert Lecture by Stewart Goodyear",
+   "time": "7:00 pm",
+   "title": "Dobbs' Dead",
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center 125, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/pre-concert-lecture-stewart-goodyear-imani-winds-and-stewart-goodyear",
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 6.",
+   "link": "https://zenbarnvt.com/event/dobbs-dead-november-18-2026/",
    "link_kind": "event",
-   "town": "Middlebury",
+   "town": "Waterbury",
    "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Mahaney Arts Center 125, Middlebury, VT"
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-18",
@@ -2406,20 +1900,25 @@
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "also": [
+    "addisonarts"
+   ],
+   "note": "A free pre-concert lecture by Stewart Goodyear runs at 6:30 pm.",
    "link": "https://www.middlebury.edu/events/event/imani-winds-and-stewart-goodyear-piano",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
   },
   {
+   "date": "2026-11-18",
    "dates": [
     "2026-11-18",
     "2026-11-19",
@@ -2435,9 +1934,12 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts",
+    "middcollege"
+   ],
    "link": "https://addisonarts.org/event/the-addams-family/",
    "link_kind": "event",
-   "date": "2026-11-18",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -2485,26 +1987,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-18",
-   "time": "doors 6, show 7",
-   "title": "Dobbs' Dead",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/dobbs-dead-november-18-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
    "date": "2026-11-19",
    "time": "",
    "title": "Quality Ski Time Film Tour",
@@ -2531,7 +2013,7 @@
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$45",
@@ -2542,7 +2024,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-11-19",
@@ -2551,7 +2033,7 @@
    "category": [
     "outdoors"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -2562,7 +2044,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
   },
   {
    "date": "2026-11-19",
@@ -2585,6 +2067,48 @@
    "maps_q": "Red Clover Ale Company, Brandon, VT"
   },
   {
+   "date": "2026-11-19",
+   "time": "5:30 pm",
+   "title": "Psychedelics Roundtable",
+   "category": [
+    "social"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "link": "https://zenbarnvt.com/event/psychedelics-roundtable-november-19-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
+  },
+  {
+   "date": "2026-11-19",
+   "time": "7:00 pm",
+   "title": "Good Time Line Dancing Lesson",
+   "category": [
+    "dance"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 6.",
+   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-19-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
+  },
+  {
+   "date": "2026-11-19",
    "dates": [
     "2026-11-18",
     "2026-11-19",
@@ -2600,9 +2124,12 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts",
+    "middcollege"
+   ],
    "link": "https://addisonarts.org/event/the-addams-family/",
    "link_kind": "event",
-   "date": "2026-11-19",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -2641,6 +2168,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/after-hours-at-the-anderson/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -2670,50 +2200,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-19",
-   "time": "doors 6, show 7",
-   "title": "Good Time Line Dancing Lesson",
-   "category": [
-    "dance"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/good-time-line-dancing-lesson-november-19-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
-   "dates": [
-    "2026-11-06",
-    "2026-11-19"
-   ],
-   "time": "various",
-   "title": "\"The Cat in the Hat\" showtimes (Nov 6-19)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "date": "2026-11-19",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
-  },
-  {
    "date": "2026-11-20",
    "time": "",
    "title": "Golden Girls: The Laughs Continue",
@@ -2736,22 +2222,23 @@
   {
    "date": "2026-11-20",
    "time": "7:00 pm",
-   "title": "Community Coffeehouse Concert Series",
+   "title": "Patty Casey, Colin McCaffrey & Erica O'Hara",
    "category": [
     "music"
    ],
-   "where": "Catamount Arts, St. Johnsbury",
-   "miles": 100,
+   "where": "Seven Stars Arts Center, Sharon",
+   "miles": 50,
    "range": "distant",
-   "cost": "",
-   "source": "catamount",
-   "link": "https://www.catamountarts.org/show/details/community-coffeehouse-concert-series-2/",
+   "cost": "$20-$25",
+   "source": "sevenstars",
+   "note": "Doors 6:30.",
+   "link": "https://events.humanitix.com/patty-casey-colin-mccaffrey-and-eric-o-hara",
    "link_kind": "event",
-   "town": "St. Johnsbury",
+   "town": "Sharon",
    "state": "VT",
-   "lat": 44.46,
-   "lon": -72.005,
-   "maps_q": "Catamount Arts, St. Johnsbury, VT"
+   "lat": 43.788,
+   "lon": -72.435,
+   "maps_q": "Seven Stars Arts Center, Sharon, VT"
   },
   {
    "date": "2026-11-20",
@@ -2775,25 +2262,6 @@
   },
   {
    "date": "2026-11-20",
-   "time": "7:00 pm, doors 6:30",
-   "title": "Patty Casey, Colin McCaffrey & Erica O'Hara",
-   "category": [
-    "music"
-   ],
-   "where": "Seven Stars Arts Center, Sharon",
-   "miles": 50,
-   "range": "distant",
-   "cost": "$20/$25",
-   "source": "sevenstars",
-   "link": "https://events.humanitix.com/patty-casey-colin-mccaffrey-and-eric-o-hara",
-   "link_kind": "event",
-   "town": "Sharon",
-   "state": "VT",
-   "lat": 43.788,
-   "lon": -72.435,
-   "maps_q": "Seven Stars Arts Center, Sharon, VT"
-  },
-  {
    "dates": [
     "2026-11-18",
     "2026-11-19",
@@ -2809,9 +2277,12 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts",
+    "middcollege"
+   ],
    "link": "https://addisonarts.org/event/the-addams-family/",
    "link_kind": "event",
-   "date": "2026-11-20",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -2830,6 +2301,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/plucked-film-screening/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -2837,6 +2311,27 @@
    "lat": 44.002,
    "lon": -73.119,
    "maps_q": "Town Hall Theater, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-20",
+   "time": "8:00 pm",
+   "title": "Big Shrimp with special guest Ryan Dempsey",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 7.",
+   "link": "https://zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-dempsey-november-20-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-20",
@@ -2877,26 +2372,6 @@
    "lat": 44.436,
    "lon": -73.183,
    "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "date": "2026-11-20",
-   "time": "doors 7, show 8",
-   "title": "Big Shrimp w/ Ryan Dempsey",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-dempsey-november-20-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-21",
@@ -2941,7 +2416,7 @@
   {
    "date": "2026-11-21",
    "time": "",
-   "title": "The Killers (Noirvember)",
+   "title": "The Killers",
    "category": [
     "film"
    ],
@@ -2950,6 +2425,7 @@
    "range": "distant",
    "cost": "",
    "source": "savoy",
+   "note": "Noirvember series.",
    "link": "https://savoytheater.com/movies/the-killers-2/",
    "link_kind": "event",
    "town": "Montpelier",
@@ -3000,6 +2476,26 @@
   },
   {
    "date": "2026-11-21",
+   "time": "",
+   "title": "WORST. SONG. EVER.",
+   "category": [
+    "theater"
+   ],
+   "where": "Barre Opera House, Barre",
+   "miles": 65,
+   "range": "distant",
+   "cost": "",
+   "source": "barre",
+   "link": "https://barreoperahouse.org/shows/worst.-song.-ever.html",
+   "link_kind": "event",
+   "town": "Barre",
+   "state": "VT",
+   "lat": 44.199,
+   "lon": -72.508,
+   "maps_q": "Barre Opera House, Barre, VT"
+  },
+  {
+   "date": "2026-11-21",
    "time": "1:00 pm",
    "title": "The MET: Live in HD - Macbeth",
    "category": [
@@ -3010,6 +2506,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/the-met-live-in-hd-macbeth/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -3081,6 +2580,27 @@
   {
    "date": "2026-11-21",
    "time": "8:00 pm",
+   "title": "Jesse Roper",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 7.",
+   "link": "https://zenbarnvt.com/event/jesse-roper-november-21-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
+  },
+  {
+   "date": "2026-11-21",
+   "time": "8:00 pm",
    "title": "Greg Freeman",
    "category": [
     "music"
@@ -3099,29 +2619,9 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-21",
-   "time": "doors 7, show 8",
-   "title": "Jesse Roper",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/jesse-roper-november-21-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
    "date": "2026-11-22",
    "time": "",
-   "title": "American Doctor (Palestine-Israel Film Series)",
+   "title": "American Doctor",
    "category": [
     "film"
    ],
@@ -3130,6 +2630,7 @@
    "range": "distant",
    "cost": "",
    "source": "savoy",
+   "note": "Palestine-Israel Film Series.",
    "link": "https://savoytheater.com/movies/american-doctor/",
    "link_kind": "event",
    "town": "Montpelier",
@@ -3137,6 +2638,27 @@
    "lat": 44.266,
    "lon": -72.572,
    "maps_q": "Savoy Theater, Montpelier, VT"
+  },
+  {
+   "date": "2026-11-22",
+   "time": "1:00-4:00 pm",
+   "title": "An Afternoon of Ease and Joy",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "breadloafzen",
+   "note": "Hybrid half-day retreat.",
+   "link": "https://breadloafmountainzen.org/event/an-afternoon-of-ease-and-joy-hybrid-half-day-retreat/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-11-22",
@@ -3150,6 +2672,9 @@
    "range": "distant",
    "cost": "",
    "source": "burnham",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/the-brother-brothers-at-burnham-presents/",
    "link_kind": "event",
    "town": "Lincoln",
@@ -3210,6 +2735,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/warren-miller-presents-days-off/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -3239,8 +2767,49 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
+   "date": "2026-11-24",
+   "time": "7:00 am",
+   "title": "Gate of Sweet Nectar (New Moon chanting ceremony)",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "breadloafzen",
+   "link": "https://breadloafmountainzen.org/event/gate-of-sweet-nectar-2-2/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-24",
+   "time": "7:00 am",
+   "title": "Precepts Reflection and Renewal Ceremony",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "breadloafzen",
+   "note": "Full Moon ceremony, hybrid.",
+   "link": "https://breadloafmountainzen.org/event/precepts-reflection-and-renewal-ceremony-2-2/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
+  },
+  {
    "date": "2026-11-25",
-   "time": "doors 6, show 7",
+   "time": "7:00 pm",
    "title": "Dead not Dead",
    "category": [
     "music"
@@ -3250,6 +2819,7 @@
    "range": "distant",
    "cost": "",
    "source": "zenbarn",
+   "note": "Doors 6.",
    "link": "https://zenbarnvt.com/event/dead-not-dead-november-25-2026/",
    "link_kind": "event",
    "town": "Waterbury",
@@ -3261,7 +2831,7 @@
   {
    "date": "2026-11-27",
    "time": "11:00 am-3:00 pm",
-   "title": "Rolling down the Tracks: Holiday Trains! (opens; runs through Jan 2)",
+   "title": "Rolling down the Tracks: Holiday Trains! opens",
    "category": [
     "social"
    ],
@@ -3270,13 +2840,35 @@
    "range": "local",
    "cost": "",
    "source": "sheldon",
-   "link": "https://henrysheldonmuseum.org/events/holidaytrains",
+   "note": "Lionel train layout; runs through 2 Jan.",
+   "link": "https://www.henrysheldonmuseum.org/events/holidaytrains",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
    "maps_q": "Henry Sheldon Museum, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-27",
+   "time": "8:00 pm",
+   "title": "An Evening with Club D'Elf",
+   "category": [
+    "music"
+   ],
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
+   "range": "distant",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 7.",
+   "link": "https://zenbarnvt.com/event/an-evening-with-club-d-elf-november-27-2026/",
+   "link_kind": "event",
+   "town": "Waterbury",
+   "state": "VT",
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-11-27",
@@ -3299,44 +2891,25 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-11-27",
-   "time": "doors 7, show 8",
-   "title": "An Evening with Club D'Elf",
-   "category": [
-    "music"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/an-evening-with-club-d-elf-november-27-2026/",
-   "link_kind": "event",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
    "date": "2026-11-28",
-   "time": "11:00 am-12:00 pm",
-   "title": "Book Group",
+   "time": "",
+   "title": "Integration Circle",
    "category": [
     "social"
    ],
-   "where": "Chaffee Art Center, Rutland",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
    "miles": 17,
    "range": "local",
-   "cost": "",
-   "source": "chaffee",
-   "link": "https://www.chaffeeartcenter.org/book-club/",
+   "cost": "free",
+   "source": "breadloafzen",
+   "note": "Online (Zoom).",
+   "link": "https://breadloafmountainzen.org/event/infinite-circle-community-tea-with-the-teachers-6-2/",
    "link_kind": "event",
-   "town": "Rutland",
+   "town": "Middlebury",
    "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Chaffee Art Center, Rutland, VT"
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-11-28",
@@ -3390,6 +2963,9 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
+   "also": [
+    "addisonarts"
+   ],
    "link": "https://addisonarts.org/event/dead-set-a-celebration-of-the-grateful-dead/",
    "link_kind": "event",
    "town": "Middlebury",
@@ -3420,7 +2996,7 @@
   },
   {
    "date": "2026-11-28",
-   "time": "doors 7, show 8",
+   "time": "8:00 pm",
    "title": "Weird Phishes: Radiohead Through the Lens of Phish",
    "category": [
     "music"
@@ -3430,6 +3006,7 @@
    "range": "distant",
    "cost": "",
    "source": "zenbarn",
+   "note": "Doors 7.",
    "link": "https://zenbarnvt.com/event/weird-phishes-radiohead-through-the-lens-of-phish-november-28-2026/",
    "link_kind": "event",
    "town": "Waterbury",
@@ -3457,6 +3034,26 @@
    "lat": 43.805,
    "lon": -73.075,
    "maps_q": "Red Clover Ale Company, Brandon, VT"
+  },
+  {
+   "date": "2026-11-29",
+   "time": "3:30 pm",
+   "title": "Memory Tree Festivities",
+   "category": [
+    "social"
+   ],
+   "where": "downtown Brandon, Brandon",
+   "miles": 0,
+   "range": "local",
+   "cost": "free",
+   "source": "brandon",
+   "link": "https://brandon.org/events-and-happenings/",
+   "link_kind": "calendar",
+   "town": "Brandon",
+   "state": "VT",
+   "lat": 43.805,
+   "lon": -73.075,
+   "maps_q": "downtown Brandon, Brandon, VT"
   },
   {
    "date": "2026-11-29",
@@ -3521,22 +3118,23 @@
   {
    "date": "2026-12-01",
    "time": "",
-   "title": "Intro to Charcoal: Shading and Sketching (Session 4 begins)",
+   "title": "Intro to Charcoal: Shading and Sketching (Session 4)",
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$120",
    "source": "studioschool",
+   "note": "Runs through Dec 15.",
    "link": "https://middleburystudioschool.corsizio.com/event/6ae4b98b304cea1114aaec6e",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-01",
@@ -3545,7 +3143,7 @@
    "category": [
     "dance"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -3556,7 +3154,28 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-01",
+   "time": "5:30 pm",
+   "title": "Rohatsu Sesshin (eight days of practice)",
+   "category": [
+    "social"
+   ],
+   "where": "Bread Loaf Mountain Zen Community, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "breadloafzen",
+   "note": "Hybrid, runs through Dec 8.",
+   "link": "https://breadloafmountainzen.org/event/rohatsu-sesshin-eight-days-of-practice-together/",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury, VT"
   },
   {
    "date": "2026-12-01",
@@ -3565,7 +3184,7 @@
    "category": [
     "theater"
    ],
-   "where": "McCardell Bicentennial Hall 220, Middlebury",
+   "where": "McCardell Bicentennial Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -3576,7 +3195,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "McCardell Bicentennial Hall 220, Middlebury, VT"
+   "maps_q": "McCardell Bicentennial Hall, Middlebury, VT"
   },
   {
    "date": "2026-12-02",
@@ -3585,7 +3204,7 @@
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$95",
@@ -3596,31 +3215,31 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-02",
-   "time": "7:30 pm",
-   "title": "Middlebury Jazz Ensemble",
+   "time": "",
+   "title": "A Charlie Brown Christmas – Live on Stage!",
    "category": [
-    "music"
+    "theater"
    ],
-   "where": "Middlebury College",
+   "where": "Paramount Theatre, Rutland",
    "miles": 17,
    "range": "local",
    "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/middlebury-jazz-ensemble",
+   "source": "paramount",
+   "link": "https://paramountvt.org/event/a-charlie-brown-christmas-2/",
    "link_kind": "event",
-   "town": "Middlebury",
+   "town": "Rutland",
    "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "lat": 43.61,
+   "lon": -72.978,
+   "maps_q": "Paramount Theatre, Rutland, VT"
   },
   {
    "date": "2026-12-02",
-   "time": "doors 6, show 7",
+   "time": "7:00 pm",
    "title": "Local Strangers",
    "category": [
     "music"
@@ -3630,6 +3249,7 @@
    "range": "distant",
    "cost": "",
    "source": "zenbarn",
+   "note": "Doors 6.",
    "link": "https://zenbarnvt.com/event/local-strangers-december-2-2026/",
    "link_kind": "event",
    "town": "Waterbury",
@@ -3639,13 +3259,53 @@
    "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
+   "date": "2026-12-02",
+   "time": "7:30 pm",
+   "title": "Middlebury Jazz Ensemble",
+   "category": [
+    "music"
+   ],
+   "where": "Middlebury College, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "middcollege",
+   "link": "https://www.middlebury.edu/events/index.php/event/middlebury-jazz-ensemble",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Middlebury College, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-02",
+   "time": "9:00 am",
+   "title": "Coffee Pop up! little seed",
+   "category": [
+    "social"
+   ],
+   "where": "Mahaney Arts Center, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "middcollege",
+   "link": "https://www.middlebury.edu/events/event/coffee-pop-little-seed-0",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Mahaney Arts Center, Middlebury, VT"
+  },
+  {
    "date": "2026-12-03",
    "time": "",
-   "title": "Paint and Sip: Winter Paint Along",
+   "title": "Paint and Sip - Winter Paint Along",
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$45",
@@ -3656,7 +3316,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-03",
@@ -3665,7 +3325,7 @@
    "category": [
     "outdoors"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "free",
@@ -3676,27 +3336,27 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
   },
   {
    "date": "2026-12-03",
-   "time": "6:15 pm",
-   "title": "Pre-Concert Lecture by Larry Hamberlin: Sophie Shao and Friends",
+   "time": "7:00 pm",
+   "title": "Breathing in a Time of Disaster",
    "category": [
-    "music"
+    "social"
    ],
-   "where": "Mahaney Arts Center 125, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/pre-concert-lecture-larry-hamberlin-sophie-shao-and-friends",
+   "where": "Catamount Arts, St. Johnsbury",
+   "miles": 100,
+   "range": "distant",
+   "cost": "",
+   "source": "catamount",
+   "link": "https://www.catamountarts.org/show/details/breathing-in-a-time-of-disaster/",
    "link_kind": "event",
-   "town": "Middlebury",
+   "town": "St. Johnsbury",
    "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Mahaney Arts Center 125, Middlebury, VT"
+   "lat": 44.46,
+   "lon": -72.005,
+   "maps_q": "Catamount Arts, St. Johnsbury, VT"
   },
   {
    "date": "2026-12-03",
@@ -3705,18 +3365,19 @@
    "category": [
     "music"
    ],
-   "where": "Mahaney Arts Center, Robison Concert Hall, Middlebury",
+   "where": "Robison Concert Hall, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "note": "A free pre-concert lecture by Larry Hamberlin runs at 6:15 pm.",
    "link": "https://www.middlebury.edu/events/event/sophie-shao-and-friends-4",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Mahaney Arts Center, Robison Concert Hall, Middlebury, VT"
+   "maps_q": "Robison Concert Hall, Middlebury, VT"
   },
   {
    "date": "2026-12-03",
@@ -3745,7 +3406,7 @@
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$80",
@@ -3756,67 +3417,33 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-04",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07"
+   ],
    "time": "",
-   "title": "A Charlie Brown Christmas - Live on Stage!",
+   "title": "A Wonderful Life '26",
    "category": [
     "theater"
    ],
-   "where": "Paramount Theatre, Rutland",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "paramount",
-   "link": "https://paramountvt.org/event/a-charlie-brown-christmas-2/",
-   "link_kind": "event",
-   "town": "Rutland",
-   "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Paramount Theatre, Rutland, VT"
-  },
-  {
-   "date": "2026-12-04",
-   "time": "7:00 pm",
-   "title": "Hadestown: Teen Edition",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
+   "where": "Lost Nation Theater, Montpelier",
+   "miles": 65,
    "range": "distant",
    "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
-  },
-  {
-   "date": "2026-12-04",
-   "time": "7:00 pm",
-   "title": "Welcome to Night Vale",
-   "category": [
-    "theater"
-   ],
-   "where": "Spruce Peak Arts, Stowe",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "higherground",
-   "link": "https://www.etix.com/ticket/p/41245717/welcome-to-night-vale-stowe-spruce-peak-arts",
+   "source": "lostnation",
+   "link": "https://lostnationtheater.org/a-wonderful-life-26.html",
    "link_kind": "event",
-   "town": "Stowe",
+   "town": "Montpelier",
    "state": "VT",
-   "lat": 44.492,
-   "lon": -72.713,
-   "maps_q": "Spruce Peak Arts, Stowe, VT"
+   "lat": 44.266,
+   "lon": -72.572,
+   "maps_q": "Lost Nation Theater, Montpelier, VT"
   },
   {
    "date": "2026-12-04",
@@ -3825,19 +3452,18 @@
    "category": [
     "theater"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
    "link": "https://www.middlebury.edu/events/event/antigone",
    "link_kind": "event",
-   "note": "also Dec 5 at 2:00 pm and 7:30 pm, Dec 6 at 2:00 pm",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
   },
   {
    "date": "2026-12-04",
@@ -3901,12 +3527,38 @@
   },
   {
    "date": "2026-12-05",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07"
+   ],
+   "time": "",
+   "title": "A Wonderful Life '26",
+   "category": [
+    "theater"
+   ],
+   "where": "Lost Nation Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "cost": "",
+   "source": "lostnation",
+   "link": "https://lostnationtheater.org/a-wonderful-life-26.html",
+   "link_kind": "event",
+   "town": "Montpelier",
+   "state": "VT",
+   "lat": 44.266,
+   "lon": -72.572,
+   "maps_q": "Lost Nation Theater, Montpelier, VT"
+  },
+  {
+   "date": "2026-12-05",
    "time": "",
    "title": "Fused Glass Workshop: Ornaments and Winter Suncatchers",
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$105",
@@ -3917,28 +3569,27 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-05",
    "time": "",
-   "title": "VSO Holiday Pops",
+   "title": "Vermont Symphony Orchestra Holiday Pops 2026",
    "category": [
     "music"
    ],
-   "where": "Paramount Theatre, Rutland",
-   "miles": 17,
-   "range": "local",
+   "where": "Barre Opera House, Barre",
+   "miles": 65,
+   "range": "distant",
    "cost": "",
-   "source": "paramount",
-   "link": "https://paramountvt.org/event/vso-holiday-pops-6/",
+   "source": "barre",
+   "link": "https://ci.ovationtix.com/36347/production/1290706",
    "link_kind": "event",
-   "note": "Details not recently reconfirmed; please check with the organizer",
-   "town": "Rutland",
+   "town": "Barre",
    "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Paramount Theatre, Rutland, VT"
+   "lat": 44.199,
+   "lon": -72.508,
+   "maps_q": "Barre Opera House, Barre, VT"
   },
   {
    "date": "2026-12-05",
@@ -3952,7 +3603,7 @@
    "range": "local",
    "cost": "",
    "source": "townhall",
-   "link": "https://app.arts-people.com/index.php?calendar=twnht&month=12~2026",
+   "link": "https://app.arts-people.com/index.php?calendar=twnht",
    "link_kind": "calendar",
    "town": "Middlebury",
    "state": "VT",
@@ -3967,86 +3618,19 @@
    "category": [
     "theater"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
    "source": "middcollege",
+   "note": "Also 7:30 pm.",
    "link": "https://www.middlebury.edu/events/event/antigone-0",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
-  },
-  {
-   "dates": [
-    "2026-12-05",
-    "2026-12-05"
-   ],
-   "time": "2:00 pm and 7:00 pm",
-   "title": "Grand Kyiv Ballet Presents the Nutcracker: Symphony of Lights",
-   "category": [
-    "dance"
-   ],
-   "where": "Chandler Center for the Arts, Randolph",
-   "miles": 40,
-   "range": "distant",
-   "cost": "",
-   "source": "chandler",
-   "link": "https://www.chandler-arts.org/cca-events/grand-kyiv-ballet-presents-swan-lake%3A-symphony-of-lights",
-   "link_kind": "event",
-   "date": "2026-12-05",
-   "town": "Randolph",
-   "state": "VT",
-   "lat": 43.922,
-   "lon": -72.611,
-   "maps_q": "Chandler Center for the Arts, Randolph, VT"
-  },
-  {
-   "dates": [
-    "2026-12-05",
-    "2026-12-05"
-   ],
-   "time": "2:00 pm and 7:00 pm",
-   "title": "Grand Kyiv Ballet Presents the Nutcracker: Symphony of Lights",
-   "category": [
-    "dance"
-   ],
-   "where": "Chandler Center for the Arts, Randolph",
-   "miles": 40,
-   "range": "distant",
-   "cost": "",
-   "source": "chandler",
-   "link": "https://www.chandler-arts.org/cca-events/grand-kyiv-ballet-presents-swan-lake%3A-symphony-of-lights",
-   "link_kind": "event",
-   "date": "2026-12-05",
-   "town": "Randolph",
-   "state": "VT",
-   "lat": 43.922,
-   "lon": -72.611,
-   "maps_q": "Chandler Center for the Arts, Randolph, VT"
-  },
-  {
-   "date": "2026-12-05",
-   "time": "4:00 pm",
-   "title": "Logan Reisterer",
-   "category": [
-    "music"
-   ],
-   "where": "Red Clover Ale Company, Brandon",
-   "miles": 0,
-   "range": "local",
-   "cost": "",
-   "source": "redclover",
-   "link": "https://redcloverale.com",
-   "link_kind": "calendar",
-   "town": "Brandon",
-   "state": "VT",
-   "lat": 43.805,
-   "lon": -73.075,
-   "maps_q": "Red Clover Ale Company, Brandon, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
   },
   {
    "date": "2026-12-05",
@@ -4091,26 +3675,6 @@
   {
    "date": "2026-12-05",
    "time": "7:00 pm",
-   "title": "Hadestown: Teen Edition",
-   "category": [
-    "theater"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/calendar/",
-   "link_kind": "calendar",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
-  },
-  {
-   "date": "2026-12-05",
-   "time": "7:00 pm, doors 6:30",
    "title": "Four Guitars",
    "category": [
     "music"
@@ -4118,8 +3682,9 @@
    "where": "Seven Stars Arts Center, Sharon",
    "miles": 50,
    "range": "distant",
-   "cost": "$20/$25",
+   "cost": "$20-$25",
    "source": "sevenstars",
+   "note": "Doors 6:30.",
    "link": "https://events.humanitix.com/four-guitars-eqy4payt",
    "link_kind": "event",
    "town": "Sharon",
@@ -4130,26 +3695,10 @@
   },
   {
    "date": "2026-12-05",
-   "time": "7:30 pm",
-   "title": "Antigone",
-   "category": [
-    "theater"
+   "dates": [
+    "2026-12-05",
+    "2026-12-06"
    ],
-   "where": "Middlebury College",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/antigone-1",
-   "link_kind": "event",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
-  },
-  {
-   "date": "2026-12-05",
    "time": "7:30 pm",
    "title": "J. W. Goethe, \"Urfaust\"",
    "category": [
@@ -4162,7 +3711,6 @@
    "source": "middcollege",
    "link": "https://www.middlebury.edu/events/event/j-w-goethe-urfaust",
    "link_kind": "event",
-   "note": "also Dec 6 at 7:30 pm",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -4176,7 +3724,7 @@
    "category": [
     "music"
    ],
-   "where": "Middlebury College",
+   "where": "Middlebury College, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
@@ -4187,7 +3735,31 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Middlebury College, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-05",
+   "time": "7:30 pm",
+   "title": "Kalos at Burnham Presents",
+   "category": [
+    "music"
+   ],
+   "where": "Burnham Hall, Lincoln",
+   "miles": 30,
+   "range": "distant",
+   "cost": "$25-$30",
+   "source": "burnham",
+   "also": [
+    "addisonarts"
+   ],
+   "note": "Doors 7.",
+   "link": "https://www.burnhampresents.org/event-details/kalos",
+   "link_kind": "event",
+   "town": "Lincoln",
+   "state": "VT",
+   "lat": 44.093,
+   "lon": -72.974,
+   "maps_q": "Burnham Hall, Lincoln, VT"
   },
   {
    "date": "2026-12-05",
@@ -4211,23 +3783,24 @@
   },
   {
    "date": "2026-12-05",
-   "time": "7:30 pm, doors 7",
-   "title": "Kalos at Burnham Presents",
+   "time": "8:00 pm",
+   "title": "Into the Floyd",
    "category": [
     "music"
    ],
-   "where": "Burnham Hall, Lincoln",
-   "miles": 30,
+   "where": "ZenBarn, Waterbury Center",
+   "miles": 70,
    "range": "distant",
-   "cost": "$25-$30",
-   "source": "burnham",
-   "link": "https://www.burnhampresents.org/event-details/kalos",
+   "cost": "",
+   "source": "zenbarn",
+   "note": "Doors 7.",
+   "link": "https://zenbarnvt.com/event/into-the-floyd-december-5-2026/",
    "link_kind": "event",
-   "town": "Lincoln",
+   "town": "Waterbury",
    "state": "VT",
-   "lat": 44.093,
-   "lon": -72.974,
-   "maps_q": "Burnham Hall, Lincoln, VT"
+   "lat": 44.388,
+   "lon": -72.74,
+   "maps_q": "ZenBarn, Waterbury Center, VT"
   },
   {
    "date": "2026-12-05",
@@ -4270,24 +3843,30 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "date": "2026-12-05",
-   "time": "doors 7, show 8",
-   "title": "Into the Floyd",
-   "category": [
-    "music"
+   "date": "2026-12-06",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07"
    ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
+   "time": "",
+   "title": "A Wonderful Life '26",
+   "category": [
+    "theater"
+   ],
+   "where": "Lost Nation Theater, Montpelier",
+   "miles": 65,
    "range": "distant",
    "cost": "",
-   "source": "zenbarn",
-   "link": "https://zenbarnvt.com/event/into-the-floyd-december-5-2026/",
+   "source": "lostnation",
+   "link": "https://lostnationtheater.org/a-wonderful-life-26.html",
    "link_kind": "event",
-   "town": "Waterbury",
+   "town": "Montpelier",
    "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
+   "lat": 44.266,
+   "lon": -72.572,
+   "maps_q": "Lost Nation Theater, Montpelier, VT"
   },
   {
    "date": "2026-12-06",
@@ -4296,7 +3875,7 @@
    "category": [
     "art"
    ],
-   "where": "Middlebury Studio School",
+   "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "$115",
@@ -4307,7 +3886,7 @@
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury Studio School, VT"
+   "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
    "date": "2026-12-06",
@@ -4331,23 +3910,43 @@
   },
   {
    "date": "2026-12-06",
-   "time": "2:00 pm",
-   "title": "Antigone",
+   "time": "12:00 pm",
+   "title": "Spectacular Spectacular",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "cost": "",
+   "source": "higherground",
+   "link": "https://wl.seetickets.us/event/spectacular-spectacular/710189?afflky=HigherGround",
+   "link_kind": "event",
+   "town": "South Burlington",
+   "state": "VT",
+   "lat": 44.436,
+   "lon": -73.183,
+   "maps_q": "Higher Ground, South Burlington, VT"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "3:00 pm",
+   "title": "THT Fall Class Culmination",
    "category": [
     "theater"
    ],
-   "where": "Middlebury College",
+   "where": "Town Hall Theater, Middlebury",
    "miles": 17,
    "range": "local",
    "cost": "",
-   "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/antigone-2",
+   "source": "townhall",
+   "link": "https://addisonarts.org/event/tht-fall-class-culmination/",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
    "lon": -73.119,
-   "maps_q": "Middlebury College, VT"
+   "maps_q": "Town Hall Theater, Middlebury, VT"
   },
   {
    "date": "2026-12-06",
@@ -4359,8 +3958,9 @@
    "where": "Aleshire Gallery, Brandon",
    "miles": 0,
    "range": "local",
-   "cost": "suggested donation $10",
+   "cost": "suggested $10",
    "source": "aleshire",
+   "note": "Gallery opens at 4 pm.",
    "link": "https://www.aleshiregallery.com/events",
    "link_kind": "calendar",
    "town": "Brandon",
@@ -4371,6 +3971,10 @@
   },
   {
    "date": "2026-12-06",
+   "dates": [
+    "2026-12-05",
+    "2026-12-06"
+   ],
    "time": "7:30 pm",
    "title": "J. W. Goethe, \"Urfaust\"",
    "category": [
@@ -4381,7 +3985,7 @@
    "range": "local",
    "cost": "",
    "source": "middcollege",
-   "link": "https://www.middlebury.edu/events/event/j-w-goethe-urfaust-0",
+   "link": "https://www.middlebury.edu/events/event/j-w-goethe-urfaust",
    "link_kind": "event",
    "town": "Middlebury",
    "state": "VT",
@@ -4408,71 +4012,128 @@
    "lat": 44.436,
    "lon": -73.183,
    "maps_q": "Higher Ground, South Burlington, VT"
+  },
+  {
+   "date": "2026-12-07",
+   "dates": [
+    "2026-12-04",
+    "2026-12-05",
+    "2026-12-06",
+    "2026-12-07"
+   ],
+   "time": "",
+   "title": "A Wonderful Life '26",
+   "category": [
+    "theater"
+   ],
+   "where": "Lost Nation Theater, Montpelier",
+   "miles": 65,
+   "range": "distant",
+   "cost": "",
+   "source": "lostnation",
+   "link": "https://lostnationtheater.org/a-wonderful-life-26.html",
+   "link_kind": "event",
+   "town": "Montpelier",
+   "state": "VT",
+   "lat": 44.266,
+   "lon": -72.572,
+   "maps_q": "Lost Nation Theater, Montpelier, VT"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "5:00 pm",
+   "title": "Dance Department Showing - Dance in Process",
+   "category": [
+    "dance"
+   ],
+   "where": "Middlebury College, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "free",
+   "source": "middcollege",
+   "link": "https://www.middlebury.edu/events/event/dance-department-showing-dance-process",
+   "link_kind": "event",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Middlebury College, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-07",
+   "time": "8:00 pm",
+   "title": "Bit Brigade",
+   "category": [
+    "music"
+   ],
+   "where": "Higher Ground, South Burlington",
+   "miles": 55,
+   "range": "distant",
+   "cost": "",
+   "source": "higherground",
+   "link": "https://wl.seetickets.us/event/bit-brigade/706074?afflky=HigherGround",
+   "link_kind": "event",
+   "town": "South Burlington",
+   "state": "VT",
+   "lat": 44.436,
+   "lon": -73.183,
+   "maps_q": "Higher Ground, South Burlington, VT"
   }
  ],
  "recurring": [
   {
-   "title": "Morning Meditation",
-   "when": "weekdays 7:00-7:40 am, weekends 7:00-8:00 am",
+   "title": "Morning meditation",
+   "when": "weekdays 7-7:40 am, weekends 7-8 am",
    "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
+   "link": "https://breadloafmountainzen.org/event/morning-meditation-2/",
    "category": [
     "social"
-   ],
-   "link": "https://breadloafmountainzen.org/series/morning-meditation/"
+   ]
   },
   {
-   "title": "Weekly Free Poetry Workshop",
-   "when": "Tuesdays 6:30-8:30 pm",
-   "where": "Ruth Stone House, Goshen",
+   "title": "Wednesday Dharma Talks",
+   "when": "Wednesdays 5:30-6:30 pm",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
+   "link": "https://breadloafmountainzen.org/event/dharma-talk-sensei-peg-kendo-murray-3/",
    "category": [
-    "art"
-   ],
-   "link": "https://ruthstonehouse.org/workshop"
+    "social"
+   ]
+  },
+  {
+   "title": "Meditation for a Shared World",
+   "when": "Mondays and Thursdays 5:15-6:30 pm",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
+   "link": "https://breadloafmountainzen.org/event/meditation-for-a-shared-world/",
+   "category": [
+    "social"
+   ]
   },
   {
    "title": "Weekly Politics Luncheon",
    "when": "Mondays 12:30 pm",
-   "where": "Robert A. Jones '59 Conference Room, Middlebury",
+   "where": "Jones Conference Room, Middlebury",
+   "link": "https://www.middlebury.edu/events",
    "category": [
     "social"
-   ],
-   "link": "https://www.middlebury.edu/events"
+   ]
   },
   {
-   "title": "Ukulele Group",
-   "when": "Thursdays 12-1 pm",
-   "where": "Chaffee Art Center, Rutland",
-   "category": [
-    "music"
-   ],
-   "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#ukulele"
-  },
-  {
-   "title": "Artery (open studio group)",
-   "when": "Fridays 10 am-12 pm",
-   "where": "Chaffee Art Center, Rutland",
+   "title": "Free poetry workshop",
+   "when": "Tuesdays 6:30-8:30 pm",
+   "where": "Ruth Stone House, Goshen",
+   "link": "https://ruthstonehouse.org/workshop",
    "category": [
     "art"
-   ],
-   "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#artery"
+   ]
   },
   {
-   "title": "Creative Canvas (all ages)",
-   "when": "Saturdays 12-2 pm",
-   "where": "Chaffee Art Center, Rutland",
-   "category": [
-    "art"
-   ],
-   "link": "https://www.chaffeeartcenter.org/adult-classes-coming-soon/#canvas"
-  },
-  {
-   "title": "Sundays on Wax w/ DJ Daniel",
+   "title": "Sundays on Wax with DJ Daniel",
    "when": "second Sunday of the month, 12-5 pm",
    "where": "Red Clover Ale Company, Brandon",
+   "link": "https://redcloverale.com",
    "category": [
     "music"
-   ],
-   "link": "https://redcloverale.com"
+   ]
   }
  ]
 }

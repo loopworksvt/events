@@ -1,0 +1,280 @@
+{
+ "scanned": "2026-11-06",
+ "sources": [
+  {
+   "id": "ava",
+   "name": "AVA Gallery and Art Center",
+   "town": "Lebanon",
+   "kinds": [
+    "art"
+   ],
+   "url": "https://www.avagallery.org/events",
+   "events": 0
+  },
+  {
+   "id": "billings",
+   "name": "Billings Farm and Museum",
+   "town": "Woodstock",
+   "kinds": [
+    "social",
+    "outdoors"
+   ],
+   "url": "https://billingsfarm.org/events/",
+   "events": 4
+  },
+  {
+   "id": "chandler",
+   "name": "Chandler Center for the Arts",
+   "town": "Randolph",
+   "kinds": [
+    "music",
+    "theater",
+    "art"
+   ],
+   "url": "https://www.chandler-arts.org/",
+   "events": 8
+  },
+  {
+   "id": "claremont",
+   "name": "Claremont Opera House",
+   "town": "Claremont",
+   "kinds": [
+    "theater",
+    "music",
+    "film"
+   ],
+   "url": "https://www.claremontoperahouse.com/",
+   "events": 4
+  },
+  {
+   "id": "enfieldshaker",
+   "name": "Enfield Shaker Museum",
+   "town": "Enfield",
+   "kinds": [
+    "art",
+    "social",
+    "talks"
+   ],
+   "url": "https://www.shakermuseum.org/events",
+   "events": 10
+  },
+  {
+   "id": "greateruppervalley",
+   "name": "Greater Upper Valley events",
+   "town": "Upper Valley (various)",
+   "kinds": [
+    "social",
+    "music",
+    "art",
+    "theater",
+    "outdoors"
+   ],
+   "url": "https://greateruppervalley.com/events",
+   "events": 0
+  },
+  {
+   "id": "hood",
+   "name": "Hood Museum of Art",
+   "town": "Hanover",
+   "kinds": [
+    "art",
+    "talks"
+   ],
+   "url": "https://hoodmuseum.dartmouth.edu/events",
+   "events": 5
+  },
+  {
+   "id": "hopkins",
+   "name": "Hopkins Center for the Arts",
+   "town": "Hanover",
+   "kinds": [
+    "music",
+    "theater",
+    "dance",
+    "film",
+    "art"
+   ],
+   "url": "https://hop.dartmouth.edu/events",
+   "events": 0
+  },
+  {
+   "id": "thehowe",
+   "name": "Howe Library",
+   "town": "Hanover",
+   "kinds": [
+    "talks",
+    "art",
+    "music",
+    "social"
+   ],
+   "url": "https://thehowe.org/events",
+   "events": 5
+  },
+  {
+   "id": "lebanonoh",
+   "name": "Lebanon Opera House",
+   "town": "Lebanon",
+   "kinds": [
+    "music",
+    "theater",
+    "film"
+   ],
+   "url": "https://www.lebanonoperahouse.org/",
+   "events": 14
+  },
+  {
+   "id": "libraryarts",
+   "name": "Library Arts Center",
+   "town": "Newport",
+   "kinds": [
+    "art",
+    "music",
+    "social"
+   ],
+   "url": "https://www.libraryartscenter.org/",
+   "events": 1
+  },
+  {
+   "id": "mainstreet",
+   "name": "Main Street Museum",
+   "town": "White River Junction",
+   "kinds": [
+    "art",
+    "music",
+    "social"
+   ],
+   "url": "https://www.mainstreetmuseum.org/",
+   "events": 0
+  },
+  {
+   "id": "montshire",
+   "name": "Montshire Museum of Science",
+   "town": "Norwich",
+   "kinds": [
+    "outdoors",
+    "social"
+   ],
+   "url": "https://montshire.org/events",
+   "events": 1
+  },
+  {
+   "id": "northernstage",
+   "name": "Northern Stage",
+   "town": "White River Junction",
+   "kinds": [
+    "theater"
+   ],
+   "url": "https://www.northernstage.org/",
+   "events": 0
+  },
+  {
+   "id": "revels",
+   "name": "Revels North",
+   "town": "Hanover",
+   "kinds": [
+    "music",
+    "dance",
+    "theater"
+   ],
+   "url": "https://revelsnorth.org/",
+   "events": 0
+  },
+  {
+   "id": "saintgaudens",
+   "name": "Saint-Gaudens National Historical Park",
+   "town": "Cornish",
+   "kinds": [
+    "art",
+    "outdoors",
+    "talks"
+   ],
+   "url": "https://www.nps.gov/saga/planyourvisit/calendar.htm",
+   "events": 0
+  },
+  {
+   "id": "shakerbridge",
+   "name": "Shaker Bridge Theatre",
+   "town": "White River Junction",
+   "kinds": [
+    "theater"
+   ],
+   "url": "https://www.shakerbridgetheatre.org/",
+   "events": 0
+  },
+  {
+   "id": "stowell",
+   "name": "Stowell Library",
+   "town": "Cornish",
+   "kinds": [
+    "talks",
+    "music",
+    "social"
+   ],
+   "url": "https://stowelllibrary.org/",
+   "events": 0
+  },
+  {
+   "id": "thetfordlib",
+   "name": "Thetford Libraries",
+   "town": "Thetford",
+   "kinds": [
+    "talks",
+    "music",
+    "social"
+   ],
+   "url": "https://thetfordlibrary.org/",
+   "events": 5
+  },
+  {
+   "id": "cornishtown",
+   "name": "Town of Cornish events",
+   "town": "Cornish",
+   "kinds": [
+    "social",
+    "dance",
+    "outdoors"
+   ],
+   "url": "https://cornish.nh.gov/events",
+   "events": 0
+  },
+  {
+   "id": "uvba",
+   "name": "Upper Valley Business Alliance events",
+   "town": "Upper Valley (various)",
+   "kinds": [
+    "social",
+    "music",
+    "art",
+    "outdoors"
+   ],
+   "url": "https://visittheuppervalley.uppervalleybusinessalliance.com/events",
+   "events": 0
+  },
+  {
+   "id": "valleynews",
+   "name": "Valley News events",
+   "town": "Upper Valley (various)",
+   "kinds": [
+    "social",
+    "music",
+    "art",
+    "theater",
+    "outdoors"
+   ],
+   "url": "https://vnews.com/events/",
+   "events": 0
+  },
+  {
+   "id": "vitalcomm",
+   "name": "Vital Communities events",
+   "town": "Hartford",
+   "kinds": [
+    "outdoors",
+    "social",
+    "talks"
+   ],
+   "url": "https://www.vitalcommunities.org/events",
+   "events": 2
+  }
+ ]
+}

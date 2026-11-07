@@ -1,5 +1,5 @@
 {
- "scanned": "2026-11-06",
+ "scanned": "2026-11-07",
  "sources": [
   {
    "id": "addisonarts",
@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 0
+   "events": 25
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 9
+   "events": 16
   },
   {
    "id": "aleshire",
@@ -58,7 +58,7 @@
     "theater"
    ],
    "url": "https://barreoperahouse.org/shows/",
-   "events": 0
+   "events": 5
   },
   {
    "id": "brandon",
@@ -68,7 +68,7 @@
     "community"
    ],
    "url": "https://brandon.org/events-and-happenings/",
-   "events": 0
+   "events": 1
   },
   {
    "id": "artistsguild",
@@ -78,7 +78,7 @@
     "art"
    ],
    "url": "https://www.brandonartistsguild.org/events",
-   "events": 1
+   "events": 0
   },
   {
    "id": "breadpuppet",
@@ -100,7 +100,7 @@
     "community"
    ],
    "url": "https://www.breadloafmountainzen.org/calendar/",
-   "events": 2
+   "events": 9
   },
   {
    "id": "burnham",
@@ -122,7 +122,7 @@
     "arts"
    ],
    "url": "https://www.catamountarts.org/shows-and-events/",
-   "events": 12
+   "events": 11
   },
   {
    "id": "chaffee",
@@ -133,7 +133,7 @@
     "classes"
    ],
    "url": "https://www.chaffeeartcenter.org/calendar-of-events/",
-   "events": 4
+   "events": 2
   },
   {
    "id": "chandler",
@@ -146,7 +146,7 @@
     "comedy"
    ],
    "url": "https://www.chandler-arts.org",
-   "events": 7
+   "events": 4
   },
   {
    "id": "sheldon",
@@ -157,7 +157,7 @@
     "social"
    ],
    "url": "https://henrysheldonmuseum.org/events/",
-   "events": 4
+   "events": 2
   },
   {
    "id": "higherground",
@@ -167,7 +167,7 @@
     "music"
    ],
    "url": "https://highergroundmusic.com/calendar/",
-   "events": 36
+   "events": 33
   },
   {
    "id": "ilsley",
@@ -191,7 +191,7 @@
     "film"
    ],
    "url": "https://lebanonoperahouse.org/calendar/",
-   "events": 13
+   "events": 7
   },
   {
    "id": "lostnation",
@@ -201,7 +201,7 @@
     "theater"
    ],
    "url": "http://www.lostnationtheater.org/",
-   "events": 0
+   "events": 4
   },
   {
    "id": "mcma",
@@ -224,7 +224,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 37
+   "events": 36
   },
   {
    "id": "studioschool",
@@ -235,7 +235,7 @@
     "classes"
    ],
    "url": "https://middleburystudioschool.org/adult-art-classes/",
-   "events": 8
+   "events": 7
   },
   {
    "id": "ottercreek",
@@ -257,7 +257,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 9
+   "events": 8
   },
   {
    "id": "photoplace",
@@ -267,7 +267,7 @@
     "art"
    ],
    "url": "https://www.photoplacegallery.com/",
-   "events": 1
+   "events": 0
   },
   {
    "id": "redclover",
@@ -278,7 +278,7 @@
     "social"
    ],
    "url": "https://redcloverale.com",
-   "events": 8
+   "events": 6
   },
   {
    "id": "ruthstone",
@@ -299,7 +299,7 @@
     "film"
    ],
    "url": "http://savoytheater.com/",
-   "events": 8
+   "events": 6
   },
   {
    "id": "sevenstars",
@@ -320,7 +320,7 @@
     "music"
    ],
    "url": "https://silentfilmlivemusic.blogspot.com/",
-   "events": 0
+   "events": 1
   },
   {
    "id": "standingtrees",
@@ -340,7 +340,7 @@
     "film"
    ],
    "url": "http://www.middleburymarquis.com/",
-   "events": 4
+   "events": 0
   },
   {
    "id": "townhall",
@@ -352,7 +352,7 @@
     "music"
    ],
    "url": "https://app.arts-people.com/index.php?calendar=twnht",
-   "events": 19
+   "events": 14
   },
   {
    "id": "valleystage",
@@ -363,7 +363,7 @@
     "theater"
    ],
    "url": "http://www.valleystageproductions.com/",
-   "events": 1
+   "events": 2
   },
   {
    "id": "zenbarn",
