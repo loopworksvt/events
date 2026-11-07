@@ -56,7 +56,7 @@
     "talks"
    ],
    "url": "https://www.shakermuseum.org/events",
-   "events": 10
+   "events": 9
   },
   {
    "id": "greateruppervalley",
@@ -120,7 +120,7 @@
     "film"
    ],
    "url": "https://www.lebanonoperahouse.org/",
-   "events": 14
+   "events": 13
   },
   {
    "id": "libraryarts",
@@ -132,7 +132,7 @@
     "social"
    ],
    "url": "https://www.libraryartscenter.org/",
-   "events": 1
+   "events": 0
   },
   {
    "id": "mainstreet",
@@ -155,7 +155,7 @@
     "social"
    ],
    "url": "https://montshire.org/events",
-   "events": 1
+   "events": 0
   },
   {
    "id": "northernstage",
