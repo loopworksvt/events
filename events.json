@@ -4082,22 +4082,20 @@
  ],
  "recurring": [
   {
-   "title": "Morning meditation",
-   "when": "weekdays 7-7:40 am, weekends 7-8 am",
-   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
-   "link": "https://breadloafmountainzen.org/event/morning-meditation-2/",
+   "title": "Free poetry workshop",
+   "when": "Tuesdays 6:30-8:30 pm",
+   "where": "Ruth Stone House, Goshen",
+   "link": "https://ruthstonehouse.org/workshop",
    "category": [
-    "social"
-   ]
-  },
-  {
-   "title": "Wednesday Dharma Talks",
-   "when": "Wednesdays 5:30-6:30 pm",
-   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
-   "link": "https://breadloafmountainzen.org/event/dharma-talk-sensei-peg-kendo-murray-3/",
-   "category": [
-    "social"
-   ]
+    "art"
+   ],
+   "rec": "weekly",
+   "date": "",
+   "town": "Goshen",
+   "state": "VT",
+   "lat": 43.865,
+   "lon": -72.99,
+   "maps_q": "Ruth Stone House, Goshen, VT"
   },
   {
    "title": "Meditation for a Shared World",
@@ -4106,7 +4104,48 @@
    "link": "https://breadloafmountainzen.org/event/meditation-for-a-shared-world/",
    "category": [
     "social"
-   ]
+   ],
+   "rec": "weekly",
+   "date": "",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury (hybrid), VT"
+  },
+  {
+   "title": "Morning meditation",
+   "when": "weekdays 7-7:40 am, weekends 7-8 am",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
+   "link": "https://breadloafmountainzen.org/event/morning-meditation-2/",
+   "category": [
+    "social"
+   ],
+   "rec": "weekly",
+   "date": "",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury (hybrid), VT"
+  },
+  {
+   "title": "Wednesday Dharma Talks",
+   "when": "Wednesdays 5:30-6:30 pm",
+   "where": "Bread Loaf Mountain Zen Community, Middlebury (hybrid)",
+   "link": "https://breadloafmountainzen.org/event/dharma-talk-sensei-peg-kendo-murray-3/",
+   "category": [
+    "social"
+   ],
+   "rec": "weekly",
+   "date": "",
+   "image": "https://breadloafmountainzen.org/wp-content/uploads/2024/01/peggy.jpg",
+   "desc": "When: Every Wednesday 5:30pm Eastern Time Where: In person 76 Court Street Middlebury VT and online via Zoom (click here for the zoom link) Details: This is a time to […]",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Bread Loaf Mountain Zen Community, Middlebury (hybrid), VT"
   },
   {
    "title": "Weekly Politics Luncheon",
@@ -4115,16 +4154,14 @@
    "link": "https://www.middlebury.edu/events",
    "category": [
     "social"
-   ]
-  },
-  {
-   "title": "Free poetry workshop",
-   "when": "Tuesdays 6:30-8:30 pm",
-   "where": "Ruth Stone House, Goshen",
-   "link": "https://ruthstonehouse.org/workshop",
-   "category": [
-    "art"
-   ]
+   ],
+   "rec": "weekly",
+   "date": "",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Jones Conference Room, Middlebury, VT"
   },
   {
    "title": "Sundays on Wax with DJ Daniel",
@@ -4133,7 +4170,14 @@
    "link": "https://redcloverale.com",
    "category": [
     "music"
-   ]
+   ],
+   "rec": "monthly",
+   "date": "",
+   "town": "Brandon",
+   "state": "VT",
+   "lat": 43.805,
+   "lon": -73.075,
+   "maps_q": "Red Clover Ale Company, Brandon, VT"
   }
  ]
 }
