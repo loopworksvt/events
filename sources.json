@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 33
+   "events": 31
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 20
+   "events": 13
   },
   {
    "id": "aleshire",
@@ -122,7 +122,7 @@
     "arts"
    ],
    "url": "https://www.catamountarts.org/shows-and-events/",
-   "events": 11
+   "events": 9
   },
   {
    "id": "chaffee",
@@ -203,7 +203,7 @@
     "film"
    ],
    "url": "https://lebanonoperahouse.org/calendar/",
-   "events": 13
+   "events": 12
   },
   {
    "id": "lostnation",
@@ -236,7 +236,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 32
+   "events": 30
   },
   {
    "id": "studioschool",
@@ -269,7 +269,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 9
+   "events": 8
   },
   {
    "id": "photoplace",
@@ -376,7 +376,7 @@
     "music"
    ],
    "url": "https://app.arts-people.com/index.php?calendar=twnht",
-   "events": 20
+   "events": 19
   },
   {
    "id": "valleystage",
@@ -403,7 +403,7 @@
     "outdoors"
    ],
    "url": "https://www.vermontpublic.org/vermont-events-calendar",
-   "events": 15
+   "events": 6
   },
   {
    "id": "vtstate",
@@ -416,7 +416,7 @@
     "talks"
    ],
    "url": "https://events.vermontstate.edu",
-   "events": 7
+   "events": 6
   },
   {
    "id": "zenbarn",
