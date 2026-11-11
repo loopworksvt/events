@@ -250,6 +250,19 @@
    "events": 4
   },
   {
+   "id": "minibury",
+   "name": "MiniBury",
+   "town": "Addison County (various)",
+   "kinds": [
+    "community",
+    "music",
+    "arts",
+    "social"
+   ],
+   "url": "https://minibury.com/calendar/",
+   "events": 0
+  },
+  {
    "id": "ottercreek",
    "name": "Otter Creek Music Festival and concerts, Vergennes",
    "town": "Vergennes",
