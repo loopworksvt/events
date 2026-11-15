@@ -1,5 +1,5 @@
 {
- "scanned": "2026-11-14",
+ "scanned": "2026-11-15",
  "sources": [
   {
    "id": "addisonarts",
@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 29
+   "events": 26
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 60
+   "events": 49
   },
   {
    "id": "aleshire",
@@ -58,6 +58,18 @@
     "theater"
    ],
    "url": "https://barreoperahouse.org/shows/",
+   "events": 4
+  },
+  {
+   "id": "blueberry",
+   "name": "Blueberry Hill Inn dining and event calendar, Goshen",
+   "town": "Goshen",
+   "kinds": [
+    "music",
+    "social",
+    "outdoors"
+   ],
+   "url": "https://www.blueberryhillinn.com/diningcalendar",
    "events": 0
   },
   {
@@ -100,7 +112,7 @@
     "community"
    ],
    "url": "https://www.breadloafmountainzen.org/calendar/",
-   "events": 9
+   "events": 6
   },
   {
    "id": "burnham",
@@ -122,7 +134,7 @@
     "arts"
    ],
    "url": "https://www.catamountarts.org/shows-and-events/",
-   "events": 7
+   "events": 6
   },
   {
    "id": "chaffee",
@@ -136,6 +148,18 @@
    "events": 1
   },
   {
+   "id": "cvuus",
+   "name": "Champlain Valley Unitarian Universalist Society",
+   "town": "Middlebury",
+   "kinds": [
+    "music",
+    "social",
+    "talks"
+   ],
+   "url": "https://calendar.google.com/calendar/ical/cvuusoffice%40gmail.com/public/basic.ics",
+   "events": 0
+  },
+  {
    "id": "chandler",
    "name": "Chandler Center for the Arts / Chandler Music Hall, Randolph",
    "town": "Randolph",
@@ -146,7 +170,7 @@
     "comedy"
    ],
    "url": "https://www.chandler-arts.org",
-   "events": 5
+   "events": 4
   },
   {
    "id": "sheldon",
@@ -167,7 +191,7 @@
     "music"
    ],
    "url": "https://highergroundmusic.com/calendar/",
-   "events": 29
+   "events": 27
   },
   {
    "id": "ilsley",
@@ -206,6 +230,16 @@
    "events": 7
   },
   {
+   "id": "lincolnpeak",
+   "name": "Lincoln Peak Vineyard, New Haven",
+   "town": "New Haven",
+   "kinds": [
+    "social"
+   ],
+   "url": "https://www.lincolnpeakvineyard.com/events",
+   "events": 0
+  },
+  {
    "id": "lostnation",
    "name": "Lost Nation Theater, Montpelier",
    "town": "Montpelier",
@@ -213,7 +247,7 @@
     "theater"
    ],
    "url": "http://www.lostnationtheater.org/",
-   "events": 0
+   "events": 5
   },
   {
    "id": "mcma",
@@ -247,7 +281,7 @@
     "classes"
    ],
    "url": "https://middleburystudioschool.org/adult-art-classes/",
-   "events": 9
+   "events": 10
   },
   {
    "id": "minibury",
@@ -260,7 +294,7 @@
     "social"
    ],
    "url": "https://minibury.com/calendar/",
-   "events": 18
+   "events": 17
   },
   {
    "id": "ottercreek",
@@ -282,7 +316,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 3
+   "events": 9
   },
   {
    "id": "photoplace",
@@ -370,6 +404,18 @@
    "events": 0
   },
   {
+   "id": "chipman",
+   "name": "The Chipman Inn, Ripton",
+   "town": "Ripton",
+   "kinds": [
+    "music",
+    "art",
+    "social"
+   ],
+   "url": "https://www.thechipmaninn.com/events",
+   "events": 0
+  },
+  {
    "id": "marquis",
    "name": "The Marquis, Middlebury",
    "town": "Middlebury",
@@ -377,7 +423,7 @@
     "film"
    ],
    "url": "http://www.middleburymarquis.com/",
-   "events": 17
+   "events": 15
   },
   {
    "id": "townhall",
@@ -416,7 +462,7 @@
     "outdoors"
    ],
    "url": "https://www.vermontpublic.org/vermont-events-calendar",
-   "events": 8
+   "events": 0
   },
   {
    "id": "vtstate",
@@ -432,6 +478,17 @@
    "events": 7
   },
   {
+   "id": "waybury",
+   "name": "Waybury Inn & Restaurant, East Middlebury",
+   "town": "East Middlebury",
+   "kinds": [
+    "social",
+    "art"
+   ],
+   "url": "https://www.wayburyinn.com/events",
+   "events": 0
+  },
+  {
    "id": "zenbarn",
    "name": "ZenBarn, Waterbury Center",
    "town": "Waterbury Center",
@@ -439,7 +496,7 @@
     "music"
    ],
    "url": "https://www.zenbarnvt.com/calendar/",
-   "events": 15
+   "events": 14
   }
  ]
 }
