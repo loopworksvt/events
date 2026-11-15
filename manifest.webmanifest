@@ -1,6 +1,6 @@
 {
- "name": "What's on near Brandon",
- "short_name": "Events",
+ "name": "Out & About near Brandon",
+ "short_name": "Out & About",
  "start_url": "./index.html",
  "display": "standalone",
  "background_color": "#151a17",

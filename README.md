@@ -1,4 +1,4 @@
-# What's on near Brandon
+# Out & About
 
 A static page of arts, music, theater, talks and nature events near Brandon, Vermont (233 events, 15 Nov to 15 Dec 2026), built 2026-11-15 from the calendar sites listed on the page. No server or build step: publish this folder with GitHub Pages (Settings, Pages, deploy from the main branch, root folder).
 
