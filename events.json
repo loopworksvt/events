@@ -7,6 +7,26 @@
  "events": [
   {
    "date": "2026-11-15",
+   "time": "",
+   "title": "Rad Love Exchange",
+   "category": [
+    "social"
+   ],
+   "where": "Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-15",
    "time": "11:00 am-3:00 pm",
    "title": "Public Super Bingo",
    "category": [
@@ -1795,6 +1815,27 @@
   },
   {
    "date": "2026-11-21",
+   "time": "6:30 pm",
+   "title": "Soup Supper",
+   "category": [
+    "social"
+   ],
+   "where": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen",
+   "miles": 12,
+   "range": "local",
+   "cost": "",
+   "source": "blueberry",
+   "link": "https://www.blueberryhillinn.com/diningcalendar/soup-cheese-dinner-pjgma-ngtzb-3t3x2-stxal-gz6kp-tygrp-ydb8c-k6nzg-aypnj-k4g4m-wp648-a3lr6-72c9h-8gmlm-6cf7n-fyyx2-2t5sy-rykxj",
+   "link_kind": "event",
+   "tickets": [],
+   "town": "Goshen",
+   "state": "VT",
+   "lat": 43.865,
+   "lon": -72.99,
+   "maps_q": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen, VT"
+  },
+  {
+   "date": "2026-11-21",
    "dates": [
     "2026-11-20",
     "2026-11-21"
@@ -2548,6 +2589,44 @@
    "maps_q": "Middlebury VFW, Middlebury, VT"
   },
   {
+   "date": "2026-11-26",
+   "time": "12:00 pm",
+   "title": "thanksgiving buffet",
+   "category": [
+    "social"
+   ],
+   "where": "Waybury Inn, 457 East Main Street, East Middlebury",
+   "miles": 15,
+   "range": "local",
+   "cost": "$60 a person",
+   "source": "waybury",
+   "link": "https://www.wayburyinn.com/events/thanksgiving-buffet",
+   "link_kind": "event",
+   "image": "https://static1.squarespace.com/static/696a98b49376b378fd1f72ed/696a98bc9376b378fd1f7448/6ae9ff9cf820722070ccca6b/1794065120824/",
+   "desc": "Thanksgiving 2026 $60.00/person Served Choice of: Oyster stew Blue Hubbard Squash Bisque Bread rolls Carved Local Sliced beef rib roast or tenderloin Turkey-herb gravy & cranberry pomegranate sauce Cold Buffet WIld Rice Salad Mezze Platter…",
+   "maps_q": "Waybury Inn, 457 East Main Street, East Middlebury, VT"
+  },
+  {
+   "date": "2026-11-26",
+   "time": "2:00 pm",
+   "title": "CVUUS Thanksgiving Dinner & Games",
+   "category": [
+    "social"
+   ],
+   "where": "Fellowship Hall, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Fellowship Hall, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
+  },
+  {
    "date": "2026-11-27",
    "time": "doors 7, show 8 pm",
    "title": "An Evening with Club D'Elf",
@@ -2599,6 +2678,46 @@
   },
   {
    "date": "2026-11-28",
+   "time": "12:00 pm",
+   "title": "Wine Release Weekend",
+   "category": [
+    "social"
+   ],
+   "where": "Lincoln Peak Vineyard, 142 River Rd., New Haven",
+   "miles": 20,
+   "range": "local",
+   "cost": "",
+   "source": "lincolnpeak",
+   "link": "https://www.lincolnpeakvineyard.com/events/832jaew85n6dcbamn5s7x53clhnwd8-kal8z-4gxhm-fwexr-ax79n-5p24e",
+   "link_kind": "event",
+   "image": "https://images.squarespace-cdn.com/content/v1/5dcc5affb852f45471bf2773/1753149792320-XQCJE4YRSC5XRVYGBNS8/Website+Event+Images.jpg",
+   "desc": "A new and even more delicious Sparkling Marquette! 10% off glasses and bottles of the new wine all weekend. NV Sparkling Marquette A traditional method, lightly sparkling red inspired by the great wines of Lambrusco. Light maceration on…",
+   "town": "New Haven",
+   "state": "VT",
+   "lat": 44.105,
+   "lon": -73.166,
+   "maps_q": "Lincoln Peak Vineyard, 142 River Rd., New Haven, VT"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "3:00 pm",
+   "title": "Art Show featuring Molly Hawley",
+   "category": [
+    "art"
+   ],
+   "where": "Waybury Inn, 457 East Main Street, East Middlebury",
+   "miles": 15,
+   "range": "local",
+   "cost": "",
+   "source": "waybury",
+   "link": "https://www.wayburyinn.com/events/art-show-featuring-molly-hawley",
+   "link_kind": "event",
+   "image": "https://static1.squarespace.com/static/696a98b49376b378fd1f72ed/696a98bc9376b378fd1f7448/6aea006c90df30598fd5dcef/1793720477862/",
+   "desc": "MORE INFO TO COME",
+   "maps_q": "Waybury Inn, 457 East Main Street, East Middlebury, VT"
+  },
+  {
+   "date": "2026-11-28",
    "time": "4:00 pm",
    "title": "Doug Ross",
    "category": [
@@ -2638,6 +2757,26 @@
    "lat": 44.002,
    "lon": -73.119,
    "maps_q": "Town Hall Theater, Middlebury, VT"
+  },
+  {
+   "date": "2026-11-28",
+   "time": "7:30 pm",
+   "title": "Youth Opera Concert",
+   "category": [
+    "music"
+   ],
+   "where": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
   },
   {
    "date": "2026-11-28",
@@ -3107,6 +3246,7 @@
    "source": "minibury",
    "link": "https://minibury.com/event/family-music-party-festival-of-lights-party/",
    "link_kind": "event",
+   "desc": "Join together with friends for MCMC’s newest family friendly musical offering! Led by beloved early childhood music educator Miss Anna, our seasonal Family Music Parties will include: Interactive songs, stories, and play A seasonal craft A…",
    "town": "Middlebury",
    "state": "VT",
    "lat": 44.002,
@@ -3675,6 +3815,31 @@
   },
   {
    "date": "2026-12-05",
+   "time": "5:30 pm",
+   "title": "Agricola Farm Dinner Club",
+   "category": [
+    "social"
+   ],
+   "where": "Agricola Farm, 2674 Jersey Street, Panton",
+   "miles": 20,
+   "range": "local",
+   "cost": "$95 a person (wine pairing extra)",
+   "source": "lincolnpeak",
+   "link": "https://www.lincolnpeakvineyard.com/events/w1le4gi6l5i98e3xfgkguleei8psyj-9hf6r-jdz34-35mkh-f6hcg-fcfgx-9s2yx-lgbhw-2as23-7nmfy-bse66-5spgy-f9j9h-dlxsr-797cl-s4lcb-x2aly-m8ty7-fnyd2-6m29b",
+   "link_kind": "event",
+   "image": "https://images.squarespace-cdn.com/content/v1/5dcc5affb852f45471bf2773/1741017209730-G3GKV2B1GB1GRG0QJIR7/Agricola+Farm+Dinner+Club+%28Instagram+Post%29.png",
+   "desc": "Alessandra and Stefano offer a seasonal menu from Agricola Farm and nearby like-minded farms. Each course is introduced with stories of the origin of the recipes or the special ingredients that are featured. The meat they use comes from…",
+   "tickets": [
+    "http://www.agricolavermont.net/store/p38/Farm_Dinner.html"
+   ],
+   "town": "Panton",
+   "state": "VT",
+   "lat": 44.13,
+   "lon": -73.34,
+   "maps_q": "Agricola Farm, 2674 Jersey Street, Panton, VT"
+  },
+  {
+   "date": "2026-12-05",
    "time": "7:00 pm",
    "title": "Burnham Presents: Kalos",
    "category": [
@@ -3987,6 +4152,26 @@
    "lat": 44.199,
    "lon": -72.508,
    "maps_q": "Barre Opera House, Barre, VT"
+  },
+  {
+   "date": "2026-12-06",
+   "time": "11:15 am",
+   "title": "Social Justice Ministry Activity Fair",
+   "category": [
+    "social"
+   ],
+   "where": "Fellowship Hall, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Fellowship Hall, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
   },
   {
    "date": "2026-12-06",
@@ -4514,6 +4699,30 @@
   },
   {
    "date": "2026-12-10",
+   "time": "5:00 pm",
+   "title": "Soup Supper and a Show",
+   "category": [
+    "music",
+    "social"
+   ],
+   "where": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen",
+   "miles": 12,
+   "range": "local",
+   "cost": "",
+   "source": "blueberry",
+   "link": "https://www.blueberryhillinn.com/diningcalendar/soup-cheese-dinner-pjgma-ngtzb-3t3x2-stxal-gz6kp-tygrp-ydb8c-k6nzg-aypnj-k4g4m-wp648-a3lr6-72c9h-8gmlm-6cf7n-fyyx2-2t5sy-j9t6y-ypzb3",
+   "link_kind": "event",
+   "image": "https://images.squarespace-cdn.com/content/v1/5f9ae21d1d78bb086fa61b78/1792349598325-XETIDCA2CIDNTA1HK32S/94030934_167651084703187_887249701148033024_n.jpg",
+   "desc": "Soup Supper and a Show On select Thursday evenings from December through early March , we are hosting an intimate night of comforting food and local music by the fire in the dining room. Doors open at 5, music 6-8. Tonight we will have J…",
+   "tickets": [],
+   "town": "Goshen",
+   "state": "VT",
+   "lat": 43.865,
+   "lon": -72.99,
+   "maps_q": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen, VT"
+  },
+  {
+   "date": "2026-12-10",
    "dates": [
     "2026-12-03",
     "2026-12-10"
@@ -4749,6 +4958,27 @@
   },
   {
    "date": "2026-12-11",
+   "time": "7:00 pm",
+   "title": "CVUUS Contra Dance?",
+   "category": [
+    "dance"
+   ],
+   "where": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "note": "Please confirm the date and time with the organizer.",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-11",
    "time": "7:30 pm",
    "title": "Tony Trischka's Holiday Show: Of a Winter's Night",
    "category": [
@@ -4831,6 +5061,8 @@
    "source": "barre",
    "link": "https://ci.ovationtix.com/36347/production/1282121",
    "link_kind": "event",
+   "image": "img/166cd38a5451.jpg",
+   "image_local": "166cd38a5451.jpg",
    "town": "Barre",
    "state": "VT",
    "lat": 44.199,
@@ -4915,6 +5147,26 @@
   },
   {
    "date": "2026-12-12",
+   "time": "3:00 pm",
+   "title": "Holiday Concert (McWilliams)",
+   "category": [
+    "music"
+   ],
+   "where": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury",
+   "miles": 17,
+   "range": "local",
+   "cost": "",
+   "source": "cvuus",
+   "link": "https://www.cvuus.org/events/",
+   "link_kind": "calendar",
+   "town": "Middlebury",
+   "state": "VT",
+   "lat": 44.002,
+   "lon": -73.119,
+   "maps_q": "Sanctuary, Champlain Valley Unitarian Universalist Society, 2 Duane Court, Middlebury, VT"
+  },
+  {
+   "date": "2026-12-12",
    "time": "4:00 pm, 7:30 pm",
    "title": "Bread + Puppet: The Christmas Story",
    "category": [
@@ -4985,6 +5237,52 @@
    "lat": 44.436,
    "lon": -73.183,
    "maps_q": "Higher Ground, South Burlington, VT"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "6:00 pm",
+   "title": "Winter Winemaker Dinner",
+   "category": [
+    "social"
+   ],
+   "where": "Lincoln Peak Vineyard, 142 River Rd., New Haven",
+   "miles": 20,
+   "range": "local",
+   "cost": "",
+   "source": "lincolnpeak",
+   "link": "https://www.lincolnpeakvineyard.com/events/winemaker-dinner-gr8mx-8xknb-ejjla",
+   "link_kind": "event",
+   "image": "https://images.squarespace-cdn.com/content/v1/5dcc5affb852f45471bf2773/1793409214590-R4FOSOCWD0CVKDRU01X1/DSC_8438.jpg",
+   "desc": "Join us in the winery for a four-course Italian-inspired meal from our friends at Monti Verdi Salumi thoughtfully paired with our wines. We’ll taste young wines from barrels and tanks as we share about the 2026 season, and you’ll be the…",
+   "tickets": [
+    "https://checkout.square.site/merchant/MLX4ZXY2826YM/checkout/PDYPYWZML2QFDT7GGIA7MNCP"
+   ],
+   "town": "New Haven",
+   "state": "VT",
+   "lat": 44.105,
+   "lon": -73.166,
+   "maps_q": "Lincoln Peak Vineyard, 142 River Rd., New Haven, VT"
+  },
+  {
+   "date": "2026-12-12",
+   "time": "6:30 pm",
+   "title": "Soup Supper",
+   "category": [
+    "social"
+   ],
+   "where": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen",
+   "miles": 12,
+   "range": "local",
+   "cost": "",
+   "source": "blueberry",
+   "link": "https://www.blueberryhillinn.com/diningcalendar/soup-cheese-dinner-pjgma-ngtzb-3t3x2-stxal-gz6kp-tygrp-ydb8c-k6nzg-aypnj-k4g4m-wp648-a3lr6-72c9h-8gmlm-6cf7n-fyyx2-2t5sy-j9t6y",
+   "link_kind": "event",
+   "tickets": [],
+   "town": "Goshen",
+   "state": "VT",
+   "lat": 43.865,
+   "lon": -72.99,
+   "maps_q": "Blueberry Hill, 1245 Goshen-Ripton Road, Goshen, VT"
   },
   {
    "date": "2026-12-12",
