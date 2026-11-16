@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 26
+   "events": 23
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 49
+   "events": 42
   },
   {
    "id": "aleshire",
@@ -112,7 +112,7 @@
     "community"
    ],
    "url": "https://www.breadloafmountainzen.org/calendar/",
-   "events": 6
+   "events": 5
   },
   {
    "id": "burnham",
@@ -157,7 +157,7 @@
     "talks"
    ],
    "url": "https://calendar.google.com/calendar/ical/cvuusoffice%40gmail.com/public/basic.ics",
-   "events": 6
+   "events": 5
   },
   {
    "id": "chandler",
@@ -191,7 +191,7 @@
     "music"
    ],
    "url": "https://highergroundmusic.com/calendar/",
-   "events": 27
+   "events": 24
   },
   {
    "id": "ilsley",
@@ -227,7 +227,7 @@
     "film"
    ],
    "url": "https://lebanonoperahouse.org/calendar/",
-   "events": 7
+   "events": 6
   },
   {
    "id": "lincolnpeak",
@@ -247,7 +247,7 @@
     "theater"
    ],
    "url": "http://www.lostnationtheater.org/",
-   "events": 5
+   "events": 4
   },
   {
    "id": "mcma",
@@ -270,7 +270,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 31
+   "events": 30
   },
   {
    "id": "studioschool",
@@ -294,7 +294,7 @@
     "social"
    ],
    "url": "https://minibury.com/calendar/",
-   "events": 17
+   "events": 16
   },
   {
    "id": "ottercreek",
@@ -316,7 +316,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 9
+   "events": 8
   },
   {
    "id": "photoplace",
@@ -337,7 +337,7 @@
     "social"
    ],
    "url": "https://redcloverale.com",
-   "events": 6
+   "events": 5
   },
   {
    "id": "ruthstone",
@@ -423,7 +423,7 @@
     "film"
    ],
    "url": "http://www.middleburymarquis.com/",
-   "events": 15
+   "events": 13
   },
   {
    "id": "townhall",
@@ -496,7 +496,7 @@
     "music"
    ],
    "url": "https://www.zenbarnvt.com/calendar/",
-   "events": 14
+   "events": 13
   }
  ]
 }
