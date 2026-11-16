@@ -1,6 +1,6 @@
 {
- "name": "Out & About near Brandon",
- "short_name": "Out & About",
+ "name": "What's Up near Brandon",
+ "short_name": "What's Up",
  "start_url": "./index.html",
  "display": "standalone",
  "background_color": "#151a17",
