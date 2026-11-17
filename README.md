@@ -1,5 +1,5 @@
 # What's Up
 
-A static page of arts, music, theater, talks and nature events near Brandon, Vermont (212 events, 16 Nov to 15 Dec 2026), built 2026-11-15 from the calendar sites listed on the page. No server or build step: publish this folder with GitHub Pages (Settings, Pages, deploy from the main branch, root folder).
+A static page of arts, music, theater, talks and nature events near Brandon, Vermont (258 events, 17 Nov to 16 Jan 2027), built 2026-11-17 from the calendar sites listed on the page. No server or build step: publish this folder with GitHub Pages (Settings, Pages, deploy from the main branch, root folder).
 
 Photos and descriptions are read from each event's own page or ticket page (linked, or for the next 60 days a resized copy kept in img/), so they belong to the organizers. Tickets and registration happen on the organizers' sites.
