@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261204T140000
 DTEND;TZID=America/New_York:20261204T173000
 SUMMARY:Holiday Gift Bags: Block Printing on Fabric
 LOCATION:Middlebury Studio School\, Middlebury\, VT
-DESCRIPTION:More information: https://middleburystudioschool.corsizio.com
- /event/6ad26f69d69503526a591d91
-URL:https://middleburystudioschool.corsizio.com/event/6ad26f69d69503526a5
- 91d91
+DESCRIPTION:More information: https://middleburystudioschool.org/adult-ar
+ t-classes/
+URL:https://middleburystudioschool.org/adult-art-classes/
 END:VEVENT
 END:VCALENDAR

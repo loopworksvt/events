@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b26165f8@events
+DTSTAMP:20270117T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:Kids' Corner Holiday Activities (MLK weekend)
+LOCATION:Snowshed Lodge\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar/mlk-
+ kids-corner-holiday-activities
+URL:https://killington.com/events-calendar/mlk-kids-corner-holiday-activi
+ ties
+END:VEVENT
+END:VCALENDAR

@@ -26,10 +26,10 @@ DTSTART;TZID=America/New_York:20261120T200000
 DTEND;TZID=America/New_York:20261120T220000
 SUMMARY:Big Shrimp with special guest Ryan Dempsey
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed. Listed as: doors 7\, show 8 pm\nMore inf
- ormation: https://www.zenbarnvt.com/event/big-shrimp-with-special-guest-
- ryan-dempsey-november-20-2026/
-URL:https://www.zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-de
- mpsey-november-20-2026/
+DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7)\nMore informat
+ ion: https://zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-demp
+ sey-november-20-2026/
+URL:https://zenbarnvt.com/event/big-shrimp-with-special-guest-ryan-dempse
+ y-november-20-2026/
 END:VEVENT
 END:VCALENDAR

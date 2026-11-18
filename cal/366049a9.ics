@@ -9,7 +9,8 @@ DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:New Year's Eve Celebration & Fireworks
 LOCATION:K-1 Base Area\, Killington\, VT
-DESCRIPTION:More information: https://killington.com/nye-celebration
-URL:https://killington.com/nye-celebration
+DESCRIPTION:More information: https://killington.com/events-calendar/nye-
+ celebration
+URL:https://killington.com/events-calendar/nye-celebration
 END:VEVENT
 END:VCALENDAR

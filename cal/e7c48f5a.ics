@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:e7c48f5a@events
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:The Killers (Noirvember series)
+LOCATION:Savoy Theater\, Montpelier\, VT
+DESCRIPTION:More information: http://savoytheater.com/
+URL:http://savoytheater.com/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:471cf8d4@events
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Folk Night Out: An Indie Folk DJ Night
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:More information: https://highergroundmusic.com/events/folk-n
+ ight-out-an-indie-folk-dj-night/
+URL:https://highergroundmusic.com/events/folk-night-out-an-indie-folk-dj-
+ night/
+END:VEVENT
+END:VCALENDAR

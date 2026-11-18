@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:bdcd6ea0@events
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:The Bouncing Souls
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:More information: https://highergroundmusic.com/events/the-bo
+ uncing-souls/
+URL:https://highergroundmusic.com/events/the-bouncing-souls/
+END:VEVENT
+END:VCALENDAR

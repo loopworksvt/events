@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:3ecab5cb@events
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Marianne Beaulieu
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:More information: https://highergroundmusic.com/events/marian
+ ne-beaulieu/
+URL:https://highergroundmusic.com/events/marianne-beaulieu/
+END:VEVENT
+END:VCALENDAR

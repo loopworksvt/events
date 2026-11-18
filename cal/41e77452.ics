@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:41e77452@events
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Street Retreat San Francisco
+LOCATION:San Francisco\, CA\, Middlebury\, VT
+DESCRIPTION:Time listed as: 2 pm-Dec 8\nMore information: https://www.bre
+ adloafmountainzen.org/calendar/
+URL:https://www.breadloafmountainzen.org/calendar/
+END:VEVENT
+END:VCALENDAR

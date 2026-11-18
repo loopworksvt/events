@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b6679ef6@events
+DTSTAMP:20261129T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Memory Tree Lighting
+LOCATION:Brandon Central Park\, Brandon\, VT
+DESCRIPTION:Time listed as: 3:30 pm carols\, 4 pm lighting\nMore informat
+ ion: https://www.addisonindependent.com/calendar/
+URL:https://www.addisonindependent.com/calendar/
+END:VEVENT
+END:VCALENDAR

@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261220T130000
 DTEND;TZID=America/New_York:20261220T150000
 SUMMARY:Met Opera: The Magic Flute (Mozart)
 LOCATION:Paramount Theatre\, Rutland\, VT
-DESCRIPTION:End time not listed.\nMore information: https://paramountvt.o
- rg/event/met-opera-the-magic-flute-mozart-2/
+DESCRIPTION:End time not listed. Listed as: 1 pm (doors 12:30)\nMore info
+ rmation: https://paramountvt.org/event/met-opera-the-magic-flute-mozart-
+ 2/
 URL:https://paramountvt.org/event/met-opera-the-magic-flute-mozart-2/
 END:VEVENT
 END:VCALENDAR

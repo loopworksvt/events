@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1e954673@events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Ebenezer
+LOCATION:The Marquis\, Middlebury\, VT
+DESCRIPTION:Time listed as: see note\nMore information: http://www.middle
+ burymarquis.com/
+URL:http://www.middleburymarquis.com/
+END:VEVENT
+END:VCALENDAR

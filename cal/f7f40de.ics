@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:f7f40de@events
+DTSTAMP:20261231T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Start Making Sense: A Tribute to Talking Heads
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:More information: https://highergroundmusic.com/events/start-
+ making-sense-a-tribute-to-talking-heads/
+URL:https://highergroundmusic.com/events/start-making-sense-a-tribute-to-
+ talking-heads/
+END:VEVENT
+END:VCALENDAR

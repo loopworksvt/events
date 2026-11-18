@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:90550029@events
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Samson et Dalila (opera screening)
+LOCATION:Catamount Arts\, St. Johnsbury\, VT
+DESCRIPTION:More information: https://www.catamountarts.org/show/details/
+ samson-et-dalila/
+URL:https://www.catamountarts.org/show/details/samson-et-dalila/
+END:VEVENT
+END:VCALENDAR

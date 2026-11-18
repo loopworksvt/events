@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:dbff608c@events
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Primer 55
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:More information: https://highergroundmusic.com/events/primer
+ -55/
+URL:https://highergroundmusic.com/events/primer-55/
+END:VEVENT
+END:VCALENDAR

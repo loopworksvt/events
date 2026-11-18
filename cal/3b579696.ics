@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:3b579696@events
+DTSTAMP:20261206T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:Golden Boy
+LOCATION:Catamount Arts\, St. Johnsbury\, VT
+DESCRIPTION:More information: https://www.catamountarts.org/show/details/
+ golden-boy/
+URL:https://www.catamountarts.org/show/details/golden-boy/
+END:VEVENT
+END:VCALENDAR

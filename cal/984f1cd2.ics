@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:984f1cd2@events
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:"Antigone"
+LOCATION:Mahaney Arts Center Seeler Studio\, Middlebury\, VT
+DESCRIPTION:Time listed as: 7:30 pm & 2 pm\nMore information: https://www
+ .middlebury.edu/events/event/antigone
+URL:https://www.middlebury.edu/events/event/antigone
+END:VEVENT
+END:VCALENDAR

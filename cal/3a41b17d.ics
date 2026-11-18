@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:3a41b17d@events
+DTSTAMP:20261129T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Stifel Killington Cup Weekend
+LOCATION:K-1 Base Area\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar/kill
+ ington-cup-weekend
+URL:https://killington.com/events-calendar/killington-cup-weekend
+END:VEVENT
+END:VCALENDAR

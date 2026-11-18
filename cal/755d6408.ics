@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261202T123000
 DTEND;TZID=America/New_York:20261202T153000
 SUMMARY:Raku & Pit Firing Workshop
 LOCATION:Middlebury Studio School\, Middlebury\, VT
-DESCRIPTION:More information: https://middleburystudioschool.corsizio.com
- /event/6aeb4ceb83bc1dbf0af30ec6
-URL:https://middleburystudioschool.corsizio.com/event/6aeb4ceb83bc1dbf0af
- 30ec6
+DESCRIPTION:More information: https://middleburystudioschool.org/adult-cl
+ ay/
+URL:https://middleburystudioschool.org/adult-clay/
 END:VEVENT
 END:VCALENDAR

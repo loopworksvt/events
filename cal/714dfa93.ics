@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:714dfa93@events
+DTSTAMP:20261212T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:Rutland Youth Theatre presents: Trolls\, Jr.
+LOCATION:Paramount Theatre\, Rutland\, VT
+DESCRIPTION:Time listed as: 7 pm & 2 pm\nMore information: https://paramo
+ untvt.org/event/rutland-youth-theatre-presents-trolls-jr/
+URL:https://paramountvt.org/event/rutland-youth-theatre-presents-trolls-j
+ r/
+END:VEVENT
+END:VCALENDAR

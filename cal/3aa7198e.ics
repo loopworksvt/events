@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:3aa7198e@events
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Rohatsu Sesshin: Eight Days of Practice Together
+DESCRIPTION:Time listed as: 5:30 pm-Dec 8\nMore information: https://www.
+ breadloafmountainzen.org/calendar/
+URL:https://www.breadloafmountainzen.org/calendar/
+END:VEVENT
+END:VCALENDAR

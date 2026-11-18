@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261219T203000
 DTEND;TZID=America/New_York:20261219T223000
 SUMMARY:Cobalt
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.zenbarnvt
- .com/event/cobalt-december-19-2026/
-URL:https://www.zenbarnvt.com/event/cobalt-december-19-2026/
+DESCRIPTION:End time not listed. Listed as: 8:30 pm (doors 7:30)\nMore in
+ formation: https://zenbarnvt.com/event/cobalt-december-19-2026/
+URL:https://zenbarnvt.com/event/cobalt-december-19-2026/
 END:VEVENT
 END:VCALENDAR

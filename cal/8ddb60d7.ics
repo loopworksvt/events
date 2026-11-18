@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:8ddb60d7@events
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Every Day: Big and Small - St. Johnsbury
+LOCATION:Catamount Arts\, St. Johnsbury\, VT
+DESCRIPTION:More information: https://www.catamountarts.org/show/details/
+ every-day-big-and-small-st-johnsbury/
+URL:https://www.catamountarts.org/show/details/every-day-big-and-small-st
+ -johnsbury/
+END:VEVENT
+END:VCALENDAR

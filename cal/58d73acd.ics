@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:58d73acd@events
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Jamie Wyeth & the Unflinching Eye (documentary screening)
+LOCATION:Town Hall Theater\, Middlebury\, VT
+DESCRIPTION:Time listed as: 11 am & 2 pm\nMore information: https://addis
+ onarts.org/event/jamie-wyeth-the-unflinching-eye/
+URL:https://addisonarts.org/event/jamie-wyeth-the-unflinching-eye/
+END:VEVENT
+END:VCALENDAR

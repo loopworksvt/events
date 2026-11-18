@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261119T173000
 DTEND;TZID=America/New_York:20261119T193000
 SUMMARY:Psychedelics Roundtable
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.zenbarnvt
- .com/event/psychedelics-roundtable-november-19-2026/
-URL:https://www.zenbarnvt.com/event/psychedelics-roundtable-november-19-2
- 026/
+DESCRIPTION:End time not listed.\nMore information: https://zenbarnvt.com
+ /event/psychedelics-roundtable-november-19-2026/
+URL:https://zenbarnvt.com/event/psychedelics-roundtable-november-19-2026/
 END:VEVENT
 END:VCALENDAR

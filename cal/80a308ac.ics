@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261205T100000
 DTEND;TZID=America/New_York:20261205T123000
 SUMMARY:Throwing Larger Pieces
 LOCATION:Middlebury Studio School\, Middlebury\, VT
-DESCRIPTION:More information: https://middleburystudioschool.corsizio.com
- /event/6ad139a6d69503526af7b9ea
-URL:https://middleburystudioschool.corsizio.com/event/6ad139a6d69503526af
- 7b9ea
+DESCRIPTION:More information: https://middleburystudioschool.org/adult-cl
+ ay/
+URL:https://middleburystudioschool.org/adult-clay/
 END:VEVENT
 END:VCALENDAR

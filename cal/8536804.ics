@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261211T173000
 DTEND;TZID=America/New_York:20261211T193000
 SUMMARY:Date Night: Wheel Throwing
 LOCATION:Middlebury Studio School\, Middlebury\, VT
-DESCRIPTION:More information: https://middleburystudioschool.corsizio.com
- /event/6aebd30983bc1dbf0a223c66
-URL:https://middleburystudioschool.corsizio.com/event/6aebd30983bc1dbf0a2
- 23c66
+DESCRIPTION:More information: https://middleburystudioschool.org/adult-cl
+ ay/
+URL:https://middleburystudioschool.org/adult-clay/
 END:VEVENT
 END:VCALENDAR

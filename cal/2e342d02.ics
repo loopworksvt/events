@@ -9,8 +9,8 @@ DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 SUMMARY:Vermont Holiday Festival
 LOCATION:Killington Grand Hotel\, Killington\, VT
-DESCRIPTION:More information: https://killington.com/vermont-holiday-fest
- ival
-URL:https://killington.com/vermont-holiday-festival
+DESCRIPTION:More information: https://killington.com/events-calendar/verm
+ ont-holiday-festival
+URL:https://killington.com/events-calendar/vermont-holiday-festival
 END:VEVENT
 END:VCALENDAR

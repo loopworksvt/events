@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:eb43ca23@events
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:After Hours at the Anderson (dance club)
+LOCATION:Town Hall Theater\, Middlebury\, VT
+DESCRIPTION:Time listed as: 8 pm-midnight\nMore information: https://www.
+ addisonindependent.com/calendar/
+URL:https://www.addisonindependent.com/calendar/
+END:VEVENT
+END:VCALENDAR

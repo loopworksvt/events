@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:ff71cba1@events
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:World Cup Rebels Apres Ski Party
+LOCATION:Pickle Barrel\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar/worl
+ d-cup-rebels-apres-ski-party
+URL:https://killington.com/events-calendar/world-cup-rebels-apres-ski-par
+ ty
+END:VEVENT
+END:VCALENDAR

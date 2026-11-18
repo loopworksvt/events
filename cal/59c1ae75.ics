@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261205T103000
 DTEND;TZID=America/New_York:20261205T130000
 SUMMARY:Fused Glass Workshop: Ornaments and Winter Suncatchers
 LOCATION:Middlebury Studio School\, Middlebury\, VT
-DESCRIPTION:More information: https://middleburystudioschool.corsizio.com
- /event/6a7497734a7c93584850147b
-URL:https://middleburystudioschool.corsizio.com/event/6a7497734a7c9358485
- 0147b
+DESCRIPTION:More information: https://middleburystudioschool.org/adult-ar
+ t-classes/
+URL:https://middleburystudioschool.org/adult-art-classes/
 END:VEVENT
 END:VCALENDAR

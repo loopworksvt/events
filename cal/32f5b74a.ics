@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:32f5b74a@events
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Ruth Stone's Death Anniversary Celebration
+LOCATION:Ruth Stone House\, 788 Hathaway Rd\, Goshen\, VT
+DESCRIPTION:More information: https://ruthstonehouse.org/rsh-events/
+URL:https://ruthstonehouse.org/rsh-events/
+END:VEVENT
+END:VCALENDAR

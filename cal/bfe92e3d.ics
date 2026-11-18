@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261226T200000
 DTEND;TZID=America/New_York:20261226T220000
 SUMMARY:Sara Whitehair Band
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed. Listed as: doors 7\, show 8pm\nMore info
- rmation: https://www.zenbarnvt.com/event/sara-whitehair-band-december-26
- -2026/
-URL:https://www.zenbarnvt.com/event/sara-whitehair-band-december-26-2026/
+DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7)\nMore informat
+ ion: https://zenbarnvt.com/event/sara-whitehair-band-december-26-2026/
+URL:https://zenbarnvt.com/event/sara-whitehair-band-december-26-2026/
 END:VEVENT
 END:VCALENDAR
