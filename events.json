@@ -6,125 +6,6 @@
  ],
  "events": [
   {
-   "date": "2026-11-17",
-   "time": "3:30-5 pm",
-   "title": "Working with Yarn",
-   "category": [
-    "art"
-   ],
-   "where": "Ilsley Public Library, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Ilsley Public Library, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "5:30-7 pm",
-   "title": "Fletcher Free's Fictional Book Club: The Wilderness",
-   "category": [
-    "social"
-   ],
-   "where": "Fletcher Free Library, Burlington",
-   "miles": 55,
-   "range": "distant",
-   "source": "vermontpublic",
-   "link": "https://www.vermontpublic.org/vermont-events-calendar/event/fletcher-frees-fictional-book-club-the-wilderness-21-10-2026-21-18-40",
-   "link_kind": "event",
-   "image": "https://npr.brightspotcdn.com/dims4/default/2e13a22/2147483647/strip/true/crop/800x420+0+390/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2F2b%2Ff5b4367a4e2aa7374180f8787a7c%2Fwild.png",
-   "desc": "An era-defining novel about five Black women over the course of their twenty-year friendship, as they move through the dizzying and sometimes precarious period between young adulthood and midlife—in the much-anticipated second book from…",
-   "town": "Burlington",
-   "state": "VT",
-   "lat": 44.492,
-   "lon": -73.239,
-   "maps_q": "Fletcher Free Library, Burlington, VT"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "6:30 pm",
-   "title": "Middlebury Afropop Band and African Music and Dance Ensemble Joint Concert",
-   "category": [
-    "music"
-   ],
-   "where": "Wilson Hall, McCullough Student Center, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "free",
-   "source": "addisonarts",
-   "also": [
-    "middcollege",
-    "addisonindependent",
-    "vermontpublic"
-   ],
-   "link": "https://addisonarts.org/event/middlebury-afropop-band-and-african-music-and-dance-ensemble-joint-concert/",
-   "link_kind": "event",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/11/event-featured-middlebury-afropop-band-and-african-music-and-dance-ensemble-joint-concert-1793822516-150x150.jpeg",
-   "desc": "Middlebury Afropop Band and African Music and Dance Ensemble Joint Concert",
-   "tickets": [],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Wilson Hall, McCullough Student Center, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "6:30 pm",
-   "title": "Intro to Mandarin: An Evening with Heritage Speaker Connor Frost",
-   "category": [
-    "social"
-   ],
-   "where": "Ilsley Public Library, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Ilsley Public Library, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-17",
-   "time": "7:30 pm",
-   "title": "Dark Star Orchestra",
-   "category": [
-    "music"
-   ],
-   "where": "Paramount Theatre, Rutland",
-   "miles": 17,
-   "range": "local",
-   "cost": "$40-$60",
-   "source": "paramount",
-   "also": [
-    "vermontpublic"
-   ],
-   "link": "https://paramountvt.org/event/dark-star-orchestra-5/",
-   "link_kind": "event",
-   "image": "https://paramountvt.org/wp-content/uploads/2026/09/DSO_350x350webcube-1-1.jpg",
-   "desc": "7:30PM Lobby doors open @ 6:30PM Seating begins @ 7:00PM Tickets: $40, $50, $60 + tax/fees Complimentary vouchers are not valid for this performance. Performing to critical acclaim for nearly 30 years and over 3300 shows, Dark Star…",
-   "tickets": [
-    "https://ci.ovationtix.com/36265/performance/11870805"
-   ],
-   "videos": [
-    "https://www.youtube.com/watch?v=2DL92VStGZk"
-   ],
-   "town": "Rutland",
-   "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Paramount Theatre, Rutland, VT"
-  },
-  {
    "date": "2026-11-18",
    "time": "1-3 pm (kickoff)",
    "title": "Welcome Blanket Project",
@@ -232,7 +113,8 @@
    "time": "5:30-6:45 pm",
    "title": "Becoming: A Workshop for Women in Midlife",
    "category": [
-    "social"
+    "social",
+    "classes"
    ],
    "where": "Middlebury Physical Therapy, Middlebury",
    "miles": 17,
@@ -400,7 +282,8 @@
    "time": "11am-3:45pm",
    "title": "Sew It Forward Middlebury: Dog Bandanas for Homeward Bound",
    "category": [
-    "social"
+    "social",
+    "crafts"
    ],
    "where": "The Quilter's Corner, Middlebury",
    "miles": 17,
@@ -644,7 +527,8 @@
    "time": "doors 6, show 7 pm",
    "title": "Good Time Line Dancing Lesson",
    "category": [
-    "dance"
+    "dance",
+    "classes"
    ],
    "where": "ZenBarn, Waterbury Center",
    "range": "distant",
@@ -1850,7 +1734,8 @@
    "time": "7:30 pm",
    "title": "Youth Opera Concert",
    "category": [
-    "music"
+    "music",
+    "children"
    ],
    "where": "Sanctuary, Champlain Valley Unitarian Universalist Society, Middlebury",
    "miles": 17,
@@ -1917,7 +1802,8 @@
    "time": "9am-3pm",
    "title": "Med47 Foundation Holiday Shoppe & Craft Fair",
    "category": [
-    "social"
+    "social",
+    "crafts"
    ],
    "where": "New Haven Town Hall, New Haven",
    "miles": 20,
@@ -2105,7 +1991,8 @@
    "time": "5 pm",
    "title": "Taking Flight, Improvisational Practices Class Showing",
    "category": [
-    "dance"
+    "dance",
+    "classes"
    ],
    "where": "Mahaney Arts Center Dance Theatre, Middlebury",
    "miles": 17,
@@ -2152,7 +2039,9 @@
    "time": "12:30-3:30pm",
    "title": "Raku & Pit Firing Workshop",
    "category": [
-    "art"
+    "art",
+    "classes",
+    "crafts"
    ],
    "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
@@ -2504,7 +2393,8 @@
     "2026-12-06"
    ],
    "category": [
-    "theater"
+    "theater",
+    "children"
    ],
    "where": "Lebanon Opera House, Lebanon, NH",
    "range": "distant",
@@ -2674,7 +2564,9 @@
    "time": "10:30am-1pm",
    "title": "Fused Glass Workshop: Ornaments and Winter Suncatchers",
    "category": [
-    "art"
+    "art",
+    "classes",
+    "crafts"
    ],
    "where": "Middlebury Studio School, Middlebury",
    "miles": 17,
@@ -2871,7 +2763,8 @@
     "2026-12-06"
    ],
    "category": [
-    "theater"
+    "theater",
+    "children"
    ],
    "where": "Lebanon Opera House, Lebanon, NH",
    "range": "distant",
@@ -3217,7 +3110,8 @@
    "time": "4pm",
    "title": "THT Fall Class Culmination",
    "category": [
-    "theater"
+    "theater",
+    "classes"
    ],
    "where": "Town Hall Theater, Middlebury",
    "miles": 17,
@@ -3313,7 +3207,8 @@
     "2026-12-06"
    ],
    "category": [
-    "theater"
+    "theater",
+    "children"
    ],
    "where": "Lebanon Opera House, Lebanon, NH",
    "range": "distant",
@@ -3765,7 +3660,8 @@
    "time": "doors 6, show 7 pm",
    "title": "Good Time Line Dancing Lesson",
    "category": [
-    "dance"
+    "dance",
+    "classes"
    ],
    "where": "ZenBarn, Waterbury Center",
    "range": "distant",
@@ -4086,7 +3982,8 @@
    "time": "4pm (and 7:30pm)",
    "title": "Bread + Puppet: The Christmas Story",
    "category": [
-    "theater"
+    "theater",
+    "children"
    ],
    "where": "Town Hall Theater, Middlebury",
    "miles": 17,
@@ -4555,7 +4452,8 @@
    "time": "6pm",
    "title": "Spells for Safety: A Community Poetry Workshop",
    "category": [
-    "social"
+    "social",
+    "classes"
    ],
    "where": "Catamount Arts, St. Johnsbury",
    "range": "distant",
@@ -4669,7 +4567,8 @@
    "time": "6pm",
    "title": "Beginner Salsa Class & Party",
    "category": [
-    "dance"
+    "dance",
+    "classes"
    ],
    "where": "ZenBarn, Waterbury Center",
    "range": "distant",
@@ -4724,7 +4623,8 @@
    "time": "doors 6, show 7 pm",
    "title": "Good Time Line Dancing Lesson",
    "category": [
-    "dance"
+    "dance",
+    "classes"
    ],
    "where": "ZenBarn, Waterbury Center",
    "range": "distant",

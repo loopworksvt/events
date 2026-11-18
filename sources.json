@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 27
+   "events": 26
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 82
+   "events": 79
   },
   {
    "id": "aleshire",
@@ -270,7 +270,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 22
+   "events": 21
   },
   {
    "id": "studioschool",
@@ -316,7 +316,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 7
+   "events": 6
   },
   {
    "id": "photoplace",
@@ -462,7 +462,7 @@
     "outdoors"
    ],
    "url": "https://www.vermontpublic.org/vermont-events-calendar",
-   "events": 4
+   "events": 1
   },
   {
    "id": "vtstate",

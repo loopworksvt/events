@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:75bbab9f@events
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Fatherland (film)
+LOCATION:Savoy Theater\, Montpelier\, VT
+DESCRIPTION:More information: https://savoytheater.com/movies/fatherland/
+URL:https://savoytheater.com/movies/fatherland/
+END:VEVENT
+END:VCALENDAR

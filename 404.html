@@ -45,6 +45,13 @@ h1{font-size:1.9rem;line-height:1.2;margin:6px 0 2px}
 .fsum{margin-left:auto;font-size:.88rem;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:60%}
 .fhd[aria-expanded="true"] .fsum{display:none}
 .fbody{padding:0 0 12px}.fbody[hidden]{display:none}
+.vsearch{width:100%;box-sizing:border-box;font:inherit;padding:7px 10px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--text)}
+.vlist{margin-top:6px;max-height:260px;overflow:auto}
+.vr{display:flex;align-items:center;gap:10px;padding:8px 0;border-bottom:1px solid var(--line);cursor:pointer;font-size:.92rem}
+.vr:last-child{border-bottom:0}.vr.zero{opacity:.5}
+.vr input{flex:none;width:18px;height:18px;margin:0;accent-color:var(--accent)}
+.vr .vn{flex:1;min-width:0}.vr .ct{color:var(--muted);font-size:.85rem}
+.vfoot{display:flex;justify-content:space-between;align-items:center;margin-top:6px;font-size:.85rem;color:var(--muted)}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
 .chip{border-radius:999px;padding:1px 10px;font-size:.84rem;line-height:inherit}
 .chip[aria-pressed="true"]{background:var(--accent);color:var(--bg);border-color:var(--accent)}
@@ -76,6 +83,7 @@ dialog#cf .row{display:flex;gap:10px;justify-content:flex-end}
 dialog#cf button{padding:7px 14px;border:1px solid var(--accent);background:none}
 dialog#cf button.go{background:var(--accent);color:var(--bg)}
 .pic{flex:0 0 112px;height:112px;border-radius:8px;overflow:hidden;background:var(--bg)}
+.pic a{display:block;width:100%;height:100%}
 .pic img{display:block;width:100%;height:100%;object-fit:cover}
 .pic.logo img{object-fit:contain;padding:8px;box-sizing:border-box}
 .pic.none{display:none}
