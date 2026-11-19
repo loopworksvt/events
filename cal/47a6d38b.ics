@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:47a6d38b@events
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Legally Blonde: The Musical
+LOCATION:Mount Abraham Union Middle/High School\, Bristol\, VT
+DESCRIPTION:Time listed as: see link for exact showtimes\nMore informatio
+ n: https://sites.google.com/view/mt-abraham-musical-theatre/home
+URL:https://sites.google.com/view/mt-abraham-musical-theatre/home
+END:VEVENT
+END:VCALENDAR

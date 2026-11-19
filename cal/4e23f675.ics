@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4e23f675@events
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:You Can See Everything (final screening)
+LOCATION:The Marquis\, Middlebury\, VT
+DESCRIPTION:More information: http://www.middleburymarquis.com/
+URL:http://www.middleburymarquis.com/
+END:VEVENT
+END:VCALENDAR

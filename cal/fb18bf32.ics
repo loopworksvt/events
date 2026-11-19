@@ -9,7 +9,8 @@ DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Equinox Documentary Film Festival 2026
 LOCATION:Savoy Theater\, Montpelier\, VT
-DESCRIPTION:More information: http://savoytheater.com/
-URL:http://savoytheater.com/
+DESCRIPTION:More information: https://savoytheater.com/movies/equinox-doc
+ umentary-film-festival/
+URL:https://savoytheater.com/movies/equinox-documentary-film-festival/
 END:VEVENT
 END:VCALENDAR

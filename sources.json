@@ -1,5 +1,5 @@
 {
- "scanned": "2026-11-18",
+ "scanned": "2026-11-19",
  "sources": [
   {
    "id": "addisonarts",
@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 32
+   "events": 26
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 117
+   "events": 114
   },
   {
    "id": "aleshire",
@@ -58,7 +58,7 @@
     "theater"
    ],
    "url": "https://barreoperahouse.org/shows/",
-   "events": 2
+   "events": 7
   },
   {
    "id": "blueberry",
@@ -70,7 +70,7 @@
     "outdoors"
    ],
    "url": "https://www.blueberryhillinn.com/diningcalendar",
-   "events": 9
+   "events": 8
   },
   {
    "id": "brandon",
@@ -80,7 +80,7 @@
     "community"
    ],
    "url": "https://brandon.org/events-and-happenings/",
-   "events": 1
+   "events": 0
   },
   {
    "id": "artistsguild",
@@ -101,7 +101,7 @@
     "arts"
    ],
    "url": "https://breadandpuppet.org/calendar",
-   "events": 0
+   "events": 17
   },
   {
    "id": "breadloafzen",
@@ -112,7 +112,7 @@
     "community"
    ],
    "url": "https://www.breadloafmountainzen.org/calendar/",
-   "events": 13
+   "events": 6
   },
   {
    "id": "burnham",
@@ -134,7 +134,7 @@
     "arts"
    ],
    "url": "https://www.catamountarts.org/shows-and-events/",
-   "events": 22
+   "events": 18
   },
   {
    "id": "chaffee",
@@ -145,7 +145,7 @@
     "classes"
    ],
    "url": "https://www.chaffeeartcenter.org/calendar-of-events/",
-   "events": 3
+   "events": 2
   },
   {
    "id": "cvuus",
@@ -157,7 +157,7 @@
     "talks"
    ],
    "url": "https://calendar.google.com/calendar/ical/cvuusoffice%40gmail.com/public/basic.ics",
-   "events": 7
+   "events": 5
   },
   {
    "id": "chandler",
@@ -170,7 +170,19 @@
     "comedy"
    ],
    "url": "https://www.chandler-arts.org",
-   "events": 11
+   "events": 7
+  },
+  {
+   "id": "enfieldshaker",
+   "name": "Enfield Shaker Museum",
+   "town": "Enfield, NH",
+   "kinds": [
+    "art",
+    "social",
+    "talks"
+   ],
+   "url": "https://shakermuseum.org/events/",
+   "events": 13
   },
   {
    "id": "sheldon",
@@ -181,7 +193,7 @@
     "social"
    ],
    "url": "https://henrysheldonmuseum.org/events/",
-   "events": 4
+   "events": 2
   },
   {
    "id": "higherground",
@@ -191,7 +203,20 @@
     "music"
    ],
    "url": "https://highergroundmusic.com/calendar/",
-   "events": 43
+   "events": 41
+  },
+  {
+   "id": "howe",
+   "name": "Howe Library, Hanover NH",
+   "town": "Hanover, NH",
+   "kinds": [
+    "talks",
+    "music",
+    "social",
+    "art"
+   ],
+   "url": "https://thehowe.org/events/",
+   "events": 83
   },
   {
    "id": "ilsley",
@@ -203,7 +228,7 @@
     "social"
    ],
    "url": "https://www.ilsleypubliclibrary.org/events/",
-   "events": 0
+   "events": 3
   },
   {
    "id": "killington",
@@ -215,7 +240,7 @@
     "outdoors"
    ],
    "url": "https://killington.com/events-calendar",
-   "events": 25
+   "events": 15
   },
   {
    "id": "lebanon",
@@ -247,7 +272,7 @@
     "theater"
    ],
    "url": "http://www.lostnationtheater.org/",
-   "events": 0
+   "events": 1
   },
   {
    "id": "mcma",
@@ -270,7 +295,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 30
+   "events": 24
   },
   {
    "id": "studioschool",
@@ -281,7 +306,7 @@
     "classes"
    ],
    "url": "https://middleburystudioschool.org/adult-art-classes/",
-   "events": 17
+   "events": 18
   },
   {
    "id": "minibury",
@@ -294,7 +319,19 @@
     "social"
    ],
    "url": "https://minibury.com/calendar/",
-   "events": 32
+   "events": 39
+  },
+  {
+   "id": "montshire",
+   "name": "Montshire Museum of Science",
+   "town": "Norwich",
+   "kinds": [
+    "outdoors",
+    "social",
+    "talks"
+   ],
+   "url": "https://montshire.org/events/",
+   "events": 15
   },
   {
    "id": "ottercreek",
@@ -316,7 +353,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 10
+   "events": 5
   },
   {
    "id": "photoplace",
@@ -337,7 +374,7 @@
     "social"
    ],
    "url": "https://redcloverale.com",
-   "events": 6
+   "events": 2
   },
   {
    "id": "ruthstone",
@@ -348,7 +385,7 @@
     "talks"
    ],
    "url": "https://ruthstonehouse.org/rsh-events/",
-   "events": 5
+   "events": 4
   },
   {
    "id": "savoy",
@@ -358,7 +395,7 @@
     "film"
    ],
    "url": "http://savoytheater.com/",
-   "events": 9
+   "events": 6
   },
   {
    "id": "sevenstars",
@@ -368,7 +405,7 @@
     "music"
    ],
    "url": "https://www.sevenstarsarts.org/concertsevents.html",
-   "events": 1
+   "events": 3
   },
   {
    "id": "silentfilm",
@@ -423,7 +460,7 @@
     "film"
    ],
    "url": "http://www.middleburymarquis.com/",
-   "events": 17
+   "events": 10
   },
   {
    "id": "townhall",
@@ -438,6 +475,20 @@
    "events": 0
   },
   {
+   "id": "valleynews",
+   "name": "Valley News events",
+   "town": "Upper Valley (various)",
+   "kinds": [
+    "social",
+    "music",
+    "art",
+    "theater",
+    "outdoors"
+   ],
+   "url": "https://vnews.com/events/",
+   "events": 390
+  },
+  {
    "id": "valleystage",
    "name": "Valley Stage Productions",
    "town": "Middlebury and Weybridge",
@@ -446,7 +497,7 @@
     "theater"
    ],
    "url": "http://www.valleystageproductions.com/",
-   "events": 0
+   "events": 1
   },
   {
    "id": "vermontpublic",
@@ -462,7 +513,7 @@
     "outdoors"
    ],
    "url": "https://www.vermontpublic.org/vermont-events-calendar",
-   "events": 8
+   "events": 7
   },
   {
    "id": "vtstate",
@@ -475,7 +526,7 @@
     "talks"
    ],
    "url": "https://events.vermontstate.edu",
-   "events": 8
+   "events": 11
   },
   {
    "id": "waybury",
@@ -486,7 +537,21 @@
     "art"
    ],
    "url": "https://www.wayburyinn.com/events",
-   "events": 2
+   "events": 0
+  },
+  {
+   "id": "woodstock",
+   "name": "Woodstock VT events",
+   "town": "Woodstock",
+   "kinds": [
+    "music",
+    "theater",
+    "film",
+    "art",
+    "social"
+   ],
+   "url": "https://woodstockvt.com/events/",
+   "events": 33
   },
   {
    "id": "zenbarn",
@@ -496,7 +561,7 @@
     "music"
    ],
    "url": "https://www.zenbarnvt.com/calendar/",
-   "events": 23
+   "events": 17
   }
  ]
 }

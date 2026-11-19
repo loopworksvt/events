@@ -10,8 +10,8 @@ DTEND;VALUE=DATE:20261229
 SUMMARY:Tubing Night presented by bubly
 LOCATION:Tubing Park\, Killington\, VT
 DESCRIPTION:More information: https://killington.com/events-calendar/tubi
- ng-night-presented-by-bubly
+ ng-night-presented-by-bubly?i=0&c=20261228
 URL:https://killington.com/events-calendar/tubing-night-presented-by-bubl
- y
+ y?i=0&c=20261228
 END:VEVENT
 END:VCALENDAR

@@ -26,10 +26,8 @@ DTSTART;TZID=America/New_York:20261127T200000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:An Evening with Club D'Elf
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7)\nMore informat
- ion: https://zenbarnvt.com/event/an-evening-with-club-d-elf-november-27-
- 2026/
-URL:https://zenbarnvt.com/event/an-evening-with-club-d-elf-november-27-20
- 26/
+DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7:30)\nMore infor
+ mation: https://www.zenbarnvt.com/calendar/
+URL:https://www.zenbarnvt.com/calendar/
 END:VEVENT
 END:VCALENDAR

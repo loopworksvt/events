@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2c644d30@events
+DTSTAMP:20270113T000000Z
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:Michelob ULTRA Ski Bum Race Series (2nd round)
+LOCATION:Highline Ski Trail\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar/ski-
+ bum?i=1&c=20270113
+URL:https://killington.com/events-calendar/ski-bum?i=1&c=20270113
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:850964d3@events
+DTSTAMP:20261210T000000Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Motivational Interviewing 2-Day workshop
+LOCATION:Berry Library\, Hanover\, NH
+DESCRIPTION:More information: https://news.dartmouth.edu/events/event?eve
+ nt=83178
+URL:https://news.dartmouth.edu/events/event?event=83178
+END:VEVENT
+END:VCALENDAR

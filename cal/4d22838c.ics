@@ -26,10 +26,8 @@ DTSTART;TZID=America/New_York:20261128T200000
 DTEND;TZID=America/New_York:20261128T220000
 SUMMARY:Weird Phishes: Radiohead Through the Lens of Phish
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7)\nMore informat
- ion: https://zenbarnvt.com/event/weird-phishes-radiohead-through-the-len
- s-of-phish-november-28-2026/
-URL:https://zenbarnvt.com/event/weird-phishes-radiohead-through-the-lens-
- of-phish-november-28-2026/
+DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7:30)\nMore infor
+ mation: https://www.zenbarnvt.com/calendar/
+URL:https://www.zenbarnvt.com/calendar/
 END:VEVENT
 END:VCALENDAR

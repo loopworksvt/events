@@ -25,8 +25,9 @@ DTSTAMP:20261120T000000Z
 DTSTART;TZID=America/New_York:20261120T150000
 DTEND;TZID=America/New_York:20261120T163000
 SUMMARY:Priests and Postulants Meeting
-DESCRIPTION:More information: https://www.breadloafmountainzen.org/calend
- ar/
-URL:https://www.breadloafmountainzen.org/calendar/
+DESCRIPTION:More information: https://breadloafmountainzen.org/event/prie
+ sts-and-postulants-meeting/2026-11-20/
+URL:https://breadloafmountainzen.org/event/priests-and-postulants-meeting
+ /2026-11-20/
 END:VEVENT
 END:VCALENDAR

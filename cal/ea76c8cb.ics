@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261216T150000
 DTEND;TZID=America/New_York:20261216T170000
 SUMMARY:Sugar Shack
 LOCATION:ZenBarn\, Waterbury Center\, VT
-DESCRIPTION:End time not listed.\nMore information: https://zenbarnvt.com
- /event/sugar-shack-december-16-2026/
-URL:https://zenbarnvt.com/event/sugar-shack-december-16-2026/
+DESCRIPTION:End time not listed.\nMore information: https://www.zenbarnvt
+ .com/calendar/
+URL:https://www.zenbarnvt.com/calendar/
 END:VEVENT
 END:VCALENDAR

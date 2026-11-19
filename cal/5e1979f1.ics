@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:5e1979f1@events
+DTSTAMP:20261213T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:Woyzeck (closing)
+LOCATION:Theater for the New City\, New York NY\, Glover
+DESCRIPTION:Time listed as: 3 pm & 8 pm\nMore information: https://ci.ova
+ tiontix.com/35441/production/1293947
+URL:https://ci.ovationtix.com/35441/production/1293947
+END:VEVENT
+END:VCALENDAR

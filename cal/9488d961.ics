@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:9488d961@events
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Donations Accepted For Toy Swap
+LOCATION:Children's Program Room\, Howe Library\, Hanover\, NH
+DESCRIPTION:More information: https://thehowe.libcal.com/event/18028248
+URL:https://thehowe.libcal.com/event/18028248
+END:VEVENT
+END:VCALENDAR

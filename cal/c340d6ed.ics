@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261202T090000
 DTEND;TZID=America/New_York:20261202T110000
 SUMMARY:Community Lactation Hour
 LOCATION:Nest and Gather\, New Haven\, VT
-DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
- event/community-lactation-hour/
+DESCRIPTION:More information: https://minibury.com/event/community-lactat
+ ion-hour/
 URL:https://minibury.com/event/community-lactation-hour/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:f22e39d1@events
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Mihali
+LOCATION:Pickle Barrel Nightclub\, Killington\, VT
+DESCRIPTION:More information: https://link.seated.com/17a45864-d1d0-45a3-
+ adcb-cf5ad6dd58e0
+URL:https://link.seated.com/17a45864-d1d0-45a3-adcb-cf5ad6dd58e0
+END:VEVENT
+END:VCALENDAR

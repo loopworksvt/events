@@ -23,7 +23,7 @@ BEGIN:VEVENT
 UID:fe7e0fac@events
 DTSTAMP:20261202T000000Z
 DTSTART;TZID=America/New_York:20261202T170000
-DTEND;TZID=America/New_York:20261202T200000
+DTEND;TZID=America/New_York:20261202T180000
 SUMMARY:Shibori Scarves Workshop
 LOCATION:Middlebury Studio School\, Middlebury\, VT
 DESCRIPTION:More information: https://middleburystudioschool.org/adult-ar

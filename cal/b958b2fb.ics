@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b958b2fb@events
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Ebenezer (final Sun 11/22)
+LOCATION:The Marquis\, Middlebury\, VT
+DESCRIPTION:Time listed as: varies by day\, see link\nMore information: h
+ ttp://www.middleburymarquis.com/
+URL:http://www.middleburymarquis.com/
+END:VEVENT
+END:VCALENDAR

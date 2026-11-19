@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261120T193000
 DTEND;TZID=America/New_York:20261120T213000
 SUMMARY:Film Screening: "Plucked"
 LOCATION:Town Hall Theater\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://addisonarts.o
+ rg/event/plucked-film-screening/
+URL:https://addisonarts.org/event/plucked-film-screening/
 END:VEVENT
 END:VCALENDAR
