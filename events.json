@@ -6,1128 +6,6 @@
  ],
  "events": [
   {
-   "date": "2026-11-19",
-   "time": "",
-   "title": "First Stop Quality Ski Time Film Tour",
-   "category": [
-    "film",
-    "outdoors"
-   ],
-   "where": "K-1 Base Area, Killington",
-   "miles": 30,
-   "range": "distant",
-   "cost": "",
-   "source": "killington",
-   "link": "https://killington.com/events-calendar/fsbb-film-tour?i=0&c=20261119",
-   "link_kind": "event",
-   "image": "https://killington.com/images/divider.png",
-   "image_logo": "#ffffff",
-   "town": "Killington",
-   "state": "VT",
-   "lat": 43.658,
-   "lon": -72.784,
-   "maps_q": "K-1 Base Area, Killington, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "",
-   "title": "You Can See Everything (final screening)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "10 am-12:30 pm",
-   "title": "Thursday Morning Wheel (fall series)",
-   "category": [
-    "crafts",
-    "classes"
-   ],
-   "where": "Middlebury Studio School, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$315 (series)",
-   "source": "studioschool",
-   "link": "https://middleburystudioschool.org/adult-clay/",
-   "link_kind": "event",
-   "tickets": [],
-   "image": "https://middleburystudioschool.org/wp-content/uploads/2024/02/Clay-Studio-w-garden-by-sign-ret2.jpg",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury Studio School, Middlebury, VT"
-  },
-  {
-   "time": "10:00 am",
-   "title": "Pieced in Light: Contemporary Stained Glass in the Historic House",
-   "where": "Billings Farm & Museum, Woodstock",
-   "link": "https://www.woodstockvt.com/event/pieced-in-light-contemporary-stained-glass-in-the-historic-house-2/2026-11-19/",
-   "link_kind": "event",
-   "cost": "",
-   "category": [
-    "art"
-   ],
-   "source": "woodstock",
-   "date": "2026-11-19",
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "Billings Farm & Museum, Woodstock, VT"
-  },
-  {
-   "time": "10:00 am",
-   "title": "Toddler/preschool story hour in Hartford Village",
-   "where": "Hartford Library, Hartford Village, VT",
-   "link": "http://hartfordvtlibrary.org ",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "A story hour for toddlers and preschoolers with stories, music, circle activities, crafts, and snacks. Caregivers stay alongside children.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/pT3VeP62sE-Xl7Xh9E_GiQ.large.jpg",
-   "category": [
-    "children"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Hartford",
-   "state": "VT",
-   "lat": 43.665,
-   "lon": -72.386,
-   "maps_q": "Hartford Library, Hartford Village, VT"
-  },
-  {
-   "time": "10:30 am",
-   "title": "Forest Storytime",
-   "where": "Vermont Institute of Natural Science, Quechee, VT",
-   "link": "https://www.facebook.com/events/1754036912344394/1754036922344393/?active_tab=about",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "An early-learning storytime for children 5 and under, featuring nature-themed stories, songs, games, and puppets to encourage curiosity about the outdoors.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/Jk9ykc2iWE-TMATdGAVVjg.large.png",
-   "category": [
-    "outdoors",
-    "children",
-    "theater"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Hartford",
-   "state": "VT",
-   "lat": 43.665,
-   "lon": -72.386,
-   "maps_q": "Vermont Institute of Natural Science, Quechee, VT, Hartford"
-  },
-  {
-   "time": "10:30 am",
-   "title": "Toddler Story Time",
-   "where": "Norman Williams Public Library, Woodstock, VT",
-   "link": "https://normanwilliams.org/event/toddler-story-time/2026-11-19",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "A storytime for toddlers ages 20 months to 3.5 years, with books, themed activities, and social time in a relaxed library setting.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/MUdaVAruLkygOV26YkgBGw.large.png",
-   "category": [
-    "children"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "Norman Williams Public Library, Woodstock, VT"
-  },
-  {
-   "time": "10:30 am-11:00 am",
-   "title": "Simply Storytime",
-   "where": "Mayer Room, Howe Library, Hanover, NH",
-   "link": "https://thehowe.libcal.com/event/17275649",
-   "link_kind": "event",
-   "cost": "",
-   "category": [
-    "children"
-   ],
-   "source": "howe",
-   "date": "2026-11-19",
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Mayer Room, Howe Library, Hanover, NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "11 am-3:45 pm",
-   "title": "Sew It Forward Middlebury: Dog Bandanas for Homeward Bound",
-   "category": [
-    "crafts"
-   ],
-   "where": "The Quilter's Corner, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "addisonindependent",
-   "link": "https://www.middleburysewnvac.com/classes--clubs.htm",
-   "link_kind": "event",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Quilter's Corner, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "11-11:30 am",
-   "title": "GROW Preschool Yoga",
-   "category": [
-    "children"
-   ],
-   "where": "Fletcher Free Library, Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "",
-   "source": "vermontpublic",
-   "link": "https://www.vermontpublic.org/vermont-events-calendar/event/grow-preschool-yoga-16-09-2026-00-30-41",
-   "link_kind": "event",
-   "image": "https://npr.brightspotcdn.com/dims4/default/9bfbf26/2147483647/strip/true/crop/275x144+0+92/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F54%2F0f2d23de4e98aa9e474706f78aff%2Fyoga.png",
-   "desc": "Join Colleen from Grow Prenatal and Family Yoga for songs, movement, and other fun yoga activities. Recommended for children ages 2-5 and their caregivers.",
-   "town": "Burlington",
-   "state": "VT",
-   "lat": 44.492,
-   "lon": -73.239,
-   "maps_q": "Fletcher Free Library, Burlington, VT"
-  },
-  {
-   "time": "1:00 pm",
-   "title": "Psychological and Brain Sciences Colloquium",
-   "where": "Filene Auditorium, Moore Building, Hanover, NH",
-   "link": "https://news.dartmouth.edu/events/event?event=82789",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "A colloquium talk on psychology and brain sciences, featuring Chaz Firestone of Johns Hopkins, with insights into perception and cognition.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/3de4e1f5-d5c6-466a-9618-7c6394107ed1.large.png",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "tickets": [],
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Filene Auditorium, Moore Building, Hanover, NH"
-  },
-  {
-   "time": "2:00 pm",
-   "title": "Play Bridge at NWPL",
-   "where": "Norman Williams Public Library, Woodstock, VT",
-   "link": "https://normanwilliams.org/event/play-bridge-at-nwpl-3-2/2026-11-19",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "A weekly afternoon party bridge game for experienced players; beginners can stop by to observe and learn.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/c83392fb-3d9d-4fd4-8bed-3a3efb025d01.large.png",
-   "category": [
-    "music",
-    "theater",
-    "classes"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "Norman Williams Public Library, Woodstock, VT"
-  },
-  {
-   "time": "3:00 pm",
-   "title": "Knitting Group",
-   "where": "Hartland Public Library, Hartland, VT",
-   "link": "https://www.hartlandlibraryvt.org/calendar/",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Knitting group at Hartland Public Library. All levels welcome. Bring any fiber arts project.",
-   "category": [
-    "art",
-    "crafts"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-17",
-    "2027-01-07"
-   ],
-   "date": "2026-11-19",
-   "town": "Hartland",
-   "state": "VT",
-   "lat": 43.581,
-   "lon": -72.439,
-   "maps_q": "Hartland Public Library, Hartland, VT"
-  },
-  {
-   "time": "3:00 pm",
-   "title": "Performing Arts After School Program - (Ages 7-14)",
-   "where": "Woodstock Village Green, Woodstock, VT",
-   "link": "https://www.facebook.com/events/2909931749372278/2909931762705610/?active_tab=about",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "An after-school performing arts program for ages 7-14, exploring theater, dance, and music through hands-on instruction and a final performance.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/BpYUTnkL7kSU2pVM_EN6uA.large.png",
-   "category": [
-    "theater",
-    "children"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-11-24",
-    "2026-11-26",
-    "2026-12-01",
-    "2026-12-03",
-    "2026-12-08",
-    "2026-12-10"
-   ],
-   "date": "2026-11-19",
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "Woodstock Village Green, Woodstock, VT"
-  },
-  {
-   "time": "3:00 pm",
-   "title": "STEAM Thursdays!",
-   "where": "Hartland Public Library, Hartland, VT",
-   "link": "https://www.hartlandlibraryvt.org/calendar/",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Weekly after-school library program for kids exploring science, technology, engineering, art, and math through hands-on projects tied to a monthly theme.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17",
-    "2026-12-31",
-    "2027-01-07",
-    "2027-01-14"
-   ],
-   "date": "2026-11-19",
-   "town": "Hartland",
-   "state": "VT",
-   "lat": 43.581,
-   "lon": -72.439,
-   "maps_q": "Hartland Public Library, Hartland, VT"
-  },
-  {
-   "time": "3:30 pm",
-   "title": "\"Let's Go LEGOs\" gathering in Quechee",
-   "where": "Quechee Public Library, Quechee, VT",
-   "link": "https://www.quecheeandwilderlibraries.com/home/",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "A weekly LEGO-building gathering for all ages, with DUPLOs for younger children and plenty of bricks to spark creativity.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/5LkFtBJ3WUeSFHCEOyeuNQ.large.jpg",
-   "category": [
-    "children"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17",
-    "2026-12-31",
-    "2027-01-07",
-    "2027-01-14"
-   ],
-   "date": "2026-11-19",
-   "town": "Hartford",
-   "state": "VT",
-   "lat": 43.665,
-   "lon": -72.386,
-   "maps_q": "Quechee Public Library, Quechee, VT, Hartford"
-  },
-  {
-   "time": "3:45 pm-5:00 pm",
-   "title": "Legos at the Library",
-   "where": "Children's Program Room, Howe Library, Hanover, NH",
-   "link": "https://thehowe.libcal.com/event/17310215",
-   "link_kind": "event",
-   "cost": "",
-   "category": [
-    "classes",
-    "children"
-   ],
-   "source": "howe",
-   "date": "2026-11-19",
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Children's Program Room, Howe Library, Hanover, NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "4-6 pm",
-   "title": "Mixed-Level Mah Jongg",
-   "category": [
-    "social"
-   ],
-   "where": "Bixby Library, Vergennes",
-   "miles": 28,
-   "range": "local",
-   "cost": "",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Vergennes",
-   "state": "VT",
-   "lat": 44.168,
-   "lon": -73.255,
-   "maps_q": "Bixby Library, Vergennes, VT"
-  },
-  {
-   "time": "4:00 pm",
-   "title": "Everlasting Dried Flower Wreaths",
-   "where": "Enfield Shaker Museum, Enfield",
-   "link": "https://shakermuseum.org/event/everlasting-dried-flower-wreaths/",
-   "link_kind": "event",
-   "cost": "$65.00 – $75.00",
-   "desc": "[vc_row][vc_column][vc_column_text] Everlasting Dried Flower Wreath Workshop Instructor: Happy Griffiths Thursday, November 19, 4:00 – 6:00 pm, Great Stone Dwelling Celebrate the beauty of the changing seasons with a hands-on botanical…",
-   "image": "https://shakermuseum.org/wp-content/uploads/2026/10/IMG_9551-scaled.jpg",
-   "category": [
-    "outdoors",
-    "classes",
-    "crafts"
-   ],
-   "source": "enfieldshaker",
-   "date": "2026-11-19",
-   "town": "Enfield",
-   "state": "NH",
-   "lat": 43.603,
-   "lon": -72.119,
-   "maps_q": "Enfield Shaker Museum, Enfield, NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "5-6:15 pm",
-   "title": "Minecraft Meet-up",
-   "category": [
-    "children"
-   ],
-   "where": "Fletcher Free Library (New North End), Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "Free",
-   "source": "vermontpublic",
-   "link": "https://www.vermontpublic.org/vermont-events-calendar/event/minecraft-meet-up-04-09-2026-22-36-24",
-   "link_kind": "event",
-   "image": "https://npr.brightspotcdn.com/dims4/default/ad9a21a/2147483647/strip/true/crop/275x144+0+92/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F74%2Fa4%2F6f4f03fa47e6af0d8ed0aa66f4c8%2Fmc.png",
-   "desc": "Kids 7-12: drop in and meet up with fellow Minecraft enthusiasts to play together on the library’s private server! Snacks will be available.",
-   "town": "Burlington",
-   "state": "VT",
-   "lat": 44.492,
-   "lon": -73.239,
-   "maps_q": "Fletcher Free Library (New North End), Burlington, VT"
-  },
-  {
-   "time": "5:00 am",
-   "title": "Coat Drive for the Upper Valley Haven",
-   "where": "Upper Valley Aquatic Center, White River Junction, VT",
-   "link": "",
-   "link_kind": "",
-   "cost": "Free",
-   "desc": "A seasonal coat drive gathering children's and adult coats for the Upper Valley Haven, with the goal of helping neighbors stay warm this winter. Donations are accepted at the aquatic center over the",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/b4F4LHIWg0GQ3wCDOy9pQQ.large.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-22",
-    "2026-11-23",
-    "2026-11-24",
-    "2026-11-25",
-    "2026-11-26"
-   ],
-   "date": "2026-11-19",
-   "town": "Hartford",
-   "state": "VT",
-   "lat": 43.665,
-   "lon": -72.386,
-   "maps_q": "Upper Valley Aquatic Center, White River Junction, VT, Hartford"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "5:30 pm",
-   "title": "Psychedelics Roundtable",
-   "category": [
-    "social"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://www.zenbarnvt.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "5:30-7 pm",
-   "title": "FlynnZone Family Nights: Barn Dance Bash",
-   "category": [
-    "dance",
-    "children"
-   ],
-   "where": "The Flynn, Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "Free",
-   "source": "vermontpublic",
-   "link": "https://www.vermontpublic.org/vermont-events-calendar/event/flynnzone-family-nights-barn-dance-bash-21-10-2026-12-07-10",
-   "link_kind": "event",
-   "image": "https://npr.brightspotcdn.com/dims4/default/0d0c188/2147483647/strip/true/crop/2000x1050+0+101/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faa%2F94%2Fb9f2d2ca42e59f37fbe3a86882f7%2Fimage-4-2e16d0ba-fill-2880x1800-format-avif.jpg",
-   "desc": "Bring the whole family for a lively evening of music and dancing! In the tradition of New England barn dances, a friendly caller will teach each dance as we go, with simple circles, squares, longways sets, and play-party-games for all…",
-   "tickets": [
-    "https://www.flynnvt.org/see-and-do/barn-dance-bash/"
-   ],
-   "town": "Burlington",
-   "state": "VT",
-   "lat": 44.492,
-   "lon": -73.239,
-   "maps_q": "The Flynn, Burlington, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "6-8:30 pm",
-   "title": "Thursday Evening Wheel (fall series)",
-   "category": [
-    "crafts",
-    "classes"
-   ],
-   "where": "Middlebury Studio School, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "studioschool",
-   "link": "https://middleburystudioschool.org/adult-clay/",
-   "link_kind": "event",
-   "tickets": [],
-   "image": "https://middleburystudioschool.org/wp-content/uploads/2024/02/Clay-Studio-w-garden-by-sign-ret2.jpg",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Middlebury Studio School, Middlebury, VT"
-  },
-  {
-   "time": "6:00 pm",
-   "title": "Game Night",
-   "where": "Hartland Public Library, Hartland, VT",
-   "link": "https://www.hartlandlibraryvt.org/calendar/",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Monthly game night for teens and adults, offering a mix of classic and new games. Bring your own or try something from the library's collection.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-17"
-   ],
-   "date": "2026-11-19",
-   "town": "Hartland",
-   "state": "VT",
-   "lat": 43.581,
-   "lon": -72.439,
-   "maps_q": "Hartland Public Library, Hartland, VT"
-  },
-  {
-   "time": "6:00 pm",
-   "title": "Oneness Experience in Woodstock",
-   "where": "North Unitarian Chapel Society, Woodstock, VT",
-   "link": "",
-   "link_kind": "",
-   "cost": "Free",
-   "desc": "A gathering that combines teachings, guided meditations, and compassionate support for people at any experience level. Centered on spiritual practice and everyday life.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17",
-    "2026-12-31"
-   ],
-   "date": "2026-11-19",
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "North Unitarian Chapel Society, Woodstock, VT"
-  },
-  {
-   "time": "6:00 pm",
-   "title": "Story JAM: Bi-monthly Storytelling Circle in White River Junction",
-   "where": "JAM - Junction Arts & Media, White River Junction, VT",
-   "link": "https://uvjam.org/series/story-jam-bi-monthly-storytelling-circle-5/",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "A bi-monthly storytelling circle where Upper Valley community members can share a true five-minute story or simply listen.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/nmu0skFWtkCe7YEiwHBHVQ.large.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Hartford",
-   "state": "VT",
-   "lat": 43.665,
-   "lon": -72.386,
-   "maps_q": "JAM - Junction Arts & Media, White River Junction, VT, Hartford"
-  },
-  {
-   "time": "6:00 pm",
-   "title": "Word Games! | Library After Hours",
-   "where": "Norman Williams Public Library, Woodstock",
-   "link": "https://www.woodstockvt.com/event/word-games-library-after-hours-3/",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "@ Calling all crossword puzzlers, Wordle fans, spelling bee champs: time to relax, mingle, and play games! Get ready for the upcoming holiday’s round of family competitions at the November Library After Hours . Brush up on your word games…",
-   "image": "https://www.woodstockvt.com/wp-content/uploads/2026/08/word-games-2026.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "woodstock",
-   "date": "2026-11-19",
-   "also": [
-    "valleynews"
-   ],
-   "town": "Woodstock",
-   "state": "VT",
-   "lat": 43.594,
-   "lon": -72.548,
-   "maps_q": "Norman Williams Public Library, Woodstock, VT"
-  },
-  {
-   "time": "6:30 pm",
-   "title": "\"Winnie-the-Pooh\" reading in Hanover",
-   "where": "Still North Books & Bar, Hanover, NH",
-   "link": "https://thehowe.libcal.com/event/17763316",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "A communal reading of Winnie-the-Pooh in honor of its 100th anniversary, where adults take turns reading aloud.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/H2yT97puBU2eXrdN8vo9SA.large.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Still North Books & Bar, Hanover, NH"
-  },
-  {
-   "time": "6:30 pm-8:30 pm",
-   "title": "Howe@snorth: Winnie-the-Pooh Reading",
-   "where": "Still North Books & Bar, Hanover, NH",
-   "link": "https://thehowe.libcal.com/event/17763316",
-   "link_kind": "event",
-   "cost": "",
-   "image": "https://d68g328n4ug0e.cloudfront.net/misc/5761/events/16063/2026_10_06_17_10_39.png",
-   "category": [
-    "social"
-   ],
-   "source": "howe",
-   "date": "2026-11-19",
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Still North Books & Bar, Hanover, NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7 pm",
-   "title": "Lebanon High School Fall Concert",
-   "category": [
-    "music"
-   ],
-   "where": "Lebanon Opera House, Lebanon NH",
-   "miles": 60,
-   "range": "distant",
-   "cost": "",
-   "source": "lebanon",
-   "link": "https://lebanonoperahouse.org/events/lhs-fall-concert/",
-   "link_kind": "event",
-   "image": "https://lebanonoperahouse.org/app/uploads/2026/11/lhs-768x432-1.png",
-   "also": [
-    "valleynews"
-   ],
-   "desc": "Join the award-winning Lebanon High School music program for their annual fall concert, featuring performances by the Concert Band, Chorus, ...",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Lebanon Opera House, Lebanon NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7 pm",
-   "title": "The Work in Progress",
-   "category": [
-    "theater"
-   ],
-   "where": "Catamount Arts, St. Johnsbury",
-   "miles": 100,
-   "range": "distant",
-   "cost": "",
-   "source": "catamount",
-   "link": "https://www.catamountarts.org/shows-and-events/",
-   "link_kind": "calendar",
-   "image": "https://www.catamountarts.org/wp-content/uploads/2026/08/Catamount-Arts.png",
-   "image_logo": "#ffffff",
-   "town": "St. Johnsbury",
-   "state": "VT",
-   "lat": 44.46,
-   "lon": -72.005,
-   "maps_q": "Catamount Arts, St. Johnsbury, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7 pm",
-   "title": "Wind Symphony Concert",
-   "category": [
-    "music"
-   ],
-   "where": "Fine Arts Center, Castleton",
-   "miles": 22,
-   "range": "local",
-   "cost": "Free",
-   "source": "vtstate",
-   "link": "https://events.vermontstate.edu/event/wind-symphony-concert-fall-2026",
-   "link_kind": "event",
-   "image": "https://localist-images.azureedge.net/photos/53727099611639/huge/4f1ee5fe006f628a8a0dc87ea3eaa6058373ae74.jpg",
-   "desc": "The VTSU Castleton Wind Symphony, directed by Professor Joshua Thompson, presents a night of musical entertainment! Soundings students may only attend ONE of the three VTSU Castleton Music Program’s Concerts for credit. These concerts…",
-   "town": "Castleton",
-   "state": "VT",
-   "lat": 43.653,
-   "lon": -73.161,
-   "maps_q": "Fine Arts Center, Castleton, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7 pm (doors 6)",
-   "title": "Good Time Line Dancing Lesson",
-   "category": [
-    "dance",
-    "classes"
-   ],
-   "where": "ZenBarn, Waterbury Center",
-   "miles": 70,
-   "range": "distant",
-   "cost": "",
-   "source": "zenbarn",
-   "link": "https://www.zenbarnvt.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Waterbury",
-   "state": "VT",
-   "lat": 44.388,
-   "lon": -72.74,
-   "maps_q": "ZenBarn, Waterbury Center, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7 pm (doors 6)",
-   "title": "Quality Ski Time Film Tour",
-   "category": [
-    "film",
-    "outdoors"
-   ],
-   "where": "Paramount Theatre, Rutland",
-   "miles": 17,
-   "range": "local",
-   "cost": "$15 + tax/fees",
-   "source": "paramount",
-   "link": "https://paramountvt.org/event/quality-ski-time-film-tour/",
-   "link_kind": "event",
-   "image": "https://paramountvt.org/wp-content/uploads/2026/10/fsbb-quality-ski-film-tour-350x350-B.jpg",
-   "desc": "7:00 PM Doors open at: 6PM Tickets: $15 + tax/fees Ski movies will forever be a part of ski culture. Nothing else can match the community and excitement created by watching films with friends. So, why would you settle for just one film?…",
-   "tickets": [
-    "https://ci.ovationtix.com/TheParamountTheatre/performance/11881266"
-   ],
-   "town": "Rutland",
-   "state": "VT",
-   "lat": 43.61,
-   "lon": -72.978,
-   "maps_q": "Paramount Theatre, Rutland, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7-9 pm",
-   "title": "Silver Social (55+)",
-   "category": [
-    "social"
-   ],
-   "where": "Ilsley Public Library, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "Free",
-   "source": "addisonindependent",
-   "also": [
-    "vermontpublic"
-   ],
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Ilsley Public Library, Middlebury, VT"
-  },
-  {
-   "time": "7:00 pm",
-   "title": "Upper Valley Jigsaw Puzzle Exchange in West Lebanon",
-   "where": "Kilton Public Library, West Lebanon, NH",
-   "link": "",
-   "link_kind": "",
-   "cost": "Free",
-   "desc": "Bring puzzles to share or browse for new-to-you ones in this free swap, which moves quickly, parking-lot style. Bring a flashlight if it's dark.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/kcbkYe2WcUqeWCBlL1hIMw.large.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Kilton Public Library, West Lebanon, NH"
-  },
-  {
-   "time": "7:00 pm",
-   "title": "White River Node Meeting",
-   "where": "Building A Local Economy, South Royalton, VT",
-   "link": "https://350vermont.org/events/",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "A recurring local node meeting for a community network, open to those interested in grassroots organizing and local issues.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/a97da72b-ec88-4bd6-abc5-758d56a3d70f.large.png",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-17",
-    "2027-01-07"
-   ],
-   "date": "2026-11-19",
-   "tickets": [
-    "https://350vt.nationbuilder.com/email_signup"
-   ],
-   "maps_q": "Building A Local Economy, South Royalton, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "dates": [
-    "2026-11-19",
-    "2026-11-20"
-   ],
-   "time": "7:30 pm",
-   "title": "MCMT's \"The Addams Family\"",
-   "category": [
-    "theater",
-    "music"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$5-$10",
-   "source": "middcollege",
-   "also": [
-    "addisonarts",
-    "addisonindependent"
-   ],
-   "link": "https://www.middlebury.edu/events/event/mcmts-addams-family-0",
-   "link_kind": "event",
-   "image": "https://www.middlebury.edu/sites/default/files/homepage/modal01/why-middlebury-1136x639.webp?fv=1",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "7:30 pm (doors 7)",
-   "title": "Tom Hamilton",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "$20-$25",
-   "source": "higherground",
-   "link": "https://wl.seetickets.us/event/tom-hamilton/701910?afflky=HigherGround",
-   "link_kind": "event",
-   "image": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiNzc1MWY5YjAtY2I3MS00YmNmLWJlN2QtZmJkMjVjNTM1NTlkIiwiZWRpdHMiOnt9fQ==",
-   "desc": "All Ages--Tom Hamilton has made a career of pushing rock n’ roll boundaries. Since 2000, Hamilton has fronted a cadre of bands, including Brothers Past, American Babies and Ghost Light. He also sings",
-   "tickets": [
-    "https://wl.eventim.us/event/tom-hamilton/701910"
-   ],
-   "town": "South Burlington",
-   "state": "VT",
-   "lat": 44.436,
-   "lon": -73.183,
-   "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "8 pm (doors 7:30)",
-   "title": "Charlie Parr",
-   "category": [
-    "music"
-   ],
-   "where": "Higher Ground, South Burlington",
-   "miles": 55,
-   "range": "distant",
-   "cost": "$25-$30",
-   "source": "higherground",
-   "link": "https://wl.seetickets.us/event/charlie-parr/700433?afflky=HigherGround",
-   "link_kind": "event",
-   "image": "https://prod-images.seetickets.us/eyJidWNrZXQiOiJwcm9kLXNpaC5zZWV0aWNrZXRzdXNhLnVzIiwia2V5IjoiYjAzMDgwNmItMWY3Ny00OGZlLTlkODUtY2I1OWRhZjYyOTI1IiwiZWRpdHMiOnt9fQ==",
-   "desc": "Looking for Charlie Parr on November 19, 2026 with Charlie Parr, Maisy Owen",
-   "tickets": [
-    "https://wl.eventim.us/event/charlie-parr/700433"
-   ],
-   "town": "South Burlington",
-   "state": "VT",
-   "lat": 44.436,
-   "lon": -73.183,
-   "maps_q": "Higher Ground, South Burlington, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "8 pm-midnight",
-   "title": "After Hours at the Anderson",
-   "category": [
-    "social",
-    "music"
-   ],
-   "where": "Town Hall Theater, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "$5 cover",
-   "source": "addisonindependent",
-   "also": [
-    "addisonarts"
-   ],
-   "link": "https://addisonarts.org/event/after-hours-at-the-anderson/",
-   "link_kind": "event",
-   "image": "https://addisonarts.org/wp-content/uploads/sites/addisonarts.org/images/2026/10/event-featured-after-hours-at-the-anderson-1792682501-400x600.png",
-   "desc": "The Anderson Studio turns into a dance club for one night, with techno, hip-hop, and live visuals until midnight.",
-   "tickets": [],
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "Town Hall Theater, Middlebury, VT"
-  },
-  {
-   "time": "8:00 am",
-   "title": "Thursday morning meditation",
-   "where": "Rollins Chapel, Hanover, NH",
-   "link": "https://news.dartmouth.edu/events/event?event=82121",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Weekly meditation session at Rollins Chapel. Thursdays from 8-8:45 AM, open to all for guided practice and discussion.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17"
-   ],
-   "date": "2026-11-19",
-   "tickets": [],
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Rollins Chapel, Hanover, NH"
-  },
-  {
-   "time": "9:00 am",
-   "title": "Disaster Relief Quilting in Hanover",
-   "where": "Our Savior Lutheran Church, Hanover, NH",
-   "link": "https://oslchanover.org/quilting-schedule",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "Volunteers assemble simple quilts for those in need, with roles for sewists and non-sewists. Training and materials are provided.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/350afe81-a6d0-4000-ae66-4384f9dd4707.large.png",
-   "category": [
-    "crafts"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-17",
-    "2027-01-07"
-   ],
-   "date": "2026-11-19",
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Our Savior Lutheran Church, Hanover, NH"
-  },
-  {
-   "time": "9:00 am",
-   "title": "Listen Holiday Sale in Canaan, Lebanon & White River Junction",
-   "where": "Listen Thrift Stores, Lebanon, NH",
-   "link": "https://www.listencs.org/events",
-   "link_kind": "event",
-   "cost": "Free",
-   "desc": "A holiday sale at thrift stores in three Upper Valley towns, with a changing selection of goods and proceeds supporting local programs.",
-   "image": "https://citysparkstorage.blob.core.windows.net/portalimages/portalimages/x3B5L6HEKkKwYo6W4Iej0g.large.jpg",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "date": "2026-11-19",
-   "town": "Lebanon",
-   "state": "NH",
-   "lat": 43.635,
-   "lon": -72.254,
-   "maps_q": "Listen Thrift Stores, Lebanon, NH"
-  },
-  {
-   "date": "2026-11-19",
-   "time": "9:30-10:45 am",
-   "title": "Thursday Morning Yoga",
-   "category": [
-    "classes"
-   ],
-   "where": "Cornwall Town Hall, Cornwall",
-   "miles": 17,
-   "range": "local",
-   "cost": "Pay what works",
-   "source": "addisonindependent",
-   "link": "https://www.addisonindependent.com/calendar/",
-   "link_kind": "calendar",
-   "town": "Cornwall",
-   "state": "VT",
-   "lat": 43.963,
-   "lon": -73.218,
-   "maps_q": "Cornwall Town Hall, Cornwall, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "dates": [
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21"
-   ],
-   "time": "see link for exact showtimes",
-   "title": "Legally Blonde: The Musical",
-   "category": [
-    "theater"
-   ],
-   "where": "Mount Abraham Union Middle/High School, Bristol",
-   "miles": 26,
-   "range": "local",
-   "cost": "$15 adult / $12 senior & under 12",
-   "source": "addisonindependent",
-   "also": [
-    "vermontpublic"
-   ],
-   "link": "https://sites.google.com/view/mt-abraham-musical-theatre/home",
-   "link_kind": "event",
-   "image": "https://sites.google.com/sitesv-images-rt/APXyLQd6flJ7SOpYhh2v_QohQ0kY2WoZLWz8-QQk5vG6RQnYgoYHF-E_9OIDx6AaO2fmWQ5Jwd6s7A_iUBNjtISMgZdEytAel4CQbAK1ek_u_QOV5UoK9QGmmmBfxMX52ytb7h2g0WKnlK95uXD_B1vcIAamZrwVWpKrsFvYO1fxERBzWJpJRMz2L4h1KqETv8TAilnfgDc6RVfs4416ERfrY2sbsJAcNaCWXYkwiQ=w1280",
-   "desc": "Fall Musical 2024 Documentary by Cal Hopwood",
-   "videos": [
-    "https://youtu.be/fSDjbqFS3WM"
-   ],
-   "town": "Bristol",
-   "state": "VT",
-   "lat": 44.098,
-   "lon": -73.049,
-   "maps_q": "Mount Abraham Union Middle/High School, Bristol, VT"
-  },
-  {
-   "date": "2026-11-19",
-   "dates": [
-    "2026-11-19",
-    "2026-11-20",
-    "2026-11-21",
-    "2026-11-22",
-    "2026-11-24",
-    "2026-11-25",
-    "2026-11-27",
-    "2026-11-28",
-    "2026-11-29"
-   ],
-   "time": "varies by day, see link",
-   "title": "Ebenezer (final Sun 11/22)",
-   "category": [
-    "film"
-   ],
-   "where": "The Marquis, Middlebury",
-   "miles": 17,
-   "range": "local",
-   "cost": "",
-   "source": "marquis",
-   "link": "http://www.middleburymarquis.com/",
-   "link_kind": "calendar",
-   "town": "Middlebury",
-   "state": "VT",
-   "lat": 44.002,
-   "lon": -73.119,
-   "maps_q": "The Marquis, Middlebury, VT"
-  },
-  {
    "date": "2026-11-20",
    "time": "",
    "title": "Fatherland",
@@ -7471,6 +6349,8 @@
    "link": "https://thehowe.libcal.com/event/17310216",
    "link_kind": "event",
    "cost": "",
+   "desc": "We’ve got the bricks; you bring the creativity! The theme changes bi-weekly. Please leave your personal LEGO® sets at home. Registration is required for each session, and children must be five years...",
+   "image": "https://libapps.s3.amazonaws.com/customers/9095/images/lego.jpg",
    "category": [
     "classes",
     "children"
@@ -7789,32 +6669,6 @@
    "lat": 44.679,
    "lon": -72.233,
    "maps_q": "Theater for the New City, New York NY, Glover"
-  },
-  {
-   "time": "8:00 am",
-   "title": "Thursday morning meditation",
-   "where": "Rollins Chapel, Hanover, NH",
-   "link": "https://news.dartmouth.edu/events/event?event=82121",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Weekly meditation session at Rollins Chapel. Thursdays from 8-8:45 AM, open to all for guided practice and discussion.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17"
-   ],
-   "date": "2026-12-03",
-   "tickets": [],
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Rollins Chapel, Hanover, NH"
   },
   {
    "time": "9:00 am",
@@ -12246,32 +11100,6 @@
    "maps_q": "Higher Ground, South Burlington, VT"
   },
   {
-   "time": "8:00 am",
-   "title": "Thursday morning meditation",
-   "where": "Rollins Chapel, Hanover, NH",
-   "link": "https://news.dartmouth.edu/events/event?event=82121",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Weekly meditation session at Rollins Chapel. Thursdays from 8-8:45 AM, open to all for guided practice and discussion.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17"
-   ],
-   "date": "2026-12-10",
-   "tickets": [],
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Rollins Chapel, Hanover, NH"
-  },
-  {
    "time": "",
    "title": "Motivational Interviewing 2-Day workshop",
    "where": "Berry Library, Hanover, NH",
@@ -15098,32 +13926,6 @@
    "lat": 43.922,
    "lon": -72.611,
    "maps_q": "Chandler Center for the Arts, Randolph, VT"
-  },
-  {
-   "time": "8:00 am",
-   "title": "Thursday morning meditation",
-   "where": "Rollins Chapel, Hanover, NH",
-   "link": "https://news.dartmouth.edu/events/event?event=82121",
-   "link_kind": "event",
-   "cost": "",
-   "desc": "Weekly meditation session at Rollins Chapel. Thursdays from 8-8:45 AM, open to all for guided practice and discussion.",
-   "category": [
-    "social"
-   ],
-   "source": "valleynews",
-   "dates": [
-    "2026-11-19",
-    "2026-12-03",
-    "2026-12-10",
-    "2026-12-17"
-   ],
-   "date": "2026-12-17",
-   "tickets": [],
-   "town": "Hanover",
-   "state": "NH",
-   "lat": 43.721,
-   "lon": -72.185,
-   "maps_q": "Rollins Chapel, Hanover, NH"
   },
   {
    "time": "9:00 am",
@@ -19052,6 +17854,7 @@
    "link": "https://thehowe.libcal.com/event/17763345",
    "link_kind": "event",
    "cost": "",
+   "desc": "Join us for Howe@snorth, a vibrant monthly collaboration with Howe librarians and Still North Books & Bar, bringing adults together for an evening of fun, conversation, and creativity! Hosted at Still...",
    "image": "https://d68g328n4ug0e.cloudfront.net/data/feat_img/5761/16063/1763409326.jpeg",
    "category": [
     "social"
@@ -21019,6 +19822,27 @@
    "maps_q": "Middlebury Studio School, Middlebury, VT"
   },
   {
+   "title": "Thursday morning meditation",
+   "where": "Rollins Chapel, Hanover, NH",
+   "link": "https://news.dartmouth.edu/events/event?event=82121",
+   "link_kind": "event",
+   "cost": "",
+   "desc": "Weekly meditation session at Rollins Chapel. Thursdays from 8-8:45 AM, open to all for guided practice and discussion.",
+   "category": [
+    "social"
+   ],
+   "source": "valleynews",
+   "date": "",
+   "rec": "weekly",
+   "when": "Thursdays 8:00 am, through Dec 17",
+   "tickets": [],
+   "town": "Hanover",
+   "state": "NH",
+   "lat": 43.721,
+   "lon": -72.185,
+   "maps_q": "Rollins Chapel, Hanover, NH"
+  },
+  {
    "title": "Thursday Morning Wheel (clay)",
    "kind": "weekly",
    "when": "Thursdays, 10 am-12:30 pm, through Dec 17",
@@ -21294,7 +20118,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 11",
+   "when": "Nov 20 to Dec 11",
    "town": "Plainfield",
    "state": "NH",
    "lat": 43.544,
@@ -21315,7 +20139,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 31",
+   "when": "Nov 20 to Dec 31",
    "town": "Lyme",
    "state": "NH",
    "lat": 43.817,
@@ -21336,7 +20160,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 26",
+   "when": "Nov 20 to Dec 26",
    "town": "Lebanon",
    "state": "NH",
    "lat": 43.635,
@@ -21387,7 +20211,7 @@
   {
    "title": "Daily Fitness Classes at the Woodstock Athletic Club",
    "where": "Woodstock Athletic Club, Woodstock",
-   "link": "https://www.woodstockvt.com/event/daily-fitness-classes-at-the-woodstock-athletic-club/2026-11-19/",
+   "link": "https://www.woodstockvt.com/event/daily-fitness-classes-at-the-woodstock-athletic-club/2026-11-20/",
    "link_kind": "event",
    "cost": "",
    "desc": "@ Discover a fantastic range of daily fitness classes at the Woodstock Athletic Club! Hours of Operation Monday – Friday: 6:00am – 8:00pm Saturday – Sunday: 7:00am – 6:00pm Please call for more information: 802-457-6656 Use of the gym and…",
@@ -21398,7 +20222,7 @@
    "source": "woodstock",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 31",
+   "when": "Nov 20 to Dec 31",
    "town": "Woodstock",
    "state": "VT",
    "lat": 43.594,
@@ -21458,7 +20282,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Jan 14",
+   "when": "Dec 2 to Jan 14",
    "town": "Norwich",
    "state": "VT",
    "lat": 43.778,
@@ -21468,7 +20292,7 @@
   {
    "title": "Farm Fashion",
    "where": "Billings Farm & Museum, Woodstock",
-   "link": "https://www.woodstockvt.com/event/farm-fashion-2/2026-11-19/",
+   "link": "https://www.woodstockvt.com/event/farm-fashion-2/2026-11-20/",
    "link_kind": "event",
    "cost": "",
    "desc": "@ Explore how agricultural workwear shaped contemporary style. From function on the farm to runways, concert stages, and everyday wardrobes, discover how clothing built for work became fashion. Through historic and contemporary garments…",
@@ -21479,7 +20303,7 @@
    "source": "woodstock",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Jan 17",
+   "when": "Nov 20 to Jan 17",
    "town": "Woodstock",
    "state": "VT",
    "lat": 43.594,
@@ -21543,7 +20367,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 23",
+   "when": "Nov 20 to Dec 23",
    "town": "Newport",
    "state": "NH",
    "lat": 43.371,
@@ -21564,7 +20388,7 @@
    "source": "valleynews",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Jan 8",
+   "when": "Nov 26 to Jan 8",
    "town": "Hanover",
    "state": "NH",
    "lat": 43.721,
@@ -21635,7 +20459,7 @@
   {
    "title": "Small Works Gallery Exhibit",
    "where": "Artistree Community Arts Center, South Pomfret",
-   "link": "https://www.woodstockvt.com/event/small-works-opening-reception-2/2026-11-19/",
+   "link": "https://www.woodstockvt.com/event/small-works-opening-reception-2/2026-11-20/",
    "link_kind": "event",
    "cost": "Free",
    "desc": "@ Small Works is our annual holiday group show of size-restricted 2-D & 3-D artwork by local artists. Visitors will find paintings, prints, and mixed-media work 12″x12″ (or smaller), not including frames, and 3-D pieces no larger than 8″…",
@@ -21646,7 +20470,7 @@
    "source": "woodstock",
    "date": "",
    "rec": "ongoing",
-   "when": "Nov 19 to Dec 19",
+   "when": "Nov 20 to Dec 19",
    "town": "Woodstock",
    "state": "VT",
    "lat": 43.594,

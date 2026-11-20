@@ -11,7 +11,7 @@
     "theater"
    ],
    "url": "https://addisonarts.org/event/",
-   "events": 26
+   "events": 24
   },
   {
    "id": "addisonindependent",
@@ -24,7 +24,7 @@
     "talks"
    ],
    "url": "https://www.addisonindependent.com/calendar/",
-   "events": 114
+   "events": 107
   },
   {
    "id": "aleshire",
@@ -134,7 +134,7 @@
     "arts"
    ],
    "url": "https://www.catamountarts.org/shows-and-events/",
-   "events": 18
+   "events": 17
   },
   {
    "id": "chaffee",
@@ -182,7 +182,7 @@
     "talks"
    ],
    "url": "https://shakermuseum.org/events/",
-   "events": 13
+   "events": 12
   },
   {
    "id": "sheldon",
@@ -203,7 +203,7 @@
     "music"
    ],
    "url": "https://highergroundmusic.com/calendar/",
-   "events": 41
+   "events": 39
   },
   {
    "id": "howe",
@@ -216,7 +216,7 @@
     "art"
    ],
    "url": "https://thehowe.org/events/",
-   "events": 83
+   "events": 80
   },
   {
    "id": "ilsley",
@@ -240,7 +240,7 @@
     "outdoors"
    ],
    "url": "https://killington.com/events-calendar",
-   "events": 15
+   "events": 14
   },
   {
    "id": "lebanon",
@@ -252,7 +252,7 @@
     "film"
    ],
    "url": "https://lebanonoperahouse.org/calendar/",
-   "events": 12
+   "events": 11
   },
   {
    "id": "lincolnpeak",
@@ -295,7 +295,7 @@
     "talks"
    ],
    "url": "https://www.middlebury.edu/events",
-   "events": 24
+   "events": 23
   },
   {
    "id": "studioschool",
@@ -306,7 +306,7 @@
     "classes"
    ],
    "url": "https://middleburystudioschool.org/adult-art-classes/",
-   "events": 18
+   "events": 16
   },
   {
    "id": "minibury",
@@ -353,7 +353,7 @@
     "film"
    ],
    "url": "https://paramountvt.org/events-calendar/",
-   "events": 5
+   "events": 4
   },
   {
    "id": "photoplace",
@@ -460,7 +460,7 @@
     "film"
    ],
    "url": "http://www.middleburymarquis.com/",
-   "events": 10
+   "events": 8
   },
   {
    "id": "townhall",
@@ -486,7 +486,7 @@
     "outdoors"
    ],
    "url": "https://vnews.com/events/",
-   "events": 390
+   "events": 366
   },
   {
    "id": "valleystage",
@@ -513,7 +513,7 @@
     "outdoors"
    ],
    "url": "https://www.vermontpublic.org/vermont-events-calendar",
-   "events": 7
+   "events": 2
   },
   {
    "id": "vtstate",
@@ -526,7 +526,7 @@
     "talks"
    ],
    "url": "https://events.vermontstate.edu",
-   "events": 11
+   "events": 10
   },
   {
    "id": "waybury",
@@ -551,7 +551,7 @@
     "social"
    ],
    "url": "https://woodstockvt.com/events/",
-   "events": 33
+   "events": 31
   },
   {
    "id": "zenbarn",
@@ -561,7 +561,7 @@
     "music"
    ],
    "url": "https://www.zenbarnvt.com/calendar/",
-   "events": 17
+   "events": 15
   }
  ]
 }
