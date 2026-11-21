@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261128T193000
 DTEND;TZID=America/New_York:20261128T213000
 SUMMARY:Chin Ho!
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed. Listed as: 7:30 pm (doors 7)\nMore infor
- mation: https://wl.seetickets.us/event/chin-ho/698162?afflky=HigherGroun
- d
+DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
+ .us/event/chin-ho/698162?afflky=HigherGround
 URL:https://wl.seetickets.us/event/chin-ho/698162?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR

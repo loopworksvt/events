@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:6a31a8f0@events
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:American Doctor (Palestine-Israel Film Series)
+LOCATION:Savoy Theater\, Montpelier\, VT
+DESCRIPTION:More information: http://savoytheater.com/
+URL:http://savoytheater.com/
+END:VEVENT
+END:VCALENDAR

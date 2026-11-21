@@ -27,7 +27,7 @@ DTEND;TZID=America/New_York:20270109T203000
 SUMMARY:Farmhouse Dinner
 LOCATION:Blueberry Hill\, Goshen\, VT
 DESCRIPTION:End time not listed.\nMore information: https://www.blueberry
- hillinn.com/diningcalendar/
-URL:https://www.blueberryhillinn.com/diningcalendar/
+ hillinn.com/diningcalendar
+URL:https://www.blueberryhillinn.com/diningcalendar
 END:VEVENT
 END:VCALENDAR

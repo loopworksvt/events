@@ -26,7 +26,8 @@ DTSTART;TZID=America/New_York:20261121T100000
 DTEND;TZID=America/New_York:20261121T130000
 SUMMARY:Community Toy Swap
 LOCATION:Burnham Hall\, Lincoln\, VT
-DESCRIPTION:More information: https://www.facebook.com/share/1LfBe49SZ1/
-URL:https://www.facebook.com/share/1LfBe49SZ1/
+DESCRIPTION:More information: https://minibury.com/event/community-toy-sw
+ ap/
+URL:https://minibury.com/event/community-toy-swap/
 END:VEVENT
 END:VCALENDAR

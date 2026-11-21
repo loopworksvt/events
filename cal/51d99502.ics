@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:51d99502@events
+DTSTAMP:20270117T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:American Red Cross Blood Drive
+LOCATION:Killington Grand Hotel\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar
+URL:https://killington.com/events-calendar
+END:VEVENT
+END:VCALENDAR

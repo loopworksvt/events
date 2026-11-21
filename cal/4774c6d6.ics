@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4774c6d6@events
+DTSTAMP:20261128T000000Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:HERoic Panel & Movie Screening
+LOCATION:Snowshed Lodge\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar
+URL:https://killington.com/events-calendar
+END:VEVENT
+END:VCALENDAR

@@ -26,9 +26,9 @@ DTSTART;TZID=America/New_York:20261204T200000
 DTEND;TZID=America/New_York:20261204T220000
 SUMMARY:Vermont Comedy Festival Presents Rachel Feinstein
 LOCATION:Chandler Center for the Arts\, Randolph\, VT
-DESCRIPTION:End time not listed.\nMore information: https://tickets.chand
- ler-arts.org/events/chandlercenterforthearts/2406771
-URL:https://tickets.chandler-arts.org/events/chandlercenterforthearts/240
- 6771
+DESCRIPTION:End time not listed.\nMore information: https://www.chandler-
+ arts.org/cca-events/vermont-comedy-festival-presents-rachel-feinstein
+URL:https://www.chandler-arts.org/cca-events/vermont-comedy-festival-pres
+ ents-rachel-feinstein
 END:VEVENT
 END:VCALENDAR

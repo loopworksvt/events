@@ -23,11 +23,10 @@ BEGIN:VEVENT
 UID:a0b6c25@events
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=America/New_York:20261128T140000
-DTEND;TZID=America/New_York:20261128T160000
+DTEND;TZID=America/New_York:20261128T150000
 SUMMARY:Infinite Circle Community: Integration Circle
-DESCRIPTION:End time not listed.\nMore information: https://breadloafmoun
- tainzen.org/event/infinite-circle-community-integration-circle-3-2/2026-
- 11-28/
+DESCRIPTION:More information: https://breadloafmountainzen.org/event/infi
+ nite-circle-community-integration-circle-3-2/2026-11-28/
 URL:https://breadloafmountainzen.org/event/infinite-circle-community-inte
  gration-circle-3-2/2026-11-28/
 END:VEVENT

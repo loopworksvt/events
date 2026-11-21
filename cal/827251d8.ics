@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:827251d8@events
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=America/New_York:20261128T090000
-DTEND;TZID=America/New_York:20261128T110000
+DTEND;TZID=America/New_York:20261128T150000
 SUMMARY:Med47 Foundation Holiday Shoppe & Craft Fair
 LOCATION:New Haven Town Hall\, New Haven\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
+DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+ /
 URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR

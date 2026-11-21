@@ -23,11 +23,10 @@ BEGIN:VEVENT
 UID:2cf1185d@events
 DTSTAMP:20261128T000000Z
 DTSTART;TZID=America/New_York:20261128T100000
-DTEND;TZID=America/New_York:20261128T120000
+DTEND;TZID=America/New_York:20261128T150000
 SUMMARY:4th Annual Holley Jolly Market
 LOCATION:Holley Hall\, Bristol\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.mtngrlstu
- dio.com/holleyjolly
+DESCRIPTION:More information: https://www.mtngrlstudio.com/holleyjolly
 URL:https://www.mtngrlstudio.com/holleyjolly
 END:VEVENT
 END:VCALENDAR

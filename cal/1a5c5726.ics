@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261211T190000
 DTEND;TZID=America/New_York:20261211T210000
 SUMMARY:TRSH
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed. Listed as: 7 pm (doors 6:30)\nMore infor
- mation: https://wl.seetickets.us/event/trsh/701251?afflky=HigherGround
+DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
+ .us/event/trsh/701251?afflky=HigherGround
 URL:https://wl.seetickets.us/event/trsh/701251?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:cddbf7a@events
+DTSTAMP:20261230T000000Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Ben & Jerry's Ice Cream Social
+LOCATION:Snowshed Lodge and Ramshead Lodge\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar
+URL:https://killington.com/events-calendar
+END:VEVENT
+END:VCALENDAR

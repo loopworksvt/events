@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:5899f0ff@events
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:What's The Point: Live with Mikaela Shiffrin
+LOCATION:Kona Big Wave Stage\, Killington\, VT
+DESCRIPTION:More information: https://killington.com/events-calendar
+URL:https://killington.com/events-calendar
+END:VEVENT
+END:VCALENDAR

@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261212T100000
 DTEND;TZID=America/New_York:20261212T160000
 SUMMARY:Sheldon Museum Holiday Open House
 LOCATION:Henry Sheldon Museum\, Middlebury\, VT
-DESCRIPTION:More information: https://henrysheldonmuseum.org/events/holid
- ay-open-house
-URL:https://henrysheldonmuseum.org/events/holiday-open-house
+DESCRIPTION:More information: https://www.henrysheldonmuseum.org/events/h
+ oliday-open-house
+URL:https://www.henrysheldonmuseum.org/events/holiday-open-house
 END:VEVENT
 END:VCALENDAR

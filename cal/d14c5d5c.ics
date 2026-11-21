@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:d14c5d5c@events
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:The Airways Belonged to the People
+LOCATION:Catamount Arts\, St. Johnsbury\, VT
+DESCRIPTION:More information: https://www.catamountarts.org/shows-and-eve
+ nts/
+URL:https://www.catamountarts.org/shows-and-events/
+END:VEVENT
+END:VCALENDAR

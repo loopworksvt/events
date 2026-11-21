@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261207T200000
 DTEND;TZID=America/New_York:20261207T220000
 SUMMARY:Bit Brigade
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7:30)\nMore infor
- mation: https://wl.seetickets.us/event/bit-brigade/706074?afflky=HigherG
- round
+DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
+ .us/event/bit-brigade/706074?afflky=HigherGround
 URL:https://wl.seetickets.us/event/bit-brigade/706074?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR

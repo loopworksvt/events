@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:5fd102ae@events
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:VSO: Holiday Pops
+LOCATION:Paramount Theatre\, Rutland\, VT
+DESCRIPTION:More information: https://paramountvt.org/event/vso-holiday-p
+ ops-6/
+URL:https://paramountvt.org/event/vso-holiday-pops-6/
+END:VEVENT
+END:VCALENDAR

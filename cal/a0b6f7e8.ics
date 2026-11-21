@@ -26,9 +26,9 @@ DTSTART;TZID=America/New_York:20270102T193000
 DTEND;TZID=America/New_York:20270102T213000
 SUMMARY:The Seamus Egan Project
 LOCATION:Burnham Hall\, Lincoln\, VT
-DESCRIPTION:End time not listed. Listed as: 7:30 pm (doors 7)\nMore infor
- mation: https://www.burnhampresents.org/event-details/the-seamus-egan-pr
- oject
+DESCRIPTION:End time not listed. Listed as: 7:30 pm (doors 7 pm)\nMore in
+ formation: https://www.burnhampresents.org/event-details/the-seamus-egan
+ -project
 URL:https://www.burnhampresents.org/event-details/the-seamus-egan-project
 END:VEVENT
 END:VCALENDAR

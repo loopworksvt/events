@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:a57a7946@events
+DTSTAMP:20261220T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:New York Theatre Ballet: The Nutcracker
+LOCATION:Lebanon Opera House\, Lebanon NH
+DESCRIPTION:Time listed as: 5 pm & 7:30 pm\nMore information: https://leb
+ anonoperahouse.org/events/nytb-nutcracker/
+URL:https://lebanonoperahouse.org/events/nytb-nutcracker/
+END:VEVENT
+END:VCALENDAR

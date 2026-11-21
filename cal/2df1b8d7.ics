@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:2df1b8d7@events
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Met Opera: Samson et Dalila (Saint-Saëns)
+LOCATION:Paramount Theatre\, Rutland\, VT
+DESCRIPTION:More information: https://paramountvt.org/event/met-opera-sam
+ son-et-dalila-saint-saens/
+URL:https://paramountvt.org/event/met-opera-samson-et-dalila-saint-saens/
+END:VEVENT
+END:VCALENDAR

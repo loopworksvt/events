@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261127T200000
 DTEND;TZID=America/New_York:20261127T220000
 SUMMARY:House of Sparkle
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed. Listed as: 8 pm (doors 7:30)\nMore infor
- mation: https://wl.seetickets.us/event/house-of-sparkle/706833?afflky=Hi
- gherGround
+DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
+ .us/event/house-of-sparkle/706833?afflky=HigherGround
 URL:https://wl.seetickets.us/event/house-of-sparkle/706833?afflky=HigherG
  round
 END:VEVENT

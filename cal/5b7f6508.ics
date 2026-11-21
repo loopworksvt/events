@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:5b7f6508@events
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Great Art Wednesday Screening: “Four Rational People”
+LOCATION:Town Hall Theater\, Middlebury\, VT
+DESCRIPTION:Time listed as: 11 am or 2 pm\nMore information: https://www.
+ addisonindependent.com/calendar/
+URL:https://www.addisonindependent.com/calendar/
+END:VEVENT
+END:VCALENDAR

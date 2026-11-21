@@ -26,9 +26,8 @@ DTSTART;TZID=America/New_York:20261205T200000
 DTEND;TZID=America/New_York:20261205T220000
 SUMMARY:BIOMYTH
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed. Listed as: 8 pm (18+\, doors 7:30)\nMore
-  information: https://wl.seetickets.us/event/biomyth/706973?afflky=Highe
- rGround
+DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
+ .us/event/biomyth/706973?afflky=HigherGround
 URL:https://wl.seetickets.us/event/biomyth/706973?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR
