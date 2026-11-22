@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261205T100000
 DTEND;TZID=America/New_York:20261205T120000
 SUMMARY:Bixby Holiday Stroll
 LOCATION:Bixby Memorial Free Library\, Vergennes\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
+ event/bixby-holiday-stroll/
+URL:https://minibury.com/event/bixby-holiday-stroll/
 END:VEVENT
 END:VCALENDAR

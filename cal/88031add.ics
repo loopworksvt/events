@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261129T193000
 DTEND;TZID=America/New_York:20261129T213000
 SUMMARY:Nate Smith
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed.\nMore information: https://wl.seetickets
- .us/event/nate-smith/698484?afflky=HigherGround
-URL:https://wl.seetickets.us/event/nate-smith/698484?afflky=HigherGround
+DESCRIPTION:End time not listed. Listed as: doors 7:00PM\, show 7:30PM\nM
+ ore information: https://highergroundmusic.com/events/nate-smith/
+URL:https://highergroundmusic.com/events/nate-smith/
 END:VEVENT
 END:VCALENDAR

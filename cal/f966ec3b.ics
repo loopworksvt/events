@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:f966ec3b@events
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Stories & Crafts: Animal Antics!
+LOCATION:Fletcher Free Library\, Burlington\, VT
+DESCRIPTION:More information: https://www.vermontpublic.org/vermont-event
+ s-calendar/event/stories-amp-crafts-animal-antics-04-09-2026-22-52-27
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/stories-a
+ mp-crafts-animal-antics-04-09-2026-22-52-27
+END:VEVENT
+END:VCALENDAR

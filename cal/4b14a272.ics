@@ -9,7 +9,8 @@ DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Land: I Saw and I Didn't See
 LOCATION:Savoy Theater\, Montpelier\, VT
-DESCRIPTION:More information: http://savoytheater.com/
-URL:http://savoytheater.com/
+DESCRIPTION:More information: https://savoytheater.com/movies/land-i-saw-
+ and-i-didnt-see/
+URL:https://savoytheater.com/movies/land-i-saw-and-i-didnt-see/
 END:VEVENT
 END:VCALENDAR

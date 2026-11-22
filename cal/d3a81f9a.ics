@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:d3a81f9a@events
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:NAZA
+LOCATION:Savoy Theater\, Montpelier\, VT
+DESCRIPTION:More information: https://savoytheater.com/movies/naza/
+URL:https://savoytheater.com/movies/naza/
+END:VEVENT
+END:VCALENDAR

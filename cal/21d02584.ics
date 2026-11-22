@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:21d02584@events
+DTSTAMP:20261208T000000Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Rohatsu Sesshin: Eight Days of Practice Together
+LOCATION:Bread Loaf Mountain Zen Community (online & commuter participati
+ on)\, Middlebury\, VT
+DESCRIPTION:Time listed as: starts 5:30pm\, ends 11:00am\nMore informatio
+ n: https://www.breadloafmountainzen.org/calendar/
+URL:https://www.breadloafmountainzen.org/calendar/
+END:VEVENT
+END:VCALENDAR

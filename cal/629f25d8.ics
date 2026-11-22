@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:629f25d8@events
+DTSTAMP:20261122T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Kinhaven Semester Program Concert
+LOCATION:Cathedral Church of St. Paul\, Burlington\, VT
+DESCRIPTION:More information: https://www.vermontpublic.org/vermont-event
+ s-calendar/event/kinhaven-semester-program-concert-02-11-2026-19-18-49
+URL:https://www.vermontpublic.org/vermont-events-calendar/event/kinhaven-
+ semester-program-concert-02-11-2026-19-18-49
+END:VEVENT
+END:VCALENDAR

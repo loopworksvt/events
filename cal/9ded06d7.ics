@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:9ded06d7@events
 DTSTAMP:20261212T000000Z
 DTSTART;TZID=America/New_York:20261212T090000
-DTEND;TZID=America/New_York:20261212T120000
+DTEND;TZID=America/New_York:20261212T110000
 SUMMARY:Santa at Maple Landmark
 LOCATION:Maple Landmark\, Middlebury\, VT
-DESCRIPTION:More information: https://minibury.com/event/santa-at-maple-l
- andmark/
+DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
+ event/santa-at-maple-landmark/
 URL:https://minibury.com/event/santa-at-maple-landmark/
 END:VEVENT
 END:VCALENDAR

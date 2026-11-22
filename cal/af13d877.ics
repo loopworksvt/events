@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261218T190000
 DTEND;TZID=America/New_York:20261218T210000
 SUMMARY:Honky Tonk Christmas!
 LOCATION:Seven Stars Arts Center\, Sharon\, VT
-DESCRIPTION:End time not listed. Listed as: 7:00 pm (doors 6:30)\nMore in
- formation: https://www.sevenstarsarts.org/concertsevents.html
+DESCRIPTION:End time not listed. Listed as: 7PM\, doors 6:30PM\nMore info
+ rmation: https://www.sevenstarsarts.org/concertsevents.html
 URL:https://www.sevenstarsarts.org/concertsevents.html
 END:VEVENT
 END:VCALENDAR

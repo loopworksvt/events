@@ -27,8 +27,6 @@ DTEND;TZID=America/New_York:20261126T160000
 SUMMARY:CVUUS Thanksgiving Dinner & Games
 LOCATION:Fellowship Hall\, Champlain Valley Unitarian Universalist Societ
  y\, 2 Duane Court\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.cvuus.org
- /events/
-URL:https://www.cvuus.org/events/
+DESCRIPTION:End time not listed.
 END:VEVENT
 END:VCALENDAR
