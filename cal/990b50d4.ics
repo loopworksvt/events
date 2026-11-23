@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261212T120000
 DTEND;TZID=America/New_York:20261212T170000
 SUMMARY:A Vision of Bethlehem
 LOCATION:St. Mary's Church\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://minibury.com/event/a-vision-of-beth
+ lehem/
+URL:https://minibury.com/event/a-vision-of-bethlehem/
 END:VEVENT
 END:VCALENDAR

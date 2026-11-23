@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261208T193000
 DTEND;TZID=America/New_York:20261208T213000
 SUMMARY:Composers in Concert
 LOCATION:Mahaney Arts Center\, Robison Concert Hall\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://www.middlebury.edu/events/event/com
+ posers-concert-1
+URL:https://www.middlebury.edu/events/event/composers-concert-1
 END:VEVENT
 END:VCALENDAR

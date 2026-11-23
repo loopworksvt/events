@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:56d28903@events
+DTSTAMP:20261212T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:42nd Annual Wassail Weekend
+LOCATION:Woodstock Inn & Resort\, Woodstock\, VT
+DESCRIPTION:More information: https://www.woodstockinn.com/do/events/42nd
+ -annual-wassail-weekend
+URL:https://www.woodstockinn.com/do/events/42nd-annual-wassail-weekend
+END:VEVENT
+END:VCALENDAR

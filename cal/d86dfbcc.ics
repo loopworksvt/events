@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261212T193000
 DTEND;TZID=America/New_York:20261212T210000
 SUMMARY:December Vocal Concert
 LOCATION:Mahaney Arts Center\, Robison Concert Hall\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://www.middlebury.edu/events/event/dec
+ ember-vocal-concert-3
+URL:https://www.middlebury.edu/events/event/december-vocal-concert-3
 END:VEVENT
 END:VCALENDAR

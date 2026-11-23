@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
 SUMMARY:Middlebury Wind Ensemble Concert
 LOCATION:Mahaney Arts Center\, Robison Concert Hall\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://www.middlebury.edu/events/event/mid
+ dlebury-community-wind-ensemble-1
+URL:https://www.middlebury.edu/events/event/middlebury-community-wind-ens
+ emble-1
 END:VEVENT
 END:VCALENDAR

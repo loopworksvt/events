@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20270110T130000
 DTEND;TZID=America/New_York:20270110T150000
 SUMMARY:Shape Note Singing
 LOCATION:McCullough Center Mitchell Green Lounge\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://www.middlebury.edu/events/event/sha
+ pe-note-singing-33
+URL:https://www.middlebury.edu/events/event/shape-note-singing-33
 END:VEVENT
 END:VCALENDAR

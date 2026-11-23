@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:edf6f742@events
 DTSTAMP:20261206T000000Z
 DTSTART;TZID=America/New_York:20261206T143000
-DTEND;TZID=America/New_York:20261206T163000
+DTEND;TZID=America/New_York:20261206T153000
 SUMMARY:Toys for Kids Holiday Train: Middlebury
 LOCATION:Middlebury Amtrak Station\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
- event/toys-for-kids-holiday-train-middlebury-2/
+DESCRIPTION:More information: https://minibury.com/event/toys-for-kids-ho
+ liday-train-middlebury-2/
 URL:https://minibury.com/event/toys-for-kids-holiday-train-middlebury-2/
 END:VEVENT
 END:VCALENDAR

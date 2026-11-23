@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:d5cb4bd3@events
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=America/New_York:20261205T100000
-DTEND;TZID=America/New_York:20261205T120000
+DTEND;TZID=America/New_York:20261205T170000
 SUMMARY:Orwell Holiday Market
 LOCATION:Stanhope Pottery\, Orwell\, VT
-DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
- event/orwell-holiday-market/
+DESCRIPTION:More information: https://minibury.com/event/orwell-holiday-m
+ arket/
 URL:https://minibury.com/event/orwell-holiday-market/
 END:VEVENT
 END:VCALENDAR

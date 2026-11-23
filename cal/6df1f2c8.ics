@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261205T090000
 DTEND;TZID=America/New_York:20261205T150000
 SUMMARY:Christmas Bazaar
 LOCATION:Bristol Federated Church\, Bristol\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+DESCRIPTION:More information: https://minibury.com/event/christmas-bazaar
  /
-URL:https://www.addisonindependent.com/calendar/
+URL:https://minibury.com/event/christmas-bazaar/
 END:VEVENT
 END:VCALENDAR

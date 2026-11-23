@@ -26,8 +26,7 @@ DTSTART;TZID=America/New_York:20261205T130000
 DTEND;TZID=America/New_York:20261205T150000
 SUMMARY:Crafternoon
 LOCATION:Brandon Free Public Library\, 4 Franklin Street\, Brandon\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://minibury.com/event/crafternoon-2/
+URL:https://minibury.com/event/crafternoon-2/
 END:VEVENT
 END:VCALENDAR
