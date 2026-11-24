@@ -115,6 +115,18 @@
    "events": 0
   },
   {
+   "id": "burlingtoncityarts",
+   "name": "Burlington City Arts",
+   "town": "Burlington",
+   "kinds": [
+    "arts",
+    "classes",
+    "talks"
+   ],
+   "url": "https://www.burlingtoncityarts.org/events",
+   "events": 0
+  },
+  {
    "id": "burnham",
    "name": "Burnham Presents, Lincoln",
    "town": "Lincoln",
@@ -240,18 +252,6 @@
     "outdoors"
    ],
    "url": "https://killington.com/events-calendar",
-   "events": 0
-  },
-  {
-   "id": "lebanon",
-   "name": "Lebanon Opera House, NH",
-   "town": "Lebanon, NH",
-   "kinds": [
-    "music",
-    "theater",
-    "film"
-   ],
-   "url": "https://lebanonoperahouse.org/calendar/",
    "events": 0
   },
   {
@@ -398,16 +398,6 @@
    "events": 0
   },
   {
-   "id": "sevenstars",
-   "name": "Seven Stars Arts Center, Sharon",
-   "town": "Sharon",
-   "kinds": [
-    "music"
-   ],
-   "url": "https://www.sevenstarsarts.org/concertsevents.html",
-   "events": 0
-  },
-  {
    "id": "silentfilm",
    "name": "Silent films with live music",
    "town": "Brandon and New England towns",
@@ -498,6 +488,16 @@
    ],
    "url": "http://www.valleystageproductions.com/",
    "events": 1
+  },
+  {
+   "id": "vtcomedy",
+   "name": "Vermont Comedy Club, Burlington",
+   "town": "Burlington",
+   "kinds": [
+    "comedy"
+   ],
+   "url": "https://www.vermontcomedyclub.com",
+   "events": 0
   },
   {
    "id": "vermontpublic",
