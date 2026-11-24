@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T210000
 SUMMARY:Fall Dance Concert
 LOCATION:Mahaney Arts Center\, Middlebury College\, Middlebury\, VT
-DESCRIPTION:More information: https://www.middlebury.edu/events/event/fal
- l-dance-concert-10
-URL:https://www.middlebury.edu/events/event/fall-dance-concert-10
+DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+ /
+URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR

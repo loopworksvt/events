@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:d3b44753@events
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Kitchen Dwellers
+LOCATION:Higher Ground\, South Burlington\, VT
+DESCRIPTION:Time listed as: 8:00pm & midnight\nMore information: https://
+ highergroundmusic.com/calendar/
+URL:https://highergroundmusic.com/calendar/
+END:VEVENT
+END:VCALENDAR

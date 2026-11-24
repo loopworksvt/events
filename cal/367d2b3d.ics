@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261218T193000
 DTEND;TZID=America/New_York:20261218T213000
 SUMMARY:The Choir of Clare College\, Cambridge
 LOCATION:St. Stephen's Episcopal Church\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://addisonarts.o
+ rg/event/the-choir-of-clare-college-cambridge/
+URL:https://addisonarts.org/event/the-choir-of-clare-college-cambridge/
 END:VEVENT
 END:VCALENDAR

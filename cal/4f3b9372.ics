@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4f3b9372@events
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Burlington Illuminated
+LOCATION:Downtown and the Waterfront\, Burlington\, VT
+DESCRIPTION:More information: https://www.burlingtoncityarts.org/event/bu
+ rlington-illuminated
+URL:https://www.burlingtoncityarts.org/event/burlington-illuminated
+END:VEVENT
+END:VCALENDAR

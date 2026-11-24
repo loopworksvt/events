@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:7ee7d8bd@events
+DTSTAMP:20270108T000000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:Burlington Illuminated: Arecibo's Message
+LOCATION:150 Church St\, Burlington\, VT
+DESCRIPTION:More information: https://www.burlingtoncityarts.org/event/bu
+ rlington-illuminated-arecibos-message
+URL:https://www.burlingtoncityarts.org/event/burlington-illuminated-areci
+ bos-message
+END:VEVENT
+END:VCALENDAR

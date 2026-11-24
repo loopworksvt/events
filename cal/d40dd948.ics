@@ -23,12 +23,11 @@ BEGIN:VEVENT
 UID:d40dd948@events
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=America/New_York:20261204T103000
-DTEND;TZID=America/New_York:20261204T123000
+DTEND;TZID=America/New_York:20261204T113000
 SUMMARY:Family Music Party: Festival of Lights Party
 LOCATION:Middlebury Community Music Center\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
- event/family-music-party-festival-of-lights-party/
-URL:https://minibury.com/event/family-music-party-festival-of-lights-part
- y/
+DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+ /
+URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR

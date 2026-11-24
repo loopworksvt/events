@@ -26,7 +26,8 @@ DTSTART;TZID=America/New_York:20261205T160000
 DTEND;TZID=America/New_York:20261205T200000
 SUMMARY:Kids' Night Out
 LOCATION:New Haven Congregational Church\, New Haven\, VT
-DESCRIPTION:More information: https://minibury.com/event/kids-night-out/
-URL:https://minibury.com/event/kids-night-out/
+DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+ /
+URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR

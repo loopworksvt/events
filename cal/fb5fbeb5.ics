@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:fb5fbeb5@events
+DTSTAMP:20270123T000000Z
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:ART by Yasmina Reza (closing)
+LOCATION:Hepburn Zoo\, Middlebury\, VT
+DESCRIPTION:Time listed as: 2:00 pm & 7:30 pm\nMore information: https://
+ www.middlebury.edu/events/event/art-yasmina-reza-1
+URL:https://www.middlebury.edu/events/event/art-yasmina-reza-1
+END:VEVENT
+END:VCALENDAR

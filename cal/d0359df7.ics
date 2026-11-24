@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
 SUMMARY:Tony Trischka's Holiday Show: Of a Winter's Night
 LOCATION:Town Hall Theater\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://addisonarts.o
+ rg/event/tony-trischkas-holiday-show-of-a-winters-night/
+URL:https://addisonarts.org/event/tony-trischkas-holiday-show-of-a-winter
+ s-night/
 END:VEVENT
 END:VCALENDAR

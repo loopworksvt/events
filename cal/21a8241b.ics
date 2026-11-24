@@ -26,8 +26,8 @@ DTSTART;TZID=America/New_York:20261205T193000
 DTEND;TZID=America/New_York:20261205T213000
 SUMMARY:Goethe's "Urfaust"
 LOCATION:Middlebury College Hepburn Zoo\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.middlebur
- y.edu/events/event/j-w-goethe-urfaust
-URL:https://www.middlebury.edu/events/event/j-w-goethe-urfaust
+DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
+ dependent.com/calendar/
+URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR

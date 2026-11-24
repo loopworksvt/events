@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:29936662@events
+DTSTAMP:20270101T000000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:Mystic Dead: Through the Ages – The '60s & '70s
+LOCATION:ZenBarn\, Waterbury Center\, VT
+DESCRIPTION:Time listed as: 7:00pm & midnight\nMore information: https://
+ www.zenbarnvt.com/event/mystic-dead-through-the-ages-the-60s-70s-january
+ -1-2027/
+URL:https://www.zenbarnvt.com/event/mystic-dead-through-the-ages-the-60s-
+ 70s-january-1-2027/
+END:VEVENT
+END:VCALENDAR

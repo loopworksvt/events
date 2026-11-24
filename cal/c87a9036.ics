@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:c87a9036@events
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:"Quiet Landscape: Beauty\, Stillness\, and Connection" (photo sho
+ w)
+LOCATION:PhotoPlace Gallery\, Middlebury\, VT
+DESCRIPTION:Time listed as: opened Nov 6\, through late Nov\nMore informa
+ tion: https://www.photoplacegallery.com/online-juried-shows
+URL:https://www.photoplacegallery.com/online-juried-shows
+END:VEVENT
+END:VCALENDAR

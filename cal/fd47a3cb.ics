@@ -26,7 +26,8 @@ DTSTART;TZID=America/New_York:20261204T170000
 DTEND;TZID=America/New_York:20261204T200000
 SUMMARY:Chocolate Walk with Bristol CORE
 LOCATION:Downtown Bristol\, Bristol\, VT
-DESCRIPTION:More information: https://minibury.com/event/chocolate-walk/
-URL:https://minibury.com/event/chocolate-walk/
+DESCRIPTION:More information: https://www.addisonindependent.com/calendar
+ /
+URL:https://www.addisonindependent.com/calendar/
 END:VEVENT
 END:VCALENDAR
