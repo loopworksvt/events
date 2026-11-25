@@ -26,8 +26,10 @@ DTSTART;TZID=America/New_York:20261211T193000
 DTEND;TZID=America/New_York:20261211T213000
 SUMMARY:Dead Sessions
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed.\nMore information: https://highergroundm
- usic.com/calendar/
-URL:https://highergroundmusic.com/calendar/
+DESCRIPTION:End time not listed. Listed as: doors 6:30\, show 7:30\nMore 
+ information: https://wl.seetickets.us/event/dead-sessions/710806?afflky=
+ HigherGround
+URL:https://wl.seetickets.us/event/dead-sessions/710806?afflky=HigherGrou
+ nd
 END:VEVENT
 END:VCALENDAR

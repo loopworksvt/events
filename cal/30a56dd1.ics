@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:30a56dd1@events
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Night Fires
+LOCATION:Town Hall Theater\, Middlebury\, VT
+DESCRIPTION:Time listed as: varies\nMore information: https://addisonarts
+ .org/event/night-fires-3/
+URL:https://addisonarts.org/event/night-fires-3/
+END:VEVENT
+END:VCALENDAR

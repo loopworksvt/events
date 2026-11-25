@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261204T193000
 DTEND;TZID=America/New_York:20261204T213000
 SUMMARY:lespecial
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed.\nMore information: https://highergroundm
- usic.com/calendar/
-URL:https://highergroundmusic.com/calendar/
+DESCRIPTION:End time not listed. Listed as: doors 7 pm\, show 7:30 pm\nMo
+ re information: https://wl.seetickets.us/event/lespecial/702921?afflky=H
+ igherGround
+URL:https://wl.seetickets.us/event/lespecial/702921?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR

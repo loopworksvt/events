@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:efa8b07c@events
+DTSTAMP:20270124T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:The Adventures of Harold and the Purple Crayon — Enchantment Thea
+ tre Company
+LOCATION:Barre Opera House\, Barre\, VT
+DESCRIPTION:Time listed as: not listed\nMore information: https://barreop
+ erahouse.org/shows/
+URL:https://barreoperahouse.org/shows/
+END:VEVENT
+END:VCALENDAR

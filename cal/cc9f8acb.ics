@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:cc9f8acb@events
+DTSTAMP:20270122T000000Z
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:Vermont Burlesque Festival's 2027 Granite City Showcase "Fire & I
+ ce"
+LOCATION:Barre Opera House\, Barre\, VT
+DESCRIPTION:Time listed as: not listed\nMore information: https://barreop
+ erahouse.org/shows/
+URL:https://barreoperahouse.org/shows/
+END:VEVENT
+END:VCALENDAR

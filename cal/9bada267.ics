@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:9bada267@events
 DTSTAMP:20261204T000000Z
 DTSTART;TZID=America/New_York:20261204T173000
-DTEND;TZID=America/New_York:20261204T200000
+DTEND;TZID=America/New_York:20261204T193000
 SUMMARY:Chanukah Shabbat
 LOCATION:Havurah House\, Middlebury\, VT
-DESCRIPTION:More information: https://www.addisonindependent.com/calendar
- /
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://minibury.com/
+ event/chanukah-shabbat/
+URL:https://minibury.com/event/chanukah-shabbat/
 END:VEVENT
 END:VCALENDAR

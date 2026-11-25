@@ -26,8 +26,7 @@ DTSTART;TZID=America/New_York:20261210T160000
 DTEND;TZID=America/New_York:20261210T190000
 SUMMARY:Annual Winter Village Outdoor Holiday Market
 LOCATION:Green Park\, Brandon\, VT
-DESCRIPTION:Listed as: 4-7 pm (Thu-Sun)\nMore information: http://www.bra
- ndon.org
+DESCRIPTION:More information: http://www.brandon.org
 URL:http://www.brandon.org
 END:VEVENT
 END:VCALENDAR

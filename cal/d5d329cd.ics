@@ -23,13 +23,12 @@ BEGIN:VEVENT
 UID:d5d329cd@events
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=America/New_York:20261203T181500
-DTEND;TZID=America/New_York:20261203T201500
+DTEND;TZID=America/New_York:20261203T191500
 SUMMARY:Pre-Concert Lecture by Larry Hamberlin: Sophie Shao and Friends
 LOCATION:Mahaney Arts Center 125\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.middlebur
- y.edu/events/event/pre-concert-lecture-larry-hamberlin-sophie-shao-and-f
- riends
-URL:https://www.middlebury.edu/events/event/pre-concert-lecture-larry-ham
- berlin-sophie-shao-and-friends
+DESCRIPTION:More information: https://addisonarts.org/event/pre-concert-l
+ ecture-by-larry-hamberlin-sophie-shao-and-friends/
+URL:https://addisonarts.org/event/pre-concert-lecture-by-larry-hamberlin-
+ sophie-shao-and-friends/
 END:VEVENT
 END:VCALENDAR

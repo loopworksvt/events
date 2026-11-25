@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:575275b1@events
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Michelob ULTRA Ski Bum Registration Party
+LOCATION:JAX Food & Games\, Killington\, VT
+DESCRIPTION:Time listed as: not stated\nMore information: https://killing
+ ton.com/ski-bum-registration-party
+URL:https://killington.com/ski-bum-registration-party
+END:VEVENT
+END:VCALENDAR

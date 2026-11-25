@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4be6a31e@events
+DTSTAMP:20270124T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:USASA Northern Vermont Series Slopestyle
+LOCATION:Ramshead Base Area\, Killington\, VT
+DESCRIPTION:Time listed as: not stated\nMore information: https://killing
+ ton.com/usasa-slopestyle
+URL:https://killington.com/usasa-slopestyle
+END:VEVENT
+END:VCALENDAR

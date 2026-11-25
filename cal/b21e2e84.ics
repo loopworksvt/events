@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:b21e2e84@events
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:Vermont Holiday Festival
+LOCATION:Killington Grand Hotel\, Killington\, VT
+DESCRIPTION:Time listed as: not stated\nMore information: https://killing
+ ton.com/vermont-holiday-festival
+URL:https://killington.com/vermont-holiday-festival
+END:VEVENT
+END:VCALENDAR

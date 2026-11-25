@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261128T193000
 DTEND;TZID=America/New_York:20261128T213000
 SUMMARY:Dead Set: A Celebration of the Grateful Dead
 LOCATION:Town Hall Theater\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:End time not listed.\nMore information: https://addisonarts.o
+ rg/event/dead-set-a-celebration-of-the-grateful-dead/
+URL:https://addisonarts.org/event/dead-set-a-celebration-of-the-grateful-
+ dead/
 END:VEVENT
 END:VCALENDAR

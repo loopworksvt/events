@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:85cd34bd@events
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:KMS x Great Gulf World Cup Party
+LOCATION:The Foundry\, Killington\, VT
+DESCRIPTION:Time listed as: not stated\nMore information: https://killing
+ ton.com/kms-great-gulf-wc-party
+URL:https://killington.com/kms-great-gulf-wc-party
+END:VEVENT
+END:VCALENDAR

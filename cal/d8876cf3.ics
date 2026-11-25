@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20270114T200000
 DTEND;TZID=America/New_York:20270114T220000
 SUMMARY:Grace Potter and The Trespassers
 LOCATION:Paramount Theatre\, Rutland\, VT
-DESCRIPTION:End time not listed.\nMore information: https://paramountvt.o
- rg/event/grace-potter-2/
-URL:https://paramountvt.org/event/grace-potter-2/
+DESCRIPTION:End time not listed. Listed as: 8:00 pm (doors 7)\nMore infor
+ mation: https://ci.ovationtix.com/TheParamountTheatre/performance/118880
+ 60
+URL:https://ci.ovationtix.com/TheParamountTheatre/performance/11888060
 END:VEVENT
 END:VCALENDAR

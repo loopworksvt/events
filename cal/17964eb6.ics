@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:17964eb6@events
+DTSTAMP:20261129T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:OCM's Youth Opera Co - Brave Little State
+LOCATION:Lost Nation Theater\, Montpelier\, VT
+DESCRIPTION:More information: https://www.ocmvermont.org/youth-opera
+URL:https://www.ocmvermont.org/youth-opera
+END:VEVENT
+END:VCALENDAR

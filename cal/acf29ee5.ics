@@ -26,8 +26,10 @@ DTSTART;TZID=America/New_York:20261206T193000
 DTEND;TZID=America/New_York:20261206T213000
 SUMMARY:Tall Heights
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed.\nMore information: https://highergroundm
- usic.com/calendar/
-URL:https://highergroundmusic.com/calendar/
+DESCRIPTION:End time not listed. Listed as: doors 7 pm\, show 7:30 pm\nMo
+ re information: https://wl.seetickets.us/event/tall-heights/705735?afflk
+ y=HigherGround
+URL:https://wl.seetickets.us/event/tall-heights/705735?afflky=HigherGroun
+ d
 END:VEVENT
 END:VCALENDAR

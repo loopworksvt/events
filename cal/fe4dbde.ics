@@ -26,8 +26,9 @@ DTSTART;TZID=America/New_York:20261216T193000
 DTEND;TZID=America/New_York:20261216T213000
 SUMMARY:Piebald
 LOCATION:Higher Ground\, South Burlington\, VT
-DESCRIPTION:End time not listed.\nMore information: https://highergroundm
- usic.com/calendar/
-URL:https://highergroundmusic.com/calendar/
+DESCRIPTION:End time not listed. Listed as: doors 7 pm\, show 7:30 pm\nMo
+ re information: https://wl.seetickets.us/event/piebald/710846?afflky=Hig
+ herGround
+URL:https://wl.seetickets.us/event/piebald/710846?afflky=HigherGround
 END:VEVENT
 END:VCALENDAR

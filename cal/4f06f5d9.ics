@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:4f06f5d9@events
+DTSTAMP:20261220T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:Green Mountain Nutcracker presented by Moving Light Dance Co.
+LOCATION:Barre Opera House\, Barre\, VT
+DESCRIPTION:Time listed as: not listed\nMore information: https://barreop
+ erahouse.org/shows/
+URL:https://barreoperahouse.org/shows/
+END:VEVENT
+END:VCALENDAR

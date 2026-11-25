@@ -23,11 +23,11 @@ BEGIN:VEVENT
 UID:3fedab51@events
 DTSTAMP:20261202T000000Z
 DTSTART;TZID=America/New_York:20261202T193000
-DTEND;TZID=America/New_York:20261202T213000
+DTEND;TZID=America/New_York:20261202T210000
 SUMMARY:Sound Investment Jazz Ensemble
 LOCATION:Mahaney Arts Center\, Robison Concert Hall\, Middlebury\, VT
-DESCRIPTION:End time not listed.\nMore information: https://www.addisonin
- dependent.com/calendar/
-URL:https://www.addisonindependent.com/calendar/
+DESCRIPTION:More information: https://addisonarts.org/event/middlebury-ja
+ zz-ensemble/
+URL:https://addisonarts.org/event/middlebury-jazz-ensemble/
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1e202340@events
+DTSTAMP:20261201T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Independent Study (December)
+LOCATION:Middlebury Studio School\, Middlebury\, VT
+DESCRIPTION:Time listed as: monthly\nMore information: https://middlebury
+ studioschool.corsizio.com/event/6ab542873cfe5ea72038de34
+URL:https://middleburystudioschool.corsizio.com/event/6ab542873cfe5ea7203
+ 8de34
+END:VEVENT
+END:VCALENDAR

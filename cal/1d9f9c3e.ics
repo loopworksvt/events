@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:1d9f9c3e@events
+DTSTAMP:20270115T000000Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Kids' Corner Holiday Activities
+LOCATION:Snowshed Lodge\, Killington\, VT
+DESCRIPTION:Time listed as: not stated\nMore information: https://killing
+ ton.com/christmas-kids-corner-holiday-activities
+URL:https://killington.com/christmas-kids-corner-holiday-activities
+END:VEVENT
+END:VCALENDAR

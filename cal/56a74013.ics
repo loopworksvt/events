@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Events//Calendar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:56a74013@events
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:The Only Living Pickpocket in New York
+LOCATION:Savoy Theater\, Montpelier\, VT
+DESCRIPTION:Time listed as: not listed\nMore information: http://savoythe
+ ater.com/
+URL:http://savoytheater.com/
+END:VEVENT
+END:VCALENDAR
